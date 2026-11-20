@@ -1,0 +1,12 @@
+node_modules/
+dist/
+coverage/
+.DS_Store
+*.log
+# The Instituto Cervantes manual PDF lives here locally; never committed.
+manual/*
+!manual/.gitkeep
+
+# Raw map data (Natural Earth), used only by scripts/buildMap.ts.
+mapdata/*
+!mapdata/.gitkeep

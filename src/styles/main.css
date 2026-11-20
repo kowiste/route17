@@ -1,0 +1,217 @@
+@import 'tailwindcss';
+/* The pixel font: titles, labels, buttons and the HUD. Latin covers Spanish (ñ, á, ¿, ¡). */
+@import '@fontsource/pixelify-sans/latin-400.css';
+@import '@fontsource/pixelify-sans/latin-600.css';
+@import './theme.css';
+
+/* Tailwind names for the theme tokens (theme.css). */
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-alt: var(--surface-alt);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-frame: var(--frame);
+  --color-shadow: var(--shadow);
+  --color-shade: var(--shade);
+  --color-primary: var(--primary);
+  --color-primary-ink: var(--primary-ink);
+  --color-accent: var(--accent);
+  --color-accent-ink: var(--accent-ink);
+  --color-sign: var(--sign);
+  --color-sign-ink: var(--sign-ink);
+  --color-correct: var(--correct);
+  --color-correct-ink: var(--correct-ink);
+  --color-wrong: var(--wrong);
+  --color-wrong-ink: var(--wrong-ink);
+  --color-selected: var(--selected);
+  --color-selected-ink: var(--selected-ink);
+  --color-safe: var(--safe);
+  --color-safe-ink: var(--safe-ink);
+  --color-lcd: var(--lcd);
+  --color-lcd-ink: var(--lcd-ink);
+  --color-focus: var(--focus);
+}
+
+/*
+ * The pointing hand on everything clickable. Tailwind 4 leaves buttons with
+ * the default arrow; a component that must not show the hand (a locked answer)
+ * overrides it with a utility class such as `disabled:cursor-default`.
+ */
+@layer base {
+  button:not(:disabled),
+  [role='button']:not([aria-disabled='true']),
+  a[href],
+  label[for],
+  select:not(:disabled),
+  input[type='checkbox']:not(:disabled),
+  input[type='radio']:not(:disabled) {
+    cursor: pointer;
+  }
+}
+
+/*
+ * Fonts and animations. `font-pixel` for titles, labels, buttons and the HUD;
+ * `font-read` (the default) for question text, options and explanations.
+ * Animations move in whole steps, like old consoles; use them with
+ * `motion-safe:` so reduced motion keeps everything still.
+ */
+@theme {
+  --font-pixel: 'Pixelify Sans', ui-monospace, 'Courier New', monospace;
+  --font-read: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+
+  --animate-blink: blink 1s steps(1, end) infinite;
+  --animate-rise: rise 0.6s steps(6, end) both;
+  --animate-ring: ring 0.4s steps(1, end) infinite;
+  --animate-pop-in: pop-in 0.18s steps(3, end) both;
+
+  @keyframes blink {
+    50% {
+      opacity: 0;
+    }
+  }
+  @keyframes rise {
+    from {
+      transform: scaleY(0);
+    }
+  }
+  @keyframes ring {
+    0% {
+      transform: translateX(calc(var(--pixel) * -1));
+    }
+    50% {
+      transform: translateX(var(--pixel));
+    }
+  }
+  @keyframes pop-in {
+    from {
+      transform: translateY(calc(var(--pixel) * 4));
+      opacity: 0;
+    }
+  }
+}
+
+/* One pixel of the UI's pixel art: the frame width and the step of every corner. */
+:root {
+  --pixel: 3px;
+}
+
+@media (min-width: 48rem) {
+  :root {
+    --pixel: 4px;
+  }
+}
+
+/* Two-step pixel corners: the outline of a box. Put the frame colour on it. */
+@utility pixel-corners {
+  clip-path: polygon(
+    0 calc(var(--pixel) * 2),
+    var(--pixel) calc(var(--pixel) * 2),
+    var(--pixel) var(--pixel),
+    calc(var(--pixel) * 2) var(--pixel),
+    calc(var(--pixel) * 2) 0,
+    calc(100% - var(--pixel) * 2) 0,
+    calc(100% - var(--pixel) * 2) var(--pixel),
+    calc(100% - var(--pixel)) var(--pixel),
+    calc(100% - var(--pixel)) calc(var(--pixel) * 2),
+    100% calc(var(--pixel) * 2),
+    100% calc(100% - var(--pixel) * 2),
+    calc(100% - var(--pixel)) calc(100% - var(--pixel) * 2),
+    calc(100% - var(--pixel)) calc(100% - var(--pixel)),
+    calc(100% - var(--pixel) * 2) calc(100% - var(--pixel)),
+    calc(100% - var(--pixel) * 2) 100%,
+    calc(var(--pixel) * 2) 100%,
+    calc(var(--pixel) * 2) calc(100% - var(--pixel)),
+    var(--pixel) calc(100% - var(--pixel)),
+    var(--pixel) calc(100% - var(--pixel) * 2),
+    0 calc(100% - var(--pixel) * 2)
+  );
+}
+
+/* One-step pixel corners: the fill inside a `pixel-corners` frame with `p-(--pixel)`. */
+@utility pixel-corners-inner {
+  clip-path: polygon(
+    0 var(--pixel),
+    var(--pixel) var(--pixel),
+    var(--pixel) 0,
+    calc(100% - var(--pixel)) 0,
+    calc(100% - var(--pixel)) var(--pixel),
+    100% var(--pixel),
+    100% calc(100% - var(--pixel)),
+    calc(100% - var(--pixel)) calc(100% - var(--pixel)),
+    calc(100% - var(--pixel)) 100%,
+    var(--pixel) 100%,
+    var(--pixel) calc(100% - var(--pixel)),
+    0 calc(100% - var(--pixel))
+  );
+}
+
+/* The hard shadow under a box; put it on an element around the clipped frame. */
+@utility pixel-shadow {
+  filter: drop-shadow(var(--pixel) var(--pixel) 0 var(--shadow));
+}
+
+/* The darker bottom edge of a button's face. */
+@utility pixel-bevel {
+  box-shadow: inset 0 calc(var(--pixel) * -1) 0 0 color-mix(in srgb, var(--shade) 30%, transparent);
+}
+
+/* Big pixel lettering: an outline in the frame colour and a hard shadow. */
+@utility pixel-text-outline {
+  text-shadow:
+    calc(var(--pixel) * -1) 0 0 var(--frame),
+    var(--pixel) 0 0 var(--frame),
+    0 calc(var(--pixel) * -1) 0 var(--frame),
+    0 var(--pixel) 0 var(--frame),
+    calc(var(--pixel) * -1) calc(var(--pixel) * -1) 0 var(--frame),
+    var(--pixel) calc(var(--pixel) * -1) 0 var(--frame),
+    calc(var(--pixel) * -1) var(--pixel) 0 var(--frame),
+    var(--pixel) var(--pixel) 0 var(--frame),
+    calc(var(--pixel) * 2) calc(var(--pixel) * 2) 0 var(--shadow);
+}
+
+/* A strip of road: asphalt with yellow dashes. */
+@utility pixel-road {
+  background:
+    linear-gradient(90deg, var(--accent) 50%, transparent 0) center / calc(var(--pixel) * 8)
+      var(--pixel) repeat-x,
+    var(--road);
+}
+
+/*
+ * Figures (points, percentages, stop numbers). The pixel font's 5 reads like
+ * an S, so figures use the readable font, bold, with digits of equal width.
+ */
+@utility hud-number {
+  font-family: var(--font-read);
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+/* Gaps every 10 %, laid over a meter so it fills in blocks. */
+@utility pixel-ticks {
+  background-image: repeating-linear-gradient(
+    90deg,
+    transparent 0 calc(10% - var(--pixel)),
+    var(--surface-alt) calc(10% - var(--pixel)) 10%
+  );
+}
+
+html,
+body {
+  background: var(--bg);
+  color: var(--ink);
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  min-height: 100dvh;
+  font-family: var(--font-read);
+}
+
+:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 2px;
+}

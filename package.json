@@ -1,0 +1,53 @@
+{
+  "name": "route17",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Route 17: a quiz-show game to prepare the CCSE (Spanish nationality test)",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "vue-tsc --noEmit",
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix .",
+    "format": "prettier --no-error-on-unmatched-pattern --write \"src/**/*.{ts,vue,css}\" \"scripts/**/*.ts\" \"questions/**/*.json\"",
+    "format:check": "prettier --no-error-on-unmatched-pattern --check \"src/**/*.{ts,vue,css}\" \"scripts/**/*.ts\" \"questions/**/*.json\"",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "check": "pnpm typecheck && pnpm lint && pnpm format:check && pnpm test",
+    "hooks": "git config core.hooksPath .githooks",
+    "extract:official": "node --experimental-strip-types scripts/extractOfficial.ts",
+    "build:map": "node --experimental-strip-types scripts/buildMap.ts"
+  },
+  "dependencies": {
+    "@fontsource/pixelify-sans": "^5.3.0",
+    "pinia": "^4.0.3",
+    "vue": "^3.5.43",
+    "vue-router": "^5.4.0",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/node": "^22.20.5",
+    "@typescript-eslint/eslint-plugin": "^8.71.1",
+    "@typescript-eslint/parser": "^8.71.1",
+    "@vitejs/plugin-vue": "^6.0.9",
+    "@vue/test-utils": "^2.5.1",
+    "@vue/tsconfig": "^0.9.1",
+    "eslint": "^10.12.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-prettier": "^5.5.6",
+    "eslint-plugin-vue": "^10.11.1",
+    "happy-dom": "^20.14.6",
+    "pdfjs-dist": "^6.5.438",
+    "prettier": "^3.9.9",
+    "tailwindcss": "^4.3.3",
+    "typescript": "~6.0.3",
+    "vite": "^8.3.4",
+    "vitest": "^5.0.3",
+    "vue-eslint-parser": "^10.4.1",
+    "vue-tsc": "^3.3.12"
+  }
+}

@@ -1,0 +1,418 @@
+[
+  {
+    "id": "g-t3-001",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "Pista: es el número de este juego. ¿Cuántas comunidades autónomas tiene España?",
+    "options": ["15", "17", "19"],
+    "answer": 1,
+    "explanation": "España tiene 17 comunidades autónomas y, además, 2 ciudades autónomas: Ceuta y Melilla.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t3-002",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "Botas puestas: ¿cuál es el pico más alto de España?",
+    "options": ["El Mulhacén", "El Teide", "El Aneto"],
+    "answer": 1,
+    "explanation": "El Teide, en la isla de Tenerife (Canarias), mide unos 3.715 metros y es el pico más alto de España. El Mulhacén, en Sierra Nevada, es el más alto de la península.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t3-003",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "Parada doble en el mapa: ¿qué son Ceuta y Melilla?",
+    "options": [
+      "Dos provincias de Andalucía",
+      "Dos comunidades autónomas",
+      "Dos ciudades autónomas"
+    ],
+    "answer": 2,
+    "explanation": "Ceuta y Melilla son las dos ciudades autónomas de España. Tienen Estatuto de Autonomía propio desde 1995, pero no son comunidades autónomas.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t3-004",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "Para completar el mapa: ¿en cuántas provincias se divide España?",
+    "options": ["47", "50", "52"],
+    "answer": 1,
+    "explanation": "España tiene 50 provincias, agrupadas en comunidades autónomas. Ceuta y Melilla son ciudades autónomas, no provincias.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t3-005",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "Si vas de punta a punta, llena el depósito: ¿cuál es la comunidad autónoma más extensa de España?",
+    "options": ["Castilla y León", "Andalucía", "Castilla-La Mancha"],
+    "answer": 0,
+    "explanation": "Castilla y León, con unos 94.000 km², es la comunidad autónoma más grande. También es la que tiene más provincias: nueve.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t3-006",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "Una comunidad, una provincia: ¿cuál de estas comunidades autónomas tiene una sola provincia?",
+    "options": ["Aragón", "Galicia", "La Rioja"],
+    "answer": 2,
+    "explanation": "Hay siete comunidades uniprovinciales: Asturias, Cantabria, Illes Balears, La Rioja, Comunidad de Madrid, Región de Murcia y Navarra. Aragón tiene tres provincias y Galicia, cuatro.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t3-007",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "Cada comunidad tiene su «manual de instrucciones». ¿Cómo se llama su norma institucional básica?",
+    "options": ["La Carta Magna", "La Ley de Bases", "El Estatuto de Autonomía"],
+    "answer": 2,
+    "explanation": "Cada comunidad autónoma tiene su Estatuto de Autonomía, que las Cortes Generales aprueban como ley orgánica. En él se fijan su nombre, sus instituciones y sus competencias.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t3-008",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "Directo al sur: ¿cuál es la capital de Andalucía?",
+    "options": ["Granada", "Sevilla", "Málaga"],
+    "answer": 1,
+    "explanation": "Sevilla es la capital de Andalucía y la sede de la Junta. Andalucía tiene ocho provincias: Almería, Cádiz, Córdoba, Granada, Huelva, Jaén, Málaga y Sevilla.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t3-009",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "Rumbo al noroeste: ¿cuál es la capital de Galicia?",
+    "options": ["A Coruña", "Santiago de Compostela", "Vigo"],
+    "answer": 1,
+    "explanation": "Santiago de Compostela es la capital de Galicia y la sede de la Xunta. Galicia tiene cuatro provincias: A Coruña, Lugo, Ourense y Pontevedra.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t3-010",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "Tierra de dehesas y jamón: ¿cuál es la capital de Extremadura?",
+    "options": ["Cáceres", "Badajoz", "Mérida"],
+    "answer": 2,
+    "explanation": "Mérida es la capital de Extremadura y la sede de la Junta. Las dos provincias extremeñas son Cáceres y Badajoz.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t3-011",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "Parada en Euskadi: ¿en qué ciudad tienen su sede el Parlamento y el Gobierno Vasco?",
+    "options": ["Vitoria-Gasteiz", "Bilbao", "Donostia-San Sebastián"],
+    "answer": 0,
+    "explanation": "Vitoria-Gasteiz, en Álava, es la sede de las instituciones comunes del País Vasco. Las tres provincias vascas son Álava, Bizkaia y Gipuzkoa.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t3-012",
+    "topic": "territorio",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? La única capital de Canarias es Las Palmas de Gran Canaria.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "El Estatuto de Autonomía de Canarias reparte la capitalidad entre Las Palmas de Gran Canaria y Santa Cruz de Tenerife. Son también las capitales de las dos provincias canarias.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t3-013",
+    "topic": "territorio",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? La capital de la Región de Murcia es Murcia, pero su Asamblea Regional está en Cartagena.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "El Estatuto de Autonomía de la Región de Murcia fija la capital en Murcia y la sede de la Asamblea Regional, su parlamento, en Cartagena.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t3-014",
+    "topic": "territorio",
+    "type": "trueFalse",
+    "question": "Entre montañas y sidra: ¿verdadero o falso? El nombre oficial de Asturias es Principado de Asturias.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "Asturias es el Principado de Asturias. Por eso el heredero o la heredera de la Corona lleva el título de príncipe o princesa de Asturias.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t3-015",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "Parada en la huerta: en la Comunitat Valenciana, además del castellano, ¿qué lengua es oficial?",
+    "options": ["El valenciano", "El aranés", "El asturiano"],
+    "answer": 0,
+    "explanation": "El Estatuto de Autonomía de la Comunitat Valenciana reconoce el valenciano como lengua oficial, junto al castellano.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t3-016",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "Mapa en mano: según el artículo 137 de la Constitución, ¿cómo se organiza territorialmente el Estado?",
+    "options": [
+      "En regiones, departamentos y cantones",
+      "En estados federados y condados",
+      "En municipios, provincias y comunidades autónomas"
+    ],
+    "answer": 2,
+    "explanation": "El artículo 137 dice que el Estado se organiza territorialmente en municipios, en provincias y en las comunidades autónomas que se constituyan. Todas estas entidades tienen autonomía para gestionar sus propios intereses.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t3-017",
+    "topic": "territorio",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? El euskera es lengua oficial en el País Vasco y también en la zona vascófona de Navarra.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "En el País Vasco el euskera es cooficial en todo el territorio. En Navarra, la Ley Foral del Vascuence de 1986 lo hace cooficial en la zona vascófona, en el norte de la comunidad.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t3-018",
+    "topic": "territorio",
+    "type": "trueFalse",
+    "question": "Ensaimada en mano: ¿verdadero o falso? Palma, la capital de las Illes Balears, está en la isla de Mallorca.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "Palma, en Mallorca, la isla más grande del archipiélago, es la capital de las Illes Balears. Su Estatuto de Autonomía la fija como sede del Parlamento y del Gobierno.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t3-019",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "Saludamos a la basílica del Pilar desde el puente: ¿qué río pasa por Zaragoza?",
+    "options": ["El Duero", "El Ebro", "El Tajo"],
+    "answer": 1,
+    "explanation": "El Ebro cruza Zaragoza, la capital de Aragón. Es el río más largo de los que discurren enteros por España.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t3-020",
+    "topic": "territorio",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? El Ebro desemboca en el mar Cantábrico.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "El Ebro nace en Fontibre (Cantabria), muy cerca del Cantábrico, pero cruza la península hacia el este y desemboca en el Mediterráneo, donde forma el delta del Ebro (Tarragona).",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t3-021",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "Río de Toledo y de Lisboa: ¿cuál es el río más largo de la península ibérica?",
+    "options": ["El Tajo", "El Guadiana", "El Duero"],
+    "answer": 0,
+    "explanation": "El Tajo mide alrededor de 1.000 km. Nace en la sierra de Albarracín (Teruel), pasa por Aranjuez y Toledo y desemboca en el Atlántico, en Lisboa.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t3-022",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "Paseo en barco junto a la Torre del Oro: ¿qué río cruza Sevilla?",
+    "options": ["El Guadiana", "El Segura", "El Guadalquivir"],
+    "answer": 2,
+    "explanation": "El Guadalquivir nace en la sierra de Cazorla (Jaén), pasa por Córdoba y Sevilla y desemboca en el Atlántico, en Sanlúcar de Barrameda. Es navegable hasta Sevilla.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t3-023",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "Ruta del vino por Castilla y León: ¿qué río cruza la Meseta norte y desemboca en Oporto?",
+    "options": ["El Duero", "El Miño", "El Ebro"],
+    "answer": 0,
+    "explanation": "El Duero nace en los Picos de Urbión (Soria) y atraviesa Castilla y León. En Portugal se llama Douro y desemboca en el Atlántico, en Oporto.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t3-024",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "Frontera con vistas: en su último tramo, ¿qué río separa Galicia de Portugal?",
+    "options": ["El Guadiana", "El Miño", "El Duero"],
+    "answer": 1,
+    "explanation": "El Miño nace en la provincia de Lugo y pasa por Lugo y Ourense. En su tramo final hace de frontera con Portugal hasta llegar al Atlántico.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t3-025",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "Última curva antes del Atlántico: ¿qué río desemboca entre Ayamonte (Huelva) y Portugal?",
+    "options": ["El Guadalquivir", "El Tinto", "El Guadiana"],
+    "answer": 2,
+    "explanation": "El Guadiana cruza Castilla-La Mancha y Extremadura, pasa por Mérida y Badajoz y en su tramo final hace de frontera con Portugal.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t3-026",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "Al norte, una muralla de montañas: ¿qué cordillera hace de frontera con Francia?",
+    "options": ["Los Pirineos", "La cordillera Cantábrica", "El Sistema Ibérico"],
+    "answer": 0,
+    "explanation": "Los Pirineos van del Cantábrico al Mediterráneo y separan España de Francia y de Andorra. Su pico más alto es el Aneto (3.404 m), en Huesca.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t3-027",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "Los Picos de Europa se reparten entre tres comunidades autónomas. ¿Cuáles?",
+    "options": [
+      "Galicia, Asturias y Cantabria",
+      "Asturias, Cantabria y Castilla y León",
+      "Cantabria, País Vasco y Navarra"
+    ],
+    "answer": 1,
+    "explanation": "Los Picos de Europa están en la cordillera Cantábrica, entre Asturias, Cantabria y la provincia de León. Su parque nacional nació en 1918 como Parque Nacional de la Montaña de Covadonga, el primero de España.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t3-028",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "Gredos y Guadarrama forman parte de una cordillera que parte la Meseta en dos. ¿Cuál es?",
+    "options": ["El Sistema Ibérico", "Sierra Morena", "El Sistema Central"],
+    "answer": 2,
+    "explanation": "El Sistema Central separa la Submeseta norte de la Submeseta sur. Su pico más alto es el Almanzor, de unos 2.590 m, en la sierra de Gredos.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t3-029",
+    "topic": "territorio",
+    "type": "trueFalse",
+    "question": "Desde la cima de España: ¿verdadero o falso? El Teide es un volcán.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "El Teide, en Tenerife, es un volcán. Su parque nacional es Patrimonio de la Humanidad desde 2007.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t3-030",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "Olas frías y prados verdes: ¿qué mar baña las costas de Asturias, Cantabria y el País Vasco?",
+    "options": ["El mar Mediterráneo", "El mar Cantábrico", "El mar del Norte"],
+    "answer": 1,
+    "explanation": "El mar Cantábrico baña la costa norte de la península, de Galicia hasta Francia. Forma parte del océano Atlántico.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t3-031",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "Toalla y sombrilla: si te dicen «Costa del Sol», ¿a qué provincia vas?",
+    "options": ["Alicante", "Girona", "Málaga"],
+    "answer": 2,
+    "explanation": "La Costa del Sol es el litoral de la provincia de Málaga. La Costa Brava está en Girona y la Costa Blanca, en Alicante.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t3-032",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "Hay un intruso en el archipiélago: ¿cuál de estas islas NO es de las Illes Balears?",
+    "options": ["Lanzarote", "Menorca", "Formentera"],
+    "answer": 0,
+    "explanation": "Las islas Baleares principales son Mallorca, Menorca, Ibiza y Formentera, en el Mediterráneo. Lanzarote es una de las islas Canarias.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t3-033",
+    "topic": "territorio",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? Las islas Canarias están en el mar Mediterráneo.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "Las Canarias son un archipiélago volcánico del océano Atlántico, frente a la costa noroeste de África. Las islas españolas del Mediterráneo son las Baleares.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t3-034",
+    "topic": "territorio",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? Canarias tiene ocho islas habitadas, y la octava, reconocida en 2018, es La Graciosa.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "La reforma del Estatuto de Autonomía de Canarias de 2018 reconoce La Graciosa, al norte de Lanzarote, como isla. Las otras siete son Tenerife, Gran Canaria, Lanzarote, Fuerteventura, La Palma, La Gomera y El Hierro.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t3-035",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "De norte a sur por «la Raya»: ¿con qué país tiene España su frontera terrestre más larga?",
+    "options": ["Francia", "Portugal", "Andorra"],
+    "answer": 1,
+    "explanation": "La frontera con Portugal, conocida como «la Raya», mide unos 1.200 km. La de Francia, a lo largo de los Pirineos, es mucho más corta.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t3-036",
+    "topic": "territorio",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? Ceuta y Melilla están en la península ibérica.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "Ceuta y Melilla están en el norte de África y tienen frontera terrestre con Marruecos.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t3-037",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "Paraguas en la maleta: ¿qué clima tienen Galicia, Asturias y Cantabria?",
+    "options": [
+      "Oceánico, con lluvias durante todo el año",
+      "Mediterráneo, con veranos muy secos",
+      "Subtropical, cálido todo el año"
+    ],
+    "answer": 0,
+    "explanation": "El norte de la península tiene clima oceánico: temperaturas suaves y lluvias repartidas a lo largo del año. Por eso se le llama «la España verde».",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t3-038",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "Prismáticos listos para ver aves: ¿en qué comunidad autónoma está el Parque Nacional de Doñana?",
+    "options": ["Extremadura", "Comunitat Valenciana", "Andalucía"],
+    "answer": 2,
+    "explanation": "Doñana está en Andalucía, sobre todo en la provincia de Huelva. Sus marismas son refugio de miles de aves y es Patrimonio de la Humanidad desde 1994.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t3-039",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "Volcanes a la vista: ¿en qué isla está el Parque Nacional de Timanfaya?",
+    "options": ["Lanzarote", "Mallorca", "La Gomera"],
+    "answer": 0,
+    "explanation": "Timanfaya, en Lanzarote, protege un paisaje volcánico formado sobre todo en las erupciones de 1730 a 1736. Allí están las Montañas del Fuego.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t3-040",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "Botas de montaña otra vez: ¿en qué provincia está el Parque Nacional de Ordesa y Monte Perdido?",
+    "options": ["Huesca", "Girona", "Navarra"],
+    "answer": 0,
+    "explanation": "Ordesa y Monte Perdido está en el Pirineo de Huesca, en Aragón. Se creó en 1918, el mismo año que el de Covadonga (hoy Picos de Europa): son los dos parques nacionales más antiguos de España.",
+    "difficulty": 3
+  }
+]

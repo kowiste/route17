@@ -1,0 +1,494 @@
+[
+  {
+    "id": "g-t2-001",
+    "topic": "derechos",
+    "type": "choice",
+    "question": "Soplas las velas y ya eres mayor de edad en España. ¿Cuántas velas tiene la tarta?",
+    "options": ["16", "18", "21"],
+    "answer": 1,
+    "explanation": "El artículo 12 de la Constitución dice que los españoles son mayores de edad a los 18 años.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t2-002",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? En España la enseñanza básica es obligatoria y gratuita.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "Lo dice el artículo 27 de la Constitución: la enseñanza básica es obligatoria y gratuita.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t2-003",
+    "topic": "derechos",
+    "type": "choice",
+    "question": "¿Qué dice el artículo 14 de la Constitución sobre los españoles?",
+    "options": [
+      "Que son iguales ante la ley, sin discriminación por nacimiento, raza, sexo, religión, opinión u otra circunstancia",
+      "Que son iguales solo si han nacido en España",
+      "Que sus derechos dependen de la comunidad autónoma donde viven"
+    ],
+    "answer": 0,
+    "explanation": "El artículo 14 proclama la igualdad ante la ley y prohíbe cualquier discriminación por nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t2-004",
+    "topic": "derechos",
+    "type": "choice",
+    "question": "¿Existe la pena de muerte en España?",
+    "options": [
+      "Sí, para los delitos más graves",
+      "No, está abolida",
+      "Solo la pueden imponer los tribunales militares en tiempo de paz"
+    ],
+    "answer": 1,
+    "explanation": "El artículo 15 abolió la pena de muerte, salvo lo que dispusieran las leyes penales militares para tiempos de guerra. En 1995 una ley orgánica la suprimió también en tiempo de guerra.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t2-005",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? La Constitución prohíbe la tortura y las penas o tratos inhumanos o degradantes.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "El artículo 15 reconoce el derecho a la vida y a la integridad física y moral, y prohíbe en todo caso la tortura y las penas o tratos inhumanos o degradantes.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t2-006",
+    "topic": "derechos",
+    "type": "choice",
+    "question": "¿Cuál es la religión oficial del Estado español?",
+    "options": [
+      "La católica",
+      "Ninguna: el Estado es aconfesional",
+      "La que elija cada comunidad autónoma"
+    ],
+    "answer": 1,
+    "explanation": "El artículo 16.3 dice que ninguna confesión tendrá carácter estatal. Los poderes públicos tienen en cuenta las creencias religiosas y cooperan con la Iglesia católica y las demás confesiones.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t2-007",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? Nadie puede ser obligado a declarar su ideología, su religión o sus creencias.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "Lo garantiza el artículo 16.2, dentro de la libertad ideológica, religiosa y de culto.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t2-008",
+    "topic": "derechos",
+    "type": "choice",
+    "question": "¿Cuánto puede durar como máximo una detención preventiva antes de que la persona quede en libertad o pase a disposición del juez?",
+    "options": ["24 horas", "48 horas", "72 horas"],
+    "answer": 2,
+    "explanation": "El artículo 17.2 dice que la detención no puede durar más del tiempo estrictamente necesario y, como máximo, 72 horas. Después, la persona debe quedar libre o a disposición judicial.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t2-009",
+    "topic": "derechos",
+    "type": "choice",
+    "question": "Según la Constitución, ¿qué derecho tiene toda persona detenida?",
+    "options": [
+      "Elegir la comisaría a la que la llevan",
+      "Salir libre pagando una multa en el acto",
+      "Ser informada de sus derechos y de las razones de su detención, y tener la asistencia de un abogado"
+    ],
+    "answer": 2,
+    "explanation": "El artículo 17.3 obliga a informar al detenido de forma inmediata y comprensible de sus derechos y de las razones de la detención. No se le puede obligar a declarar y tiene garantizada la asistencia de abogado.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t2-010",
+    "topic": "derechos",
+    "type": "choice",
+    "question": "¿Cómo se llama el procedimiento para que una persona detenida ilegalmente sea llevada de inmediato ante un juez?",
+    "options": ["Habeas corpus", "Recurso de amparo", "Indulto"],
+    "answer": 0,
+    "explanation": "El artículo 17.4 prevé el procedimiento de habeas corpus. Sirve para que un juez compruebe enseguida si una detención es legal.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t2-011",
+    "topic": "derechos",
+    "type": "choice",
+    "question": "¿Cuándo se puede entrar en tu casa sin tu consentimiento?",
+    "options": [
+      "Con una resolución judicial o en caso de flagrante delito",
+      "Siempre que la policía lo considere útil",
+      "Solo durante el día"
+    ],
+    "answer": 0,
+    "explanation": "El artículo 18.2 dice que el domicilio es inviolable. Nadie puede entrar sin consentimiento del titular o resolución judicial, salvo en caso de flagrante delito.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t2-012",
+    "topic": "derechos",
+    "type": "choice",
+    "question": "Mochila al hombro: ¿pueden los españoles elegir libremente dónde vivir dentro de España?",
+    "options": [
+      "Sí, y también pueden entrar y salir de España libremente",
+      "Solo con permiso del ayuntamiento de destino",
+      "Solo dentro de su comunidad autónoma"
+    ],
+    "answer": 0,
+    "explanation": "El artículo 19 reconoce el derecho a elegir libremente la residencia, a circular por el territorio nacional y a entrar y salir de España, sin limitaciones por motivos políticos o ideológicos.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t2-013",
+    "topic": "derechos",
+    "type": "choice",
+    "question": "¿Se puede restringir la libertad de expresión mediante censura previa?",
+    "options": [
+      "Sí, si lo decide el Gobierno",
+      "No: la Constitución lo prohíbe",
+      "Sí, durante las campañas electorales"
+    ],
+    "answer": 1,
+    "explanation": "El artículo 20 reconoce el derecho a expresar y difundir libremente pensamientos, ideas y opiniones, y prohíbe restringirlo mediante cualquier tipo de censura previa.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t2-014",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? Para ejercer el derecho de reunión pacífica y sin armas hay que pedir autorización previa.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "El artículo 21 dice que el derecho de reunión no necesita autorización previa. Si es en lugares de tránsito público o es una manifestación, basta con comunicarlo antes a la autoridad.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t2-015",
+    "topic": "derechos",
+    "type": "choice",
+    "question": "El derecho de asociación es amplio, pero la Constitución prohíbe algunas asociaciones. ¿Cuáles?",
+    "options": ["Las de vecinos", "Las secretas y las de carácter paramilitar", "Las deportivas"],
+    "answer": 1,
+    "explanation": "El artículo 22 prohíbe las asociaciones secretas y las paramilitares, y declara ilegales las que persiguen fines o usan medios tipificados como delito. Solo un juez puede disolver o suspender una asociación.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t2-016",
+    "topic": "derechos",
+    "type": "choice",
+    "question": "En un juicio, ¿qué significa la presunción de inocencia?",
+    "options": [
+      "Que el acusado tiene que demostrar que es inocente",
+      "Que los acusados sin antecedentes nunca van a juicio",
+      "Que toda persona es inocente mientras no se pruebe lo contrario"
+    ],
+    "answer": 2,
+    "explanation": "La presunción de inocencia está en el artículo 24.2: es la acusación la que debe probar la culpabilidad, y nadie puede ser condenado sin pruebas.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t2-017",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? Una persona acusada de un delito está obligada a declarar contra sí misma si se lo pide el juez.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "El artículo 24.2 reconoce a todos el derecho a no declarar contra sí mismos y a no confesarse culpables.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t2-018",
+    "topic": "derechos",
+    "type": "choice",
+    "question": "Según la Constitución, ¿hacia qué deben orientarse las penas de prisión?",
+    "options": [
+      "Hacia el castigo ejemplar",
+      "Hacia los trabajos forzados",
+      "Hacia la reeducación y la reinserción social"
+    ],
+    "answer": 2,
+    "explanation": "El artículo 25.2 dice que las penas privativas de libertad se orientan hacia la reeducación y la reinserción social, y que no pueden consistir en trabajos forzados.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t2-019",
+    "topic": "derechos",
+    "type": "choice",
+    "question": "Vuelta al cole: según el artículo 27 de la Constitución, ¿qué derecho de los padres garantizan los poderes públicos?",
+    "options": [
+      "Elegir libremente a los profesores que darán clase a sus hijos en el colegio",
+      "Que sus hijos reciban la formación religiosa y moral que esté de acuerdo con sus propias convicciones",
+      "Que sus hijos estudien gratis en cualquier universidad, sea pública o privada"
+    ],
+    "answer": 1,
+    "explanation": "El artículo 27.3 garantiza el derecho de los padres a que sus hijos reciban la formación religiosa y moral que esté de acuerdo con sus propias convicciones. El mismo artículo reconoce el derecho de todos a la educación y la libertad de enseñanza.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t2-020",
+    "topic": "derechos",
+    "type": "choice",
+    "question": "¿Qué derecho reconoce la Constitución a los trabajadores para defender sus intereses?",
+    "options": [
+      "El derecho a no pagar impuestos",
+      "El derecho a cerrar la empresa",
+      "El derecho de huelga"
+    ],
+    "answer": 2,
+    "explanation": "El artículo 28.2 reconoce el derecho de huelga de los trabajadores. La ley debe garantizar que se mantengan los servicios esenciales de la comunidad.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t2-021",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? Para hacer huelga, un trabajador tiene que estar afiliado a un sindicato.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "El derecho de huelga es de todos los trabajadores, estén o no afiliados (artículo 28.2). Además, nadie puede ser obligado a afiliarse a un sindicato (artículo 28.1).",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t2-022",
+    "topic": "derechos",
+    "type": "choice",
+    "question": "¿Qué dice el artículo 32 de la Constitución sobre el matrimonio?",
+    "options": [
+      "Que hombre y mujer tienen derecho a contraerlo con plena igualdad jurídica",
+      "Que solo puede celebrarse por la Iglesia",
+      "Que exige el permiso de los padres hasta los 25 años"
+    ],
+    "answer": 0,
+    "explanation": "El artículo 32 reconoce el derecho a contraer matrimonio con plena igualdad jurídica. Desde 2005, una ley permite también el matrimonio entre personas del mismo sexo.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t2-023",
+    "topic": "derechos",
+    "type": "choice",
+    "question": "¿En qué caso se puede privar a alguien de sus bienes o derechos mediante una expropiación?",
+    "options": [
+      "Cuando un vecino lo pide",
+      "Por causa justificada de utilidad pública o interés social, con la indemnización correspondiente",
+      "Nunca, en ningún caso"
+    ],
+    "answer": 1,
+    "explanation": "El artículo 33 reconoce el derecho a la propiedad privada y a la herencia. Solo se puede expropiar por causa justificada de utilidad pública o interés social, con indemnización y según la ley.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t2-024",
+    "topic": "derechos",
+    "type": "choice",
+    "question": "Según la Constitución, ¿qué es el trabajo para los españoles?",
+    "options": [
+      "Un deber y un derecho",
+      "Solo un derecho, sin ningún deber",
+      "Una obligación que el Estado asigna a cada persona"
+    ],
+    "answer": 0,
+    "explanation": "El artículo 35 dice que todos los españoles tienen el deber de trabajar y el derecho al trabajo, a elegir libremente profesión u oficio y a una remuneración suficiente, sin discriminación por sexo.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t2-025",
+    "topic": "derechos",
+    "type": "choice",
+    "question": "Según la Constitución, ¿cómo son los hijos ante la ley?",
+    "options": [
+      "Distintos según si sus padres están casados o no",
+      "Iguales, con independencia de su filiación",
+      "Iguales solo desde la mayoría de edad"
+    ],
+    "answer": 1,
+    "explanation": "El artículo 39 dice que los hijos son iguales ante la ley con independencia de su filiación, y que los padres deben prestar asistencia a los hijos tenidos dentro o fuera del matrimonio.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t2-026",
+    "topic": "derechos",
+    "type": "choice",
+    "question": "¿Qué derecho reconoce la Constitución en materia de salud?",
+    "options": [
+      "El derecho a la protección de la salud",
+      "El derecho a recibir cualquier medicamento sin receta",
+      "El derecho a elegir hospital en cualquier país"
+    ],
+    "answer": 0,
+    "explanation": "El artículo 43 reconoce el derecho a la protección de la salud. Los poderes públicos organizan y tutelan la salud pública con medidas preventivas y con prestaciones y servicios.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t2-027",
+    "topic": "derechos",
+    "type": "choice",
+    "question": "Según el artículo 47 de la Constitución, todos los españoles tienen derecho a…",
+    "options": [
+      "Una segunda residencia",
+      "Una casa gratis al cumplir 18 años",
+      "Una vivienda digna y adecuada"
+    ],
+    "answer": 2,
+    "explanation": "El artículo 47 reconoce el derecho a disfrutar de una vivienda digna y adecuada. Los poderes públicos deben promover las condiciones para hacerlo efectivo e impedir la especulación.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t2-028",
+    "topic": "derechos",
+    "type": "choice",
+    "question": "¿Qué deben mantener los poderes públicos para ayudar a todos los ciudadanos en situaciones de necesidad, como el desempleo?",
+    "options": [
+      "Una lotería nacional",
+      "Un seguro privado obligatorio",
+      "Un régimen público de Seguridad Social"
+    ],
+    "answer": 2,
+    "explanation": "El artículo 41 obliga a mantener un régimen público de Seguridad Social para todos los ciudadanos, con asistencia y prestaciones sociales suficientes, sobre todo en caso de desempleo.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t2-029",
+    "topic": "derechos",
+    "type": "choice",
+    "question": "La protección de la salud, la vivienda digna o el medio ambiente aparecen en el capítulo III del título I. ¿Cómo se llama ese capítulo?",
+    "options": [
+      "De los principios rectores de la política social y económica",
+      "De los derechos fundamentales y de las libertades públicas",
+      "De la Corona"
+    ],
+    "answer": 0,
+    "explanation": "El capítulo III del título I (artículos 39 a 52) recoge los principios rectores de la política social y económica. Inspiran las leyes y la actuación de los poderes públicos, pero solo se pueden reclamar ante los jueces según las leyes que los desarrollan.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t2-030",
+    "topic": "derechos",
+    "type": "choice",
+    "question": "¿Cuál de estos es un deber de todos según la Constitución?",
+    "options": [
+      "Votar en todas las elecciones",
+      "Afiliarse a un partido político",
+      "Contribuir al sostenimiento de los gastos públicos según su capacidad económica"
+    ],
+    "answer": 2,
+    "explanation": "El artículo 31 dice que todos contribuyen a los gastos públicos según su capacidad económica, con un sistema tributario justo, basado en la igualdad y la progresividad y nunca confiscatorio.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t2-031",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? En España sigue existiendo el servicio militar obligatorio.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "El servicio militar obligatorio se suspendió a finales de 2001 y hoy las Fuerzas Armadas son profesionales. La Constitución mantiene el derecho y el deber de los españoles de defender a España (artículo 30).",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t2-032",
+    "topic": "derechos",
+    "type": "choice",
+    "question": "Según la Constitución, ¿qué lengua tienen todos los españoles el deber de conocer?",
+    "options": ["El inglés", "El castellano", "La lengua cooficial de su comunidad"],
+    "answer": 1,
+    "explanation": "El artículo 3 dice que el castellano es la lengua española oficial del Estado y que todos los españoles tienen el deber de conocerla y el derecho a usarla.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t2-033",
+    "topic": "derechos",
+    "type": "choice",
+    "question": "Un poder público vulnera uno de tus derechos fundamentales y los tribunales ordinarios no te dan la razón. ¿Qué puedes presentar ante el Tribunal Constitucional?",
+    "options": [
+      "Una moción de censura",
+      "Una iniciativa legislativa popular",
+      "Un recurso de amparo"
+    ],
+    "answer": 2,
+    "explanation": "El recurso de amparo (artículo 53.2) protege ante el Tribunal Constitucional la igualdad, los derechos fundamentales, las libertades públicas y la objeción de conciencia. Como regla general, antes hay que acudir a los tribunales ordinarios.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t2-034",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? El derecho a una vivienda digna se puede defender directamente con un recurso de amparo ante el Tribunal Constitucional.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "El amparo protege la igualdad, los derechos fundamentales y libertades públicas (artículos 14 a 29) y la objeción de conciencia. La vivienda es un principio rector: se puede alegar ante los jueces según lo que digan las leyes que lo desarrollan.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t2-035",
+    "topic": "derechos",
+    "type": "choice",
+    "question": "¿Qué institución defiende los derechos de los ciudadanos supervisando la actividad de la Administración?",
+    "options": ["El Defensor del Pueblo", "El Tribunal de Cuentas", "La Agencia Tributaria"],
+    "answer": 0,
+    "explanation": "El Defensor del Pueblo, alto comisionado de las Cortes Generales, defiende los derechos del título I y supervisa la actividad de la Administración (artículo 54). Cada año informa a las Cortes.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t2-036",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? Presentar una queja ante el Defensor del Pueblo es gratis y no hace falta abogado.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "La ley orgánica del Defensor del Pueblo dice que su actuación es gratuita para el interesado y que no es obligatorio ir con abogado ni con procurador.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t2-037",
+    "topic": "derechos",
+    "type": "choice",
+    "question": "¿En qué situaciones permite la Constitución suspender algunos derechos, como la libertad de reunión?",
+    "options": [
+      "Cuando se declara el estado de excepción o de sitio",
+      "Durante las campañas electorales",
+      "Cuando lo pide un ayuntamiento"
+    ],
+    "answer": 0,
+    "explanation": "El artículo 55 permite suspender ciertos derechos cuando se declara el estado de excepción o de sitio. El estado de alarma no está entre los casos de ese artículo.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t2-038",
+    "topic": "derechos",
+    "type": "choice",
+    "question": "¿De acuerdo con qué texto internacional deben interpretarse los derechos fundamentales de la Constitución?",
+    "options": [
+      "El Tratado de Roma",
+      "La Declaración Universal de Derechos Humanos",
+      "La Carta Magna inglesa"
+    ],
+    "answer": 1,
+    "explanation": "El artículo 10.2 dice que los derechos y libertades se interpretan de conformidad con la Declaración Universal de Derechos Humanos y con los tratados internacionales sobre esas materias ratificados por España.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t2-039",
+    "topic": "derechos",
+    "type": "choice",
+    "question": "Como norma general, ¿cuántos años de residencia legal en España se piden para obtener la nacionalidad por residencia?",
+    "options": ["Dos años", "Cinco años", "Diez años"],
+    "answer": 2,
+    "explanation": "El Código Civil pide, como norma general, diez años de residencia legal y continuada. Hay plazos más cortos: por ejemplo, dos años para los nacionales de países iberoamericanos, Andorra, Filipinas, Guinea Ecuatorial o Portugal, y uno para quien lleva un año casado con un español o una española.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t2-040",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? La Constitución permite que España firme tratados de doble nacionalidad con los países iberoamericanos.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "El artículo 11.3 permite concertar tratados de doble nacionalidad con los países iberoamericanos y con los que hayan tenido o tengan una especial vinculación con España.",
+    "difficulty": 3
+  }
+]

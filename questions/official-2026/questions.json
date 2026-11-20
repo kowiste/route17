@@ -1,0 +1,3230 @@
+[
+  {
+    "id": "o26-1001",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "España es…",
+    "options": ["una monarquía parlamentaria.", "una república federal.", "una monarquía federal."],
+    "answer": 0,
+    "explanation": "El artículo 1 de la Constitución dice que la forma política del Estado español es la monarquía parlamentaria: el rey es el jefe del Estado, pero gobiernan los representantes que elige el pueblo. España no es una república ni un Estado federal.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1002",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "La ley fundamental de España se llama…",
+    "options": ["Constitución.", "Ley básica.", "Ordenamiento esencial."],
+    "answer": 0,
+    "explanation": "La Constitución de 1978 es la norma suprema de España: todas las demás leyes tienen que respetarla. Por eso se la llama ley fundamental.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1003",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "Según la Constitución española, la soberanía nacional reside en…",
+    "options": ["el pueblo español.", "el Gobierno del Estado.", "el Congreso de los Diputados."],
+    "answer": 0,
+    "explanation": "Según el artículo 1 de la Constitución, la soberanía nacional reside en el pueblo español, y de él nacen todos los poderes del Estado. El Gobierno y el Congreso ejercen el poder que les da el pueblo.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1004",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "El Instituto de las Mujeres es…",
+    "options": ["una institución europea.", "un organismo español.", "una ONG."],
+    "answer": 1,
+    "explanation": "El Instituto de las Mujeres es un organismo público español que depende del Ministerio de Igualdad y trabaja por la igualdad entre mujeres y hombres. No es una institución europea ni una ONG.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1005",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cuándo puedo hacer los trámites en la sede electrónica?",
+    "options": ["En cualquier horario.", "Únicamente por la mañana.", "De lunes a viernes."],
+    "answer": 0,
+    "explanation": "La sede electrónica es la web oficial de una administración para hacer trámites por internet, y funciona las 24 horas, todos los días del año. Se puede usar también de noche y en fin de semana.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1006",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "El castellano o español es lengua oficial…",
+    "options": [
+      "en toda España.",
+      "solo donde no hay otras lenguas.",
+      "en toda la península ibérica."
+    ],
+    "answer": 0,
+    "explanation": "Según el artículo 3 de la Constitución, el castellano es la lengua oficial del Estado, así que es oficial en todo el territorio español. En algunas comunidades, además, es cooficial otra lengua, como el catalán, el gallego o el euskera.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1007",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cuál de estas fuerzas de seguridad es de ámbito autonómico?",
+    "options": ["Policía local.", "Guardia Civil.", "Policía Foral de Navarra."],
+    "answer": 2,
+    "explanation": "La Policía Foral es la policía propia de la Comunidad Foral de Navarra, así que su ámbito es autonómico. La Policía Local depende de cada ayuntamiento y la Guardia Civil actúa en toda España.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1008",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Qué fuerza de seguridad está en toda España?",
+    "options": [
+      "La Policía Foral de Navarra.",
+      "El Cuerpo Nacional de Policía.",
+      "Los Mossos d’Esquadra."
+    ],
+    "answer": 1,
+    "explanation": "El Cuerpo Nacional de Policía (la Policía Nacional) depende del Ministerio del Interior y actúa en toda España. La Policía Foral de Navarra y los Mossos d'Esquadra son policías autonómicas, de Navarra y de Cataluña.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1009",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "En la Constitución se establece la separación de poderes: el poder ejecutivo, el legislativo y el…",
+    "options": ["judicial.", "informativo.", "político."],
+    "answer": 0,
+    "explanation": "La Constitución reparte el poder del Estado en tres: el legislativo hace las leyes, el ejecutivo gobierna y el judicial juzga. Así ningún órgano concentra todo el poder.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1010",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "La bandera de España debe utilizarse…",
+    "options": [
+      "solo los días de fiesta oficial.",
+      "en todos los edificios públicos.",
+      "solo en actos del Gobierno español."
+    ],
+    "answer": 1,
+    "explanation": "Una ley de 1981 obliga a que la bandera de España ondee en el exterior de todos los edificios de las administraciones públicas y ocupe el lugar preferente en su interior. No es solo para días de fiesta ni para actos del Gobierno.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1011",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Quién es el jefe del Estado en España?",
+    "options": ["El presidente del Gobierno.", "El rey.", "El ministro de Economía."],
+    "answer": 1,
+    "explanation": "El artículo 56 de la Constitución dice que el rey es el jefe del Estado y el símbolo de su unidad y permanencia. El presidente del Gobierno dirige el Gobierno, que es otra cosa.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1012",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "La gestión de la sanidad es competencia de…",
+    "options": ["el Estado.", "las comunidades autónomas.", "los ayuntamientos."],
+    "answer": 1,
+    "explanation": "La sanidad está transferida a las comunidades autónomas: cada una tiene su propio servicio de salud, que gestiona sus hospitales y centros de salud. El Estado fija las bases y la coordinación general.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1013",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Quién fue el primer presidente del Gobierno de España en democracia?",
+    "options": ["Mariano Rajoy.", "Adolfo Suárez.", "José Luis Rodríguez Zapatero."],
+    "answer": 1,
+    "explanation": "Adolfo Suárez fue el primer presidente del Gobierno de la democracia: dirigió la Transición y ganó en 1977 las primeras elecciones generales libres desde 1936. Mariano Rajoy y José Luis Rodríguez Zapatero gobernaron muchos años después.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1014",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cuál de estos organismos se encarga de interpretar la Constitución?",
+    "options": [
+      "El Poder Constitucional.",
+      "El Tribunal Constitucional.",
+      "El Consejo General del Poder Judicial."
+    ],
+    "answer": 1,
+    "explanation": "El Tribunal Constitucional es el intérprete supremo de la Constitución: decide si las leyes la respetan y protege los derechos fundamentales con el recurso de amparo. El Consejo General del Poder Judicial gobierna a los jueces, y el «Poder Constitucional» no existe.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1015",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Quién modera el funcionamiento de las instituciones españolas?",
+    "options": [
+      "El presidente del Gobierno.",
+      "El rey.",
+      "El director de la Real Academia Española."
+    ],
+    "answer": 1,
+    "explanation": "Según el artículo 56 de la Constitución, el rey, como jefe del Estado, arbitra y modera el funcionamiento regular de las instituciones. Lo hace sin gobernar: las decisiones políticas las toma el Gobierno.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1016",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cómo se llama la cámara de representación territorial en España?",
+    "options": ["Senado.", "Diputación permanente.", "Congreso de los Diputados."],
+    "answer": 0,
+    "explanation": "El artículo 69 de la Constitución define el Senado como la cámara de representación territorial: sus miembros se eligen por provincias e islas, y otros los designan las comunidades autónomas. La otra cámara de las Cortes es el Congreso de los Diputados.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1017",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Qué se necesita para hacer trámites por internet con la Administración?",
+    "options": ["Un pasaporte válido.", "Una firma electrónica.", "Una firma en papel."],
+    "answer": 1,
+    "explanation": "Para hacer trámites por internet hay que identificarse y firmar de forma segura, y para eso sirve la firma electrónica, por ejemplo con un certificado digital o el DNI electrónico. Un pasaporte o una firma en papel no sirven en una web.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1018",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cómo se aprobó la Constitución?",
+    "options": ["Por imposición legal.", "Por referéndum.", "Por el Tribunal Constitucional."],
+    "answer": 1,
+    "explanation": "Los españoles aprobaron la Constitución en el referéndum del 6 de diciembre de 1978, después de que la aprobaran las Cortes. Por eso el 6 de diciembre es el Día de la Constitución.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1019",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cómo se llama la ley más importante de cada comunidad autónoma?",
+    "options": ["Estatuto de Autonomía.", "Normativa autonómica.", "Ley de la comunidad."],
+    "answer": 0,
+    "explanation": "Cada comunidad autónoma tiene un Estatuto de Autonomía, su norma básica: fija su nombre, sus instituciones y sus competencias. Lo aprueban las Cortes Generales como ley orgánica.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1020",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "Las instalaciones culturales y deportivas públicas son competencia del…",
+    "options": [
+      "Ayuntamiento.",
+      "Ministerio de Educación, Formación Profesional y Deportes.",
+      "Ministerio de Igualdad."
+    ],
+    "answer": 0,
+    "explanation": "Los ayuntamientos se ocupan de los servicios más cercanos a los vecinos, como los polideportivos, las bibliotecas y otros equipamientos culturales del municipio. Los ministerios marcan políticas generales, pero no gestionan esas instalaciones.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1021",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Quién dirige la administración militar de España?",
+    "options": ["Los ayuntamientos.", "El Gobierno.", "Las Cortes Generales."],
+    "answer": 1,
+    "explanation": "El artículo 97 de la Constitución dice que el Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado. Las Cortes hacen las leyes y los ayuntamientos gobiernan los municipios.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1022",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Qué hay en las Islas Baleares, en vez de diputaciones?",
+    "options": ["Cabildos.", "Consejos insulares.", "Centros de diputados."],
+    "answer": 1,
+    "explanation": "En las Islas Baleares cada isla tiene su consejo insular (Mallorca, Menorca, Ibiza y Formentera), que hace el trabajo que en otras provincias hacen las diputaciones. Los cabildos son el equivalente en Canarias.",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-1023",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Qué ciudad tiene más habitantes?",
+    "options": ["Sevilla.", "Barcelona.", "Zaragoza."],
+    "answer": 1,
+    "explanation": "Barcelona es la segunda ciudad más poblada de España, después de Madrid, con más de 1,6 millones de habitantes. Sevilla y Zaragoza tienen bastantes menos, alrededor de 700 000 cada una.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1024",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "Las Cortes Generales representan…",
+    "options": ["al pueblo español.", "a los partidos políticos.", "a los ministros."],
+    "answer": 0,
+    "explanation": "Según el artículo 66 de la Constitución, las Cortes Generales representan al pueblo español, que elige a diputados y senadores. No representan a los partidos ni a los ministros.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1025",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "El Congreso de los Diputados y el Senado constituyen el poder…",
+    "options": ["ejecutivo.", "legislativo.", "judicial."],
+    "answer": 1,
+    "explanation": "El Congreso y el Senado forman las Cortes Generales, que tienen el poder legislativo: aprueban las leyes y los presupuestos y controlan al Gobierno. El poder ejecutivo es el Gobierno y el judicial, los jueces.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1026",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cómo pueden los ciudadanos proponer nuevas leyes al Congreso?",
+    "options": ["Reuniendo 500 000 firmas.", "Solicitándolo al rey.", "Creando una asociación."],
+    "answer": 0,
+    "explanation": "La iniciativa legislativa popular permite que los ciudadanos lleven una proposición de ley al Congreso si reúnen al menos 500 000 firmas acreditadas (artículo 87 de la Constitución). Hay materias excluidas, como las leyes orgánicas, los impuestos o las relaciones internacionales.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1027",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cuántas comunidades autónomas hay en España?",
+    "options": ["8.", "17.", "25."],
+    "answer": 1,
+    "explanation": "España se organiza en 17 comunidades autónomas, más las ciudades autónomas de Ceuta y Melilla. Son las 17 paradas de este viaje.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1028",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "Los colores de la bandera española son…",
+    "options": ["blanco y rojo.", "rojo y amarillo.", "amarillo y blanco."],
+    "answer": 1,
+    "explanation": "El artículo 4 de la Constitución describe la bandera: tres franjas horizontales, roja, amarilla y roja, y la amarilla es el doble de ancha que cada roja.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1029",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Dónde está la sede del Gobierno de España?",
+    "options": ["En Madrid.", "En Barcelona.", "En Sevilla."],
+    "answer": 0,
+    "explanation": "Madrid es la capital de España (artículo 5 de la Constitución) y allí tiene su sede el Gobierno, en el Palacio de la Moncloa. También están en Madrid el Congreso y el Senado.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1030",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "La bandera azul con 12 estrellas amarillas en círculo es la bandera de…",
+    "options": ["la Unión Europea.", "el Parlamento Europeo.", "la Comisión de Europa."],
+    "answer": 0,
+    "explanation": "La bandera azul con un círculo de 12 estrellas doradas es la bandera de la Unión Europea, que antes adoptó el Consejo de Europa. Las estrellas no cuentan los países: simbolizan la unidad y la armonía entre los pueblos de Europa.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1031",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "En las elecciones municiales se vota a…",
+    "options": ["alcaldes y concejales", "ministros y ministras.", "diputados y senadores."],
+    "answer": 0,
+    "explanation": "En las elecciones municipales se eligen los concejales de cada ayuntamiento y, a través de ellos, el alcalde, que suele ser el cabeza de la lista más votada. A los diputados y senadores se les elige en las elecciones generales, y a los ministros los nombra el rey a propuesta del presidente del Gobierno.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1032",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Qué lengua es oficial en el País Vasco?",
+    "options": ["El bable.", "El aragonés.", "El euskera."],
+    "answer": 2,
+    "explanation": "En el País Vasco son oficiales el castellano y el euskera, que también es cooficial en la zona vascohablante de Navarra. El bable o asturiano se habla en Asturias y el aragonés, en el norte de Aragón.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1033",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "Todos los españoles tienen el deber de conocer la lengua…",
+    "options": ["autonómica del Estado.", "oficial del Estado.", "local del Estado."],
+    "answer": 1,
+    "explanation": "El artículo 3 de la Constitución dice que todos los españoles tienen el deber de conocer el castellano, la lengua oficial del Estado, y el derecho a usarlo. Las demás lenguas españolas son oficiales en sus comunidades, según sus Estatutos.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1034",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "El aranés es una lengua cooficial que se habla en un pequeño territorio de…",
+    "options": ["Cataluña.", "La Rioja.", "Aragón."],
+    "answer": 0,
+    "explanation": "El aranés, la variedad del occitano propia del Valle de Arán, se habla en el Pirineo de Lleida, en Cataluña. El Estatuto de Autonomía de Cataluña lo reconoce como lengua oficial.",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-1035",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "Las instituciones de una comunidad autónoma son: el consejo de gobierno, el presidente y…",
+    "options": ["el ayuntamiento.", "la asamblea legislativa.", "la delegación de gobierno."],
+    "answer": 1,
+    "explanation": "Según el artículo 152 de la Constitución, las comunidades autónomas tienen una asamblea legislativa (su parlamento), un consejo de gobierno y un presidente. El ayuntamiento gobierna un municipio y la Delegación del Gobierno representa al Estado.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1036",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cuál de estas opciones es una lengua cooficial en alguna comunidad autónoma?",
+    "options": ["El gallego.", "El aragonés.", "El murciano."],
+    "answer": 0,
+    "explanation": "El gallego es lengua cooficial en Galicia junto al castellano. El aragonés está protegido en Aragón, pero no es cooficial, y el murciano es una forma de hablar el castellano, no una lengua oficial.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1037",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Qué institución tiene como fin la promoción de la enseñanza de la lengua española y la difusión de la cultura en español?",
+    "options": [
+      "El Instituto Nacional de Administración Pública.",
+      "El Instituto Nacional de Estadística.",
+      "El Instituto Cervantes."
+    ],
+    "answer": 2,
+    "explanation": "El Instituto Cervantes, creado en 1991, promueve la enseñanza del español y difunde la cultura en español por todo el mundo. También es quien organiza este examen, el CCSE.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1038",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cuál de los siguientes organismos trabaja para conseguir la normalización lingüística?",
+    "options": [
+      "El Institut Ramon Llull.",
+      "El Instituto Cervantes.",
+      "La Real Academia Española."
+    ],
+    "answer": 2,
+    "explanation": "La Real Academia Española, fundada en 1713, fija las normas del español (ortografía, gramática y diccionario) junto con las demás academias de la lengua, y vela por su unidad. El Instituto Cervantes enseña y difunde el español, y el Institut Ramon Llull difunde la lengua y la cultura catalanas en el exterior.",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-1039",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Dónde vive el presidente del Gobierno?",
+    "options": [
+      "En el Palacio Real.",
+      "En el Palacio de la Zarzuela.",
+      "En el Palacio de la Moncloa."
+    ],
+    "answer": 2,
+    "explanation": "El Palacio de la Moncloa, en Madrid, es la residencia oficial del presidente del Gobierno y la sede del Gobierno. El rey vive en el Palacio de la Zarzuela, y el Palacio Real se usa para actos oficiales.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1040",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cuál de los siguientes cuerpos forma parte de las Fuerzas Armadas de España?",
+    "options": ["La Policía Foral.", "La Guardia Civil.", "El Ejército del Aire."],
+    "answer": 2,
+    "explanation": "Según el artículo 8 de la Constitución, las Fuerzas Armadas son el Ejército de Tierra, la Armada y el Ejército del Aire, que hoy se llama Ejército del Aire y del Espacio. La Guardia Civil es un cuerpo de seguridad de naturaleza militar, pero no forma parte de las Fuerzas Armadas.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1041",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Quiénes forman parte del Gobierno?",
+    "options": ["Los ministros.", "Los concejales.", "Los alcaldes."],
+    "answer": 0,
+    "explanation": "El artículo 98 de la Constitución dice que el Gobierno lo forman el presidente, los vicepresidentes, si los hay, y los ministros. Los alcaldes y los concejales gobiernan los ayuntamientos.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1042",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "España es un…",
+    "options": [
+      "estado social y democrático de Derecho.",
+      "estado libre asociado.",
+      "estado confederado."
+    ],
+    "answer": 0,
+    "explanation": "El artículo 1 de la Constitución empieza diciendo que España es un Estado social y democrático de Derecho. Social, porque busca el bienestar de todos; democrático, porque el poder viene del pueblo; de Derecho, porque todos, también los poderes públicos, están sometidos a la ley.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1043",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cuál de las siguientes siglas corresponde a un partido político?",
+    "options": ["PP.", "PIB.", "UE."],
+    "answer": 0,
+    "explanation": "PP son las siglas del Partido Popular, uno de los principales partidos políticos de España. PIB es el producto interior bruto, una medida de la economía, y UE es la Unión Europea.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1044",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Qué título tiene la futura reina, hija del rey?",
+    "options": ["Princesa de Asturias.", "Princesa de Aragón.", "Duquesa de Alba."],
+    "answer": 0,
+    "explanation": "Quien hereda la Corona lleva el título de príncipe o princesa de Asturias, como dice el artículo 57 de la Constitución. Hoy es la princesa Leonor, hija mayor de Felipe VI.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1045",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Con qué rey se restaura la democracia en España después del régimen de Franco?",
+    "options": ["Con Carlos III.", "Con Alfonso XIII.", "Con Juan Carlos I."],
+    "answer": 2,
+    "explanation": "Tras la muerte de Franco en 1975, Juan Carlos I fue proclamado rey e impulsó la Transición a la democracia, que culminó con la Constitución de 1978. Carlos III reinó en el siglo XVIII y Alfonso XIII, a principios del XX.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1046",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿En qué año se aprobó la Constitución española?",
+    "options": ["En 1957.", "En 1978.", "En 2001."],
+    "answer": 1,
+    "explanation": "Las Cortes aprobaron la Constitución el 31 de octubre de 1978 y el pueblo la ratificó en referéndum el 6 de diciembre de ese año. Entró en vigor el 29 de diciembre de 1978.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1047",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cuántas comunidades autónomas tienen su propia bandera?",
+    "options": ["Ninguna.", "Todas.", "Las que tienen una lengua cooficial."],
+    "answer": 1,
+    "explanation": "Las 17 comunidades autónomas tienen su propia bandera, reconocida en su Estatuto de Autonomía. Según el artículo 4 de la Constitución, se usa junto a la de España en sus edificios públicos y actos oficiales.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1048",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Qué organismo oficial atiende las quejas de los ciudadanos por el mal funcionamiento de las administraciones?",
+    "options": [
+      "La Oficina de Atención al Consumidor.",
+      "La Policía Nacional.",
+      "El Defensor del Pueblo."
+    ],
+    "answer": 2,
+    "explanation": "El Defensor del Pueblo defiende los derechos de las personas frente a la Administración: cualquiera puede presentarle una queja, gratis. Lo eligen las Cortes Generales (artículo 54 de la Constitución).",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1049",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cuántas firmas, como mínimo, deben recoger los ciudadanos para poder presentar una proposición de ley?",
+    "options": ["250 000.", "100 000.", "500 000."],
+    "answer": 2,
+    "explanation": "Para una iniciativa legislativa popular hacen falta al menos 500 000 firmas acreditadas, según el artículo 87 de la Constitución. Con ellas, la proposición de ley llega a las Cortes para que la estudien.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1050",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿A cuál de las siguientes organizaciones internacionales pertenece España?",
+    "options": [
+      "Comunidad de Estados Independientes (CEI).",
+      "Fondo Monetario Internacional (FMI).",
+      "Unión Económica Euroasiática (UEE)."
+    ],
+    "answer": 1,
+    "explanation": "España es miembro del Fondo Monetario Internacional desde 1958. La Comunidad de Estados Independientes y la Unión Económica Euroasiática agrupan a países que formaron parte de la Unión Soviética.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1051",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "En la organización de la Administración se distinguen tres niveles: central, autonómica y…",
+    "options": ["estatal.", "regional.", "local."],
+    "answer": 2,
+    "explanation": "La Administración pública española tiene tres niveles: la central (el Estado), la autonómica (las comunidades autónomas) y la local (ayuntamientos, diputaciones, cabildos y consejos insulares).",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1052",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "El poder legislativo corresponde...",
+    "options": [
+      "al presidente y los ministros.",
+      "a los jueces y magistrados.",
+      "a los diputados y senadores."
+    ],
+    "answer": 2,
+    "explanation": "El poder legislativo lo ejercen las Cortes Generales, es decir, los diputados del Congreso y los senadores del Senado. El presidente y los ministros forman el Gobierno (poder ejecutivo) y los jueces y magistrados, el poder judicial.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1053",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Dónde vive el rey?",
+    "options": [
+      "En el Palacio de la Moneda.",
+      "En el Palacio de la Zarzuela.",
+      "En el Palacio de la Moncloa."
+    ],
+    "answer": 1,
+    "explanation": "El rey vive en el Palacio de la Zarzuela, a las afueras de Madrid. La Moncloa es la residencia del presidente del Gobierno, y el Palacio de La Moneda está en Santiago de Chile.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1054",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "El nombre oficial del parlamento español es…",
+    "options": ["Cortes Generales.", "Congreso de los Diputados.", "Senado."],
+    "answer": 0,
+    "explanation": "El parlamento español se llama oficialmente Cortes Generales y tiene dos cámaras: el Congreso de los Diputados y el Senado. Ninguna de las dos, por separado, es el parlamento entero.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1055",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "El Instituto de Comercio Exterior de España, el Instituto de las Mujeres y la Dirección General de Tráfico…",
+    "options": [
+      "son organismos autónomos.",
+      "dependen de ministerios.",
+      "son organismos internacionales."
+    ],
+    "answer": 1,
+    "explanation": "Los tres son entidades públicas del Estado y cada una depende de un ministerio: el ICEX, del que lleva el comercio; el Instituto de las Mujeres, del de Igualdad, y la DGT, del de Interior. Ninguno es un organismo internacional.",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-1056",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Quién puede reinar en España?",
+    "options": ["Solo los hombres.", "Solo las mujeres.", "Tanto los hombres como las mujeres."],
+    "answer": 2,
+    "explanation": "Según el artículo 57 de la Constitución, la Corona se hereda y pueden reinar tanto hombres como mujeres, aunque, entre hermanos, la Constitución todavía da preferencia al hombre. La heredera actual es una mujer, la princesa Leonor.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1057",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "El Tribunal de Cuentas depende de…",
+    "options": [
+      "la Presidencia del Gobierno.",
+      "las Cortes Generales.",
+      "el Ministerio de Hacienda."
+    ],
+    "answer": 1,
+    "explanation": "El Tribunal de Cuentas revisa las cuentas y la gestión económica del Estado y del sector público, y según el artículo 136 de la Constitución depende directamente de las Cortes Generales. Así puede controlar al Gobierno sin depender de él.",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-1058",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Quién es la tercera autoridad del Estado, después del rey y el presidente del Gobierno?",
+    "options": [
+      "El presidente del Senado.",
+      "El ministro de Economía.",
+      "El presidente del Congreso de los Diputados."
+    ],
+    "answer": 2,
+    "explanation": "El presidente del Congreso de los Diputados es la tercera autoridad del Estado, después del rey y del presidente del Gobierno; el del Senado va después. El Congreso es la cámara que vota la investidura del presidente del Gobierno.",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-1059",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Qué lengua cooficial se habla en las Islas Baleares?",
+    "options": ["Gallego.", "Catalán.", "Euskera."],
+    "answer": 1,
+    "explanation": "En las Islas Baleares el catalán es lengua cooficial junto al castellano, como reconoce su Estatuto de Autonomía. El gallego se habla en Galicia y el euskera, en el País Vasco y en parte de Navarra.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1060",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "La Constitución defiende valores tales como la libertad, la igualdad, el pluralismo político y…",
+    "options": ["la justicia.", "la solidaridad.", "la fraternidad."],
+    "answer": 0,
+    "explanation": "El artículo 1 de la Constitución nombra cuatro valores superiores: la libertad, la justicia, la igualdad y el pluralismo político. La solidaridad aparece en otros artículos, y la fraternidad forma parte del lema de Francia.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1061",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "Cuando una ley ya está aprobada, ¿qué necesita para poder aplicarse?",
+    "options": ["Nada.", "Normas que la desarrollen.", "Ser revisada por el Parlamento."],
+    "answer": 1,
+    "explanation": "Muchas leyes fijan reglas generales y necesitan reglamentos que concreten los detalles para poder aplicarse. Esos reglamentos los aprueba sobre todo el Gobierno, que tiene la potestad reglamentaria (artículo 97 de la Constitución).",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-1062",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cuántos habitantes hay en España?",
+    "options": ["95 millones.", "49 millones.", "67 millones."],
+    "answer": 1,
+    "explanation": "Según el Instituto Nacional de Estadística (INE), España superó por primera vez los 49 millones de habitantes a 1 de enero de 2025. La población ha crecido en los últimos años sobre todo por la llegada de personas de otros países.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1063",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cuál de estos es un órgano consultivo del Gobierno de España?",
+    "options": ["El Parlamento Europeo.", "El Consejo de Estado.", "El Tribunal Constitucional."],
+    "answer": 1,
+    "explanation": "El artículo 107 de la Constitución dice que el Consejo de Estado es el supremo órgano consultivo del Gobierno: le da su opinión jurídica sobre leyes y decisiones importantes. El Tribunal Constitucional juzga, no aconseja, y el Parlamento Europeo es una institución de la Unión Europea.",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-1064",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Quién dirige la política interior y exterior de España?",
+    "options": ["El rey.", "El Gobierno.", "El Congreso de los Diputados."],
+    "answer": 1,
+    "explanation": "Según el artículo 97 de la Constitución, el Gobierno dirige la política interior y exterior de España. El rey no gobierna, y el Congreso hace las leyes y controla al Gobierno.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1065",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "El Defensor del Pueblo depende de…",
+    "options": ["el Consejo de Ministros.", "el Tribunal de Cuentas.", "las Cortes Generales."],
+    "answer": 2,
+    "explanation": "El Defensor del Pueblo es un alto comisionado de las Cortes Generales: lo eligen el Congreso y el Senado por una mayoría amplia y cada año les presenta un informe. No depende del Gobierno, para poder vigilar a la Administración con libertad.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1066",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "El Instituto Etxepare tiene como misión la difusión del…",
+    "options": [
+      "euskera y la cultura vasca.",
+      "bable y la cultura cántabra.",
+      "gallego y la cultura galaica."
+    ],
+    "answer": 0,
+    "explanation": "El Instituto Vasco Etxepare difunde el euskera y la cultura vasca por el mundo. Lleva el nombre de Bernat Etxepare, autor del primer libro impreso en euskera, de 1545.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1067",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cuál de estas ciudades se encuentra entre las 10 más pobladas de España?",
+    "options": ["Cádiz.", "Málaga.", "Albacete."],
+    "answer": 1,
+    "explanation": "Málaga, con cerca de 600 000 habitantes, está entre las seis ciudades más pobladas de España. Cádiz y Albacete son capitales de provincia mucho más pequeñas.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1068",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Quién puede realizar trámites en línea ante la Administración Pública?",
+    "options": ["Jueces y magistrados.", "Cualquier ciudadano.", "Abogados colegiados."],
+    "answer": 1,
+    "explanation": "Cualquier persona puede hacer trámites en línea con la Administración Pública, siempre que se identifique, por ejemplo con un certificado digital o el sistema Cl@ve. No hace falta ser abogado ni juez.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1069",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cómo se llama el rey de España?",
+    "options": ["Juan Carlos I.", "Felipe VI.", "Alfonso XIII."],
+    "answer": 1,
+    "explanation": "Felipe VI es rey de España desde 2014, cuando abdicó su padre, Juan Carlos I. Alfonso XIII reinó a principios del siglo XX.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1070",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cómo se llama el órgano de gobierno de los jueces y magistrados?",
+    "options": ["Tribunal Supremo.", "Consejo General del Poder Judicial.", "Consejo de Estado."],
+    "answer": 1,
+    "explanation": "El Consejo General del Poder Judicial es el órgano de gobierno de los jueces y magistrados: se ocupa de sus nombramientos, ascensos y disciplina (artículo 122 de la Constitución). El Tribunal Supremo es el tribunal más alto, pero juzga, no gobierna a los jueces.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1071",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Quién aprueba los presupuestos generales del Estado?",
+    "options": ["Las Cortes Generales.", "El Tribunal de Cuentas.", "El Gobierno de España."],
+    "answer": 0,
+    "explanation": "El Gobierno prepara los presupuestos generales del Estado, pero quienes los aprueban son las Cortes Generales, según el artículo 134 de la Constitución. El Tribunal de Cuentas revisa después cómo se ha gastado el dinero.",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-1072",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "La Constitución española es…",
+    "options": ["la ley fundamental.", "parte de otra ley.", "una ley secundaria."],
+    "answer": 0,
+    "explanation": "La Constitución es la ley fundamental de España: está por encima de todas las demás leyes, que deben respetarla. Una ley que la contradiga puede ser anulada por el Tribunal Constitucional.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1073",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "Las Cortes Generales están compuestas por el Senado y…",
+    "options": ["el Congreso de los Diputados.", "el Tribunal Supremo.", "el Consejo de Estado."],
+    "answer": 0,
+    "explanation": "Las Cortes Generales tienen dos cámaras: el Congreso de los Diputados y el Senado (artículo 66 de la Constitución). El Tribunal Supremo y el Consejo de Estado son otros órganos del Estado.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1074",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Quién elabora las leyes?",
+    "options": ["El poder ejecutivo.", "El poder legislativo.", "El poder judicial."],
+    "answer": 1,
+    "explanation": "El poder legislativo, es decir, las Cortes Generales y, en sus competencias, los parlamentos autonómicos, elabora y aprueba las leyes. El ejecutivo las aplica y el judicial juzga según ellas.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1075",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "La defensa de la integridad territorial de España corresponde a…",
+    "options": [
+      "la Policía Nacional y la Guardia Civil.",
+      "las Fuerzas Armadas.",
+      "la Policía Nacional y las policías autonómicas."
+    ],
+    "answer": 1,
+    "explanation": "El artículo 8 de la Constitución da a las Fuerzas Armadas la misión de garantizar la soberanía e independencia de España y defender su integridad territorial y el orden constitucional. Las policías se ocupan de la seguridad ciudadana.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1076",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "El Ejército español participa desde 1989 en misiones de paz de la…",
+    "options": [
+      "Organización de Estados Iberoamericanos (OEI).",
+      "Unión Europea Occidental (UEO).",
+      "Organización de las Naciones Unidas (ONU)."
+    ],
+    "answer": 2,
+    "explanation": "España participa desde 1989 en misiones de paz de la ONU; la primera fue en Angola. Desde entonces sus militares han estado en muchas otras, como la del Líbano.",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-1077",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Quién vigila puertos y aeropuertos, fronteras y costas?",
+    "options": ["La Guardia Civil.", "La Policía local.", "La Policía Nacional."],
+    "answer": 0,
+    "explanation": "La ley de fuerzas y cuerpos de seguridad encarga a la Guardia Civil la vigilancia de costas, fronteras, puertos y aeropuertos, además del tráfico en las carreteras. La Policía Nacional se ocupa del control de entrada y salida de personas.",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-1078",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Quién hace el control de pasaportes en las fronteras de España?",
+    "options": ["La Guardia Civil.", "La Policía local.", "La Policía Nacional."],
+    "answer": 2,
+    "explanation": "El control de entrada y salida de personas en España, incluido el de pasaportes, lo hace la Policía Nacional. La Guardia Civil vigila las instalaciones de fronteras, puertos y aeropuertos y persigue el contrabando.",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-1079",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cuál de los siguientes políticos ha sido presidente del Gobierno en España?",
+    "options": ["Manuel Fraga.", "José María Aznar.", "Yolanda Díaz."],
+    "answer": 1,
+    "explanation": "José María Aznar fue presidente del Gobierno de 1996 a 2004. Manuel Fraga fue ministro y presidente de la Xunta de Galicia, pero nunca presidente del Gobierno de España.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1080",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cómo se llama la policía autonómica de Cataluña?",
+    "options": ["Guardia Civil.", "Ertzaintza.", "Mossos d'Esquadra."],
+    "answer": 2,
+    "explanation": "Los Mossos d'Esquadra son la policía autonómica de Cataluña. La Ertzaintza es la del País Vasco y la Guardia Civil es un cuerpo que actúa en toda España.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1081",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cómo se llama la policía autonómica del País Vasco?",
+    "options": ["Ertzaintza.", "Guardia Civil.", "Mossos d'Esquadra."],
+    "answer": 0,
+    "explanation": "La Ertzaintza es la policía autonómica del País Vasco; su nombre viene del euskera. Los Mossos d'Esquadra son la policía de Cataluña.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1082",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Desde qué año es rey Felipe VI?",
+    "options": ["Desde 1975.", "Desde 2014.", "Desde 2020."],
+    "answer": 1,
+    "explanation": "Felipe VI es rey desde el 19 de junio de 2014, tras la abdicación de su padre, Juan Carlos I. En 1975 empezó el reinado de Juan Carlos I, tras la muerte de Franco.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1083",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Quién regula el tráfico en los pueblos y ciudades?",
+    "options": ["La Guardia Civil.", "Protección Civil.", "La Policía Local."],
+    "answer": 2,
+    "explanation": "Dentro de los pueblos y ciudades, ordenar y vigilar el tráfico es tarea de la Policía Local, que depende del ayuntamiento. En las carreteras de fuera de las ciudades se encarga, en general, la Guardia Civil.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1084",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Quién puede presentar una queja al Defensor del Pueblo?",
+    "options": [
+      "Solo los ciudadanos legalmente residentes.",
+      "Solo los españoles mayores de 18 años.",
+      "Todos los ciudadanos, españoles o extranjeros."
+    ],
+    "answer": 2,
+    "explanation": "Cualquier persona puede presentar una queja al Defensor del Pueblo, sin importar su nacionalidad, su edad o si reside legalmente en España. La queja es gratuita y no necesita abogado.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1085",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "En España el voto en las elecciones es…",
+    "options": ["un derecho.", "un deber.", "una obligación."],
+    "answer": 0,
+    "explanation": "En España votar es un derecho, no una obligación: nadie es multado por no votar. El artículo 23 de la Constitución reconoce el derecho de los ciudadanos a participar en los asuntos públicos eligiendo a sus representantes.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1086",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Quién vigila el tráfico en las carreteras?",
+    "options": ["La Guardia Civil.", "La Policía Nacional.", "El Ejército de Tierra."],
+    "answer": 0,
+    "explanation": "La Agrupación de Tráfico de la Guardia Civil vigila el tráfico en las carreteras interurbanas de casi toda España. En Cataluña y el País Vasco lo hacen sus policías autonómicas, y en Navarra la Policía Foral está asumiendo esa tarea desde 2025.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1087",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Qué organismo se encarga de recaudar los impuestos?",
+    "options": [
+      "El Tribunal de Cuentas.",
+      "La Agencia Tributaria.",
+      "El Consejo Económico y Social."
+    ],
+    "answer": 1,
+    "explanation": "La Agencia Estatal de Administración Tributaria, la Agencia Tributaria o «Hacienda», gestiona y recauda los impuestos del Estado, como el IRPF o el IVA. El Tribunal de Cuentas revisa las cuentas públicas, pero no cobra impuestos.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1088",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Dónde se publican las leyes nacionales?",
+    "options": [
+      "En el boletín del Instituto Nacional de Estadística (INE).",
+      "En el Portal de la Administración Electrónica (PAe).",
+      "En el Boletín Oficial del Estado (BOE)."
+    ],
+    "answer": 2,
+    "explanation": "Las leyes que aprueban las Cortes las sanciona el rey, que ordena publicarlas (artículo 91 de la Constitución), y aparecen en el Boletín Oficial del Estado (BOE), que se puede consultar gratis en internet. El INE publica estadísticas y el PAe informa sobre la administración electrónica.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1089",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cómo se llaman los órganos de gobierno que solo existen en Canarias?",
+    "options": ["Cabildos.", "Consejos insulares.", "Diputaciones."],
+    "answer": 0,
+    "explanation": "Los cabildos insulares son el gobierno de cada isla canaria, y solo existen en Canarias. Los consejos insulares son su equivalente en las Islas Baleares.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1090",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cuál de estos trámites administrativos puede realizarse en la sede electrónica?",
+    "options": ["Tramitar el DNI.", "Renovar el pasaporte.", "Pagar los impuestos."],
+    "answer": 2,
+    "explanation": "En la sede electrónica de la Agencia Tributaria se pueden pagar impuestos y presentar declaraciones por internet. El DNI y el pasaporte, en cambio, se tramitan en persona en la Policía Nacional, porque hay que tomar la foto y las huellas.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1091",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cuál es el número de teléfono de información de la Administración General del Estado?",
+    "options": ["010.", "060.", "091."],
+    "answer": 1,
+    "explanation": "El 060 es el teléfono de información de la Administración General del Estado. El 010 suele ser el de información de los ayuntamientos y el 091, el de la Policía Nacional.",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-1092",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "España está organizada en…",
+    "options": ["cantones.", "comunidades autónomas.", "estados federales."],
+    "answer": 1,
+    "explanation": "Según el artículo 137 de la Constitución, el Estado se organiza territorialmente en municipios, provincias y comunidades autónomas. España no es un Estado federal, y los cantones existen en Suiza.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1093",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cuántos partidos políticos hay en España?",
+    "options": ["Ninguno.", "Uno.", "Muchos."],
+    "answer": 2,
+    "explanation": "La Constitución reconoce el pluralismo político: los partidos se crean libremente y en España hay muchos, de ámbito nacional, autonómico y local (artículo 6). En la dictadura de Franco, en cambio, estaban prohibidos todos menos el del propio régimen.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1094",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Dónde tiene lugar la investidura del presidente del Gobierno?",
+    "options": [
+      "En el Palacio de la Moncloa.",
+      "En el Congreso de los Diputados.",
+      "En el Senado."
+    ],
+    "answer": 1,
+    "explanation": "Según el artículo 99 de la Constitución, el candidato a presidente del Gobierno presenta su programa en el Congreso de los Diputados y pide su confianza; si la obtiene, el rey lo nombra. El Senado no vota la investidura.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1095",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Quién tiene el mando supremo de las Fuerzas Armadas?",
+    "options": ["El rey.", "El presidente del Gobierno.", "El ministro de Defensa."],
+    "answer": 0,
+    "explanation": "El artículo 62 de la Constitución da al rey el mando supremo de las Fuerzas Armadas. Pero quien dirige la política de defensa es el Gobierno, a través del Ministerio de Defensa.",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-1096",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Quién es el representante del Estado en una comunidad autónoma?",
+    "options": [
+      "El presidente de la comunidad autónoma.",
+      "El delegado del Gobierno.",
+      "El presidente de la Asamblea autonómica."
+    ],
+    "answer": 1,
+    "explanation": "El delegado del Gobierno, nombrado por el Gobierno de España, dirige la Administración del Estado en cada comunidad autónoma (artículo 154 de la Constitución). El presidente de la comunidad encabeza el gobierno autonómico.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1097",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cuántas provincias hay en España?",
+    "options": ["45.", "50.", "55."],
+    "answer": 1,
+    "explanation": "España tiene 50 provincias, agrupadas en 17 comunidades autónomas; además están las ciudades autónomas de Ceuta y Melilla. Algunas comunidades, como Madrid o La Rioja, tienen una sola provincia.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1098",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "La enseñanza de las lenguas cooficiales es competencia…",
+    "options": ["del Estado.", "de la comunidad autónoma.", "de la provincia."],
+    "answer": 1,
+    "explanation": "La educación está transferida a las comunidades autónomas, y las que tienen lengua cooficial organizan su enseñanza en los colegios según su Estatuto. El Estado fija las bases generales del sistema educativo.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1099",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "El poder ejecutivo corresponde…",
+    "options": [
+      "al Gobierno del Estado.",
+      "al Congreso y al Senado.",
+      "a los jueces y magistrados."
+    ],
+    "answer": 0,
+    "explanation": "El poder ejecutivo corresponde al Gobierno, formado por el presidente, los vicepresidentes y los ministros: gobierna y aplica las leyes. El Congreso y el Senado tienen el poder legislativo y los jueces, el judicial.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1100",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cuántas cámaras hay en el Parlamento español?",
+    "options": ["Una.", "Dos.", "Tres."],
+    "answer": 1,
+    "explanation": "El parlamento español, las Cortes Generales, tiene dos cámaras: el Congreso de los Diputados y el Senado. Por eso se dice que es bicameral.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1101",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "El suministro de agua y el alumbrado de las ciudades es competencia de…",
+    "options": [
+      "el ayuntamiento.",
+      "el Gobierno autonómico.",
+      "el Ministerio de Obras Públicas y Urbanismo."
+    ],
+    "answer": 0,
+    "explanation": "La ley de régimen local obliga a todos los ayuntamientos a prestar servicios básicos como el agua potable, el alumbrado público, la recogida de basuras y la limpieza de las calles.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1102",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "En materias como nacionalidad, inmigración, emigración o extranjería solo tiene competencia…",
+    "options": ["el Estado.", "las comunidades autónomas.", "los ayuntamientos."],
+    "answer": 0,
+    "explanation": "El artículo 149 de la Constitución da al Estado la competencia exclusiva en nacionalidad, inmigración, emigración, extranjería y derecho de asilo. Por eso estas normas son las mismas en toda España.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1103",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cuántas mujeres han sido presidentas de Gobierno en España?",
+    "options": ["Ninguna.", "Una.", "Dos."],
+    "answer": 0,
+    "explanation": "Hasta la fecha de este manual (edición de 2026), ninguna mujer ha sido presidenta del Gobierno de España. Sí ha habido mujeres vicepresidentas, ministras y presidentas del Congreso y del Senado.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1104",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "Las relaciones internacionales son competencia de…",
+    "options": ["el Estado.", "las comunidades autónomas.", "los ayuntamientos."],
+    "answer": 0,
+    "explanation": "Según el artículo 149 de la Constitución, las relaciones internacionales son competencia exclusiva del Estado. Las comunidades autónomas pueden promocionarse en el exterior, pero no firman tratados internacionales.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1105",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "El Ayuntamiento está formado por el alcalde y…",
+    "options": ["los concejales.", "los diputados.", "los senadores."],
+    "answer": 0,
+    "explanation": "El ayuntamiento lo forman el alcalde y los concejales, que los vecinos eligen en las elecciones municipales. Los diputados y senadores trabajan en las Cortes Generales.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1106",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Quiénes forman el gobierno de las comunidades autónomas?",
+    "options": [
+      "El presidente y los ministros.",
+      "El alcalde y los concejales.",
+      "El presidente y los consejeros."
+    ],
+    "answer": 2,
+    "explanation": "En las comunidades autónomas, el gobierno lo forman el presidente y los consejeros, cada uno al frente de una consejería, por ejemplo de Sanidad o de Educación. Los ministros forman el Gobierno de España.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1107",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cuál es el órgano de gobierno en los municipios?",
+    "options": ["El ayuntamiento.", "La diputación.", "El cabildo."],
+    "answer": 0,
+    "explanation": "El ayuntamiento, con el alcalde y los concejales, gobierna y administra cada municipio. La diputación gobierna la provincia y el cabildo, cada isla canaria.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1108",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cómo se llaman los órganos de gobierno de las provincias españolas?",
+    "options": ["Cabildos.", "Consejos insulares.", "Diputaciones."],
+    "answer": 2,
+    "explanation": "Las diputaciones provinciales gobiernan las provincias y ayudan sobre todo a los municipios pequeños (artículo 141 de la Constitución). En las islas existen los cabildos (Canarias) y los consejos insulares (Baleares).",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1109",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cuál es el órgano superior del poder ejecutivo?",
+    "options": ["El Gobierno.", "Las Fuerzas Armadas.", "Las Cortes Generales."],
+    "answer": 0,
+    "explanation": "El Gobierno es el órgano superior del poder ejecutivo: dirige la política del país y la Administración. Las Cortes Generales tienen el poder legislativo, y las Fuerzas Armadas dependen del Gobierno.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1110",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "El idioma español también se llama…",
+    "options": ["aragonés.", "castellano.", "leonés."],
+    "answer": 1,
+    "explanation": "El español también se llama castellano, porque nació en el antiguo reino de Castilla; la Constitución usa la palabra «castellano». El aragonés y el leonés son otras lenguas romances de la península, con pocos hablantes hoy.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1111",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿A quiénes se elige en las elecciones al Parlamento Europeo?",
+    "options": ["A los ministros europeos.", "A los consejeros delegados.", "A los eurodiputados."],
+    "answer": 2,
+    "explanation": "En las elecciones al Parlamento Europeo, que se celebran cada cinco años, se elige a los eurodiputados, que representan a los ciudadanos de la Unión Europea. A los ministros no se les elige en las urnas.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1112",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "Los españoles pueden votar a partir de los…",
+    "options": ["16 años.", "18 años.", "21 años."],
+    "answer": 1,
+    "explanation": "En España se puede votar desde los 18 años, la mayoría de edad que fija el artículo 12 de la Constitución.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1113",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "Algunos ciudadanos extranjeros pueden votar en las elecciones…",
+    "options": ["municipales.", "autonómicas.", "generales."],
+    "answer": 0,
+    "explanation": "Según el artículo 13 de la Constitución, algunos extranjeros pueden votar en las elecciones municipales: los ciudadanos de la Unión Europea y los de países con un acuerdo de reciprocidad con España. En las elecciones generales y autonómicas solo votan los españoles.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1114",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Quién controla la gestión financiera del Estado?",
+    "options": ["El Banco de España.", "La Agencia Tributaria.", "El Tribunal de Cuentas."],
+    "answer": 2,
+    "explanation": "El Tribunal de Cuentas es el órgano supremo que fiscaliza las cuentas y la gestión económica del Estado y del sector público (artículo 136 de la Constitución). El Banco de España supervisa a los bancos y la Agencia Tributaria recauda los impuestos.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1115",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿A quiénes se elige en las elecciones generales?",
+    "options": ["A los senadores y diputados.", "A los eurodiputados.", "A los concejales."],
+    "answer": 0,
+    "explanation": "En las elecciones generales se elige a los diputados del Congreso y a la mayoría de los senadores. A los concejales se les elige en las municipales y a los eurodiputados, en las europeas.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1116",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cuántos miembros tiene el Congreso de los Diputados?",
+    "options": ["300.", "350.", "400."],
+    "answer": 1,
+    "explanation": "La Constitución dice que el Congreso tendrá entre 300 y 400 diputados, y la ley electoral fija exactamente 350.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1117",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "Los municipios y provincias forman parte de la Administración…",
+    "options": ["autonómica.", "local.", "central."],
+    "answer": 1,
+    "explanation": "Los municipios y las provincias forman la Administración local, la más cercana a los ciudadanos: ayuntamientos, diputaciones, cabildos y consejos insulares. La autonómica son las comunidades y la central, el Estado.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1118",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "La comunidad autónoma más poblada de España es…",
+    "options": ["Andalucía.", "Cataluña.", "Castilla y León."],
+    "answer": 0,
+    "explanation": "Andalucía es la comunidad autónoma con más habitantes, más de 8,5 millones, seguida de Cataluña. Castilla y León es la más extensa, pero tiene muchos menos habitantes.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-1119",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cómo se llama la organización que defiende los intereses de los trabajadores?",
+    "options": ["Asociación.", "Partido.", "Sindicato."],
+    "answer": 2,
+    "explanation": "Los sindicatos defienden los intereses de los trabajadores, por ejemplo al negociar sueldos y condiciones con las empresas, y el artículo 7 de la Constitución los reconoce. Los mayores de España son CCOO y UGT.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-1120",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Quién elige al presidente del Gobierno?",
+    "options": ["El Congreso de los Diputados.", "El rey.", "El Tribunal Supremo."],
+    "answer": 0,
+    "explanation": "El Congreso de los Diputados elige al presidente del Gobierno en la votación de investidura, y después el rey lo nombra. Los ciudadanos votan a los diputados, no directamente al presidente.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-2001",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "En España, la Constitución obliga a todos los ciudadanos a practicar una religión.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "La Constitución garantiza la libertad religiosa (artículo 16): cada persona puede practicar la religión que quiera o ninguna. Además, España es un Estado aconfesional, sin religión oficial.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-2002",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "Los españoles que obtienen la nacionalidad por residencia deben esperar tres años para poder votar en las elecciones.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "Quien obtiene la nacionalidad española tiene los mismos derechos que cualquier otro español, también el de votar, en cuanto aparece en el censo electoral. No hay que esperar ningún plazo de años.",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-2003",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "En España, la Constitución prohíbe la tortura y la pena de muerte.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "El artículo 15 de la Constitución prohíbe la tortura y los tratos inhumanos o degradantes, y abolió la pena de muerte. La única excepción que dejaba, para las leyes militares en tiempo de guerra, se suprimió en 1995.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-2004",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "El funcionamiento de los partidos políticos tiene que ser democrático.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "El artículo 6 de la Constitución exige que la organización interna y el funcionamiento de los partidos políticos sean democráticos. Los partidos expresan el pluralismo político y canalizan la participación de los ciudadanos.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-2005",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "Se puede obligar a alguien a decir cuáles son sus ideas políticas o religiosas.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "El artículo 16 de la Constitución dice que nadie puede ser obligado a declarar sobre su ideología, su religión o sus creencias. Cada persona decide si quiere contarlo o no.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-2006",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "Se puede limitar a una persona el derecho a entrar y salir libremente de España por motivos ideológicos.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "El artículo 19 de la Constitución reconoce a los españoles el derecho a entrar y salir libremente de España y dice que no puede limitarse por motivos políticos o ideológicos.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-2007",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "La Educación Primaria (de 6 a 12 años) es gratuita y obligatoria.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "La Educación Primaria, de los 6 a los 12 años, forma parte de la enseñanza básica, que según el artículo 27 de la Constitución es obligatoria y gratuita. La enseñanza básica sigue con la ESO, hasta los 16 años.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-2008",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "La Constitución garantiza el derecho de los españoles a una vivienda digna.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "El artículo 47 de la Constitución reconoce el derecho de todos los españoles a una vivienda digna y adecuada, y pide a los poderes públicos que lo hagan posible. Es un principio que guía sus políticas, no un derecho a recibir una casa gratis.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-2009",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "En España la policía puede entrar en cualquier casa sin resolución judicial en cualquier momento.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "El artículo 18 de la Constitución dice que el domicilio es inviolable: la policía solo puede entrar con el permiso de quien vive allí, con una orden judicial o si se está cometiendo un delito en ese momento.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-2010",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "Se garantiza el secreto de las comunicaciones de los españoles, salvo resolución judicial.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "El artículo 18 de la Constitución garantiza el secreto de las comunicaciones, como cartas, llamadas o mensajes. Solo un juez puede autorizar que se intervengan.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-2011",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "La Constitución reconoce el derecho de los ciudadanos a asociarse libremente.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "El artículo 22 de la Constitución reconoce el derecho de asociación: las personas pueden crear asociaciones o unirse a ellas libremente. Solo están prohibidas las secretas, las paramilitares y las que buscan fines delictivos.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-2012",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "Los profesores pueden enseñar con libertad, dentro de los límites de la Constitución.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "La Constitución reconoce la libertad de cátedra (artículo 20): los profesores pueden enseñar con libertad, siempre dentro de los límites que marca la propia Constitución.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-2013",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "La Constitución reconoce únicamente los derechos fundamentales de los españoles.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "Muchos derechos fundamentales, como el derecho a la vida o la libertad religiosa, son de todas las personas, no solo de los españoles. El artículo 13 de la Constitución dice que los extranjeros también disfrutan de las libertades públicas, en los términos de los tratados y las leyes.",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-2014",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "Los ciudadanos deben colaborar con los jueces si se lo piden.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "El artículo 118 de la Constitución obliga a todos a cumplir las sentencias y a colaborar con los jueces y tribunales cuando lo pidan, por ejemplo como testigos.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-2015",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "La ley limita el acceso de terceras personas a datos de carácter personal.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "La Constitución pide que la ley limite el uso de la informática para proteger la intimidad (artículo 18), y la ley de protección de datos limita quién puede acceder a los datos personales y para qué. La Agencia Española de Protección de Datos vela por que se cumpla.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-2016",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "La libertad de prensa está limitada por el respeto al honor de las personas.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "La libertad de expresión y de prensa (artículo 20 de la Constitución) tiene límites: debe respetar sobre todo el derecho al honor, a la intimidad y a la propia imagen, y la protección de los menores.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-2017",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "En España las causas de separación y divorcio están reguladas por la ley.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "El artículo 32 de la Constitución dice que la ley regula el matrimonio, incluidas las causas de separación y divorcio. El divorcio es legal en España desde 1981; antes solo lo había sido durante la Segunda República.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-2018",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "La atención sanitaria gratuita es solo para personas mayores de 65 años.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "La sanidad pública atiende a todas las edades, desde los recién nacidos, y es gratuita cuando se usa porque se paga con los impuestos. El artículo 43 de la Constitución reconoce a todos el derecho a la protección de la salud.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-2019",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "En España los hombres y las mujeres tienen los mismos derechos.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "El artículo 14 de la Constitución dice que los españoles son iguales ante la ley, sin discriminación por sexo ni por ninguna otra razón. Hombres y mujeres tienen los mismos derechos.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-2020",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "La enseñanza obligatoria consta de dos etapas: Educación Primaria y Educación Secundaria Obligatoria.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "La enseñanza obligatoria en España dura diez años, de los 6 a los 16: seis cursos de Educación Primaria y cuatro de Educación Secundaria Obligatoria (ESO). Después se puede seguir con el Bachillerato o la Formación Profesional.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-2021",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "En España hay una religión oficial.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "El artículo 16 de la Constitución dice que ninguna confesión tendrá carácter estatal: España es un Estado aconfesional. Aun así, los poderes públicos cooperan con la Iglesia católica y con las demás confesiones.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-2022",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "La atención sanitaria pública es gratuita.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "La sanidad pública española es gratuita cuando la usas: no se paga la visita al médico ni el hospital, porque se financia con los impuestos. Algunas cosas, como una parte del precio de los medicamentos, sí se pagan.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-2023",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "La enseñanza básica en España es solo para los extranjeros.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "La enseñanza básica es para todos los niños y niñas que viven en España, españoles o extranjeros, y es obligatoria y gratuita. El artículo 27 de la Constitución reconoce a todos el derecho a la educación.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-2024",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "En España está reconocido el derecho de asociación.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "El artículo 22 de la Constitución reconoce el derecho de asociación. Las asociaciones se inscriben en un registro para que se conozca que existen.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-2025",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "Los sindicatos pueden participar en negociaciones con empresarios y con el Gobierno.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "Los sindicatos defienden los intereses de los trabajadores: negocian convenios colectivos con los empresarios y participan en el diálogo social con el Gobierno. La Constitución los reconoce en su artículo 7.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-2026",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "Los trabajadores tienen derecho a hacer huelga.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "El artículo 28 de la Constitución reconoce a los trabajadores el derecho de huelga para defender sus intereses. La ley debe asegurar que, durante una huelga, se mantengan los servicios esenciales.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-2027",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "La libertad ideológica está garantizada solo en parte del territorio nacional.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "La libertad ideológica está garantizada en toda España por el artículo 16 de la Constitución. Los derechos fundamentales valen igual en todo el territorio.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-2028",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "Todos los ciudadanos tienen acceso al sistema de Seguridad Social público, excepto si están desempleados.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "Según el artículo 41 de la Constitución, la Seguridad Social pública es para todos los ciudadanos y debe protegerlos precisamente en situaciones de necesidad, especialmente en caso de desempleo.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-2029",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "Todos tienen derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona, así como el deber de conservarlo.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "El artículo 45 de la Constitución reconoce el derecho a disfrutar de un medio ambiente adecuado y el deber de conservarlo. Quien lo daña puede recibir sanciones e incluso penas.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-2030",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "En España, los poderes públicos deben proteger la salud y promover el deporte.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "El artículo 43 de la Constitución encarga a los poderes públicos proteger la salud pública y fomentar la educación física y el deporte.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-2031",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "La enseñanza básica en España es obligatoria y gratuita.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "El artículo 27 de la Constitución dice que la enseñanza básica es obligatoria y gratuita. En España va de los 6 a los 16 años.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-2032",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "La ley prohíbe la discriminación por cualquier circunstancia personal o social.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "El artículo 14 de la Constitución prohíbe la discriminación por nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social. Todos son iguales ante la ley.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-2033",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "En España, los ciudadanos pueden desplazarse libremente por todo el territorio nacional.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "El artículo 19 de la Constitución reconoce a los españoles el derecho a circular libremente por todo el territorio nacional y a elegir dónde viven.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-2034",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "Los jueces administran la justicia en España según las indicaciones del Gobierno.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "Según el artículo 117 de la Constitución, los jueces son independientes y solo están sometidos a la ley. Por la separación de poderes, el Gobierno no puede darles indicaciones.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-2035",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "Los españoles deben ayudar en los casos de catástrofe o calamidad pública.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "El artículo 30 de la Constitución permite que la ley fije deberes de los ciudadanos en casos de grave riesgo, catástrofe o calamidad pública. La ley de protección civil los concreta, por ejemplo, colaborar con los servicios de emergencia.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-2036",
+    "topic": "derechos",
+    "type": "trueFalse",
+    "question": "En España los ciudadanos pueden elegir en qué ciudad quieren vivir.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "El artículo 19 de la Constitución reconoce a los españoles el derecho a elegir libremente su residencia. Cada persona puede vivir en la ciudad que quiera y empadronarse allí.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-3001",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "¿Dónde están Cáceres y Badajoz?",
+    "options": ["En el Principado de Asturias.", "En Andalucía.", "En Extremadura."],
+    "answer": 2,
+    "explanation": "Cáceres y Badajoz son las dos provincias de Extremadura, en el oeste de España, junto a Portugal. Badajoz es la provincia más extensa de España.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-3002",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "¿Cuál es la capital la Comunidad Valenciana?",
+    "options": ["Alicante.", "Castellón.", "Valencia."],
+    "answer": 2,
+    "explanation": "La capital de la Comunitat Valenciana es la ciudad de Valencia. Alicante, Castellón y Valencia son sus tres provincias.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-3003",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "¿Dónde están las islas Baleares?",
+    "options": ["En el mar Cantábrico.", "En el mar Mediterráneo.", "En el océano Atlántico."],
+    "answer": 1,
+    "explanation": "Las Islas Baleares (Mallorca, Menorca, Ibiza y Formentera, entre otras) están en el mar Mediterráneo, al este de la península. Las islas españolas del océano Atlántico son las Canarias.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-3004",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "¿Cómo se llama la extensa llanura situada en el centro de la península ibérica?",
+    "options": ["Marisma.", "Cordillera.", "Meseta."],
+    "answer": 2,
+    "explanation": "La Meseta Central es la gran llanura elevada del centro de la península, a una altitud media de entre 600 y 800 metros; el Sistema Central la divide en submeseta norte y submeseta sur. Ocupa buena parte de Castilla y León, Madrid y Castilla-La Mancha.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-3005",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "El parque nacional de Ordesa está en...",
+    "options": ["Aragón.", "Navarra.", "Castilla-La Mancha."],
+    "answer": 0,
+    "explanation": "El Parque Nacional de Ordesa y Monte Perdido está en el Pirineo de Huesca, en Aragón. Se creó en 1918 y es uno de los parques nacionales más antiguos de España.",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-3006",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "¿En qué comunidad autónoma están Guadalajara y Cuenca?",
+    "options": ["En Castilla y León.", "En Castilla-La Mancha.", "En Cantabria."],
+    "answer": 1,
+    "explanation": "Guadalajara y Cuenca son provincias de Castilla-La Mancha, junto con Toledo, Ciudad Real y Albacete. Las instituciones de la comunidad tienen su sede en Toledo.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-3007",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "¿Qué comunidad autónoma tiene como capital Santiago de Compostela?",
+    "options": ["Galicia.", "Asturias.", "Cantabria."],
+    "answer": 0,
+    "explanation": "Santiago de Compostela es la capital de Galicia y la meta del Camino de Santiago. Asturias tiene su capital en Oviedo y Cantabria, en Santander.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-3008",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "¿Dónde está Almería?",
+    "options": ["En Andalucía.", "En Canarias.", "En Aragón."],
+    "answer": 0,
+    "explanation": "Almería es una de las ocho provincias de Andalucía, en su extremo este; allí está el desierto de Tabernas.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-3009",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "La capital de la comunidad autónoma de Galicia es…",
+    "options": ["A Coruña.", "Vigo.", "Santiago de Compostela."],
+    "answer": 2,
+    "explanation": "La capital de Galicia es Santiago de Compostela, donde tienen su sede el Parlamento y la Xunta. Vigo y A Coruña son las ciudades más pobladas de Galicia, pero no son la capital.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-3010",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "¿Cuál de estos ríos desemboca en el mar Mediterráneo?",
+    "options": ["El Tajo.", "El Júcar.", "El Duero."],
+    "answer": 1,
+    "explanation": "El Júcar nace en la provincia de Cuenca y desemboca en el Mediterráneo, en Cullera (Valencia). El Tajo y el Duero corren hacia el oeste y desembocan en el Atlántico, en Portugal.",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-3011",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "¿Dónde está el monte Aneto?",
+    "options": ["En los Pirineos.", "En el Sistema Central.", "En Sierra Nevada."],
+    "answer": 0,
+    "explanation": "El Aneto, de unos 3400 metros, es el pico más alto de los Pirineos y está en Huesca (Aragón). La montaña más alta de España es el Teide, en Tenerife, y la de la península, el Mulhacén, en Sierra Nevada.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-3012",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "La ciudad de Vitoria es la sede administrativa de…",
+    "options": ["Navarra.", "País Vasco.", "La Rioja."],
+    "answer": 1,
+    "explanation": "Vitoria-Gasteiz, en Álava, es la sede del Parlamento y del Gobierno Vasco, por eso funciona como capital del País Vasco. Pamplona es la capital de Navarra y Logroño, la de La Rioja.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-3013",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "España se divide en…",
+    "options": [
+      "departamentos y regiones.",
+      "comunidades y ciudades autónomas.",
+      "regiones autónomas y distritos."
+    ],
+    "answer": 1,
+    "explanation": "España se divide en 17 comunidades autónomas y 2 ciudades autónomas, Ceuta y Melilla. Los departamentos y los distritos son divisiones de otros países, como Francia o Portugal.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-3014",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "El parque nacional de Aigüestortes está en...",
+    "options": ["Cataluña.", "Aragón", "Castilla y León."],
+    "answer": 0,
+    "explanation": "El Parque Nacional de Aigüestortes y Lago de San Mauricio está en el Pirineo de Lleida, en Cataluña, y es famoso por sus muchos lagos de montaña. Es el único parque nacional de Cataluña.",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-3015",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "En el norte de África están Ceuta y…",
+    "options": ["Almería.", "Melilla.", "Cádiz."],
+    "answer": 1,
+    "explanation": "Ceuta y Melilla son las dos ciudades autónomas españolas del norte de África, en la costa de Marruecos. Almería y Cádiz son provincias de Andalucía, en la península.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-3016",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "¿En qué lugar de España hay un clima que se caracteriza por inviernos fríos y veranos muy calurosos?",
+    "options": ["Canarias.", "Comunidad Valenciana.", "Madrid."],
+    "answer": 2,
+    "explanation": "Madrid, en el centro de la península, tiene inviernos fríos y veranos muy calurosos porque está lejos del mar y a unos 650 metros de altitud. En Canarias y en la costa valenciana el mar suaviza las temperaturas.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-3017",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "¿Cuál de estos ríos desemboca en el océano Atlántico?",
+    "options": ["El Guadalquivir.", "El Manzanares.", "El Júcar."],
+    "answer": 0,
+    "explanation": "El Guadalquivir atraviesa Andalucía y desemboca en el océano Atlántico, en Sanlúcar de Barrameda (Cádiz). El Júcar desemboca en el Mediterráneo y el Manzanares, el río de Madrid, desemboca en el Jarama, no en el mar.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-3018",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "¿Cuál de estas provincias forma parte de la Comunidad de Castilla y León?",
+    "options": ["Burgos.", "Huesca.", "Guadalajara."],
+    "answer": 0,
+    "explanation": "Burgos es una de las nueve provincias de Castilla y León, la comunidad con más provincias de España. Huesca está en Aragón y Guadalajara, en Castilla-La Mancha.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-3019",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "¿En qué comunidad autónoma está la ciudad de Huesca?",
+    "options": ["Castilla-La Mancha.", "Aragón.", "Extremadura."],
+    "answer": 1,
+    "explanation": "Huesca es una de las tres provincias de Aragón, con Zaragoza y Teruel; está al norte, en los Pirineos.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-3020",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "Canarias tiene un clima…",
+    "options": ["mediterráneo.", "oceánico.", "subtropical."],
+    "answer": 2,
+    "explanation": "Canarias tiene un clima subtropical, suave todo el año, por su latitud cercana a África, los vientos alisios y la corriente fría de Canarias. Por eso se las llama «las islas de la eterna primavera».",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-3021",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "El principal río que desemboca en el mar Mediterráneo es el…",
+    "options": ["Ebro.", "Duero.", "Tajo."],
+    "answer": 0,
+    "explanation": "El Ebro es el gran río de la vertiente mediterránea: nace en Cantabria, recorre unos 900 kilómetros por el nordeste y desemboca en un amplio delta en Tarragona. El Duero y el Tajo desembocan en el Atlántico.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-3022",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "España está entre los países de Europa más…",
+    "options": ["lluviosos.", "montañosos.", "fríos."],
+    "answer": 1,
+    "explanation": "España es uno de los países más montañosos de Europa: tiene muchas cordilleras y una altitud media de unos 660 metros, de las más altas del continente. Gran parte de su interior es la Meseta, una llanura elevada.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-3023",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "¿En qué provincia está el parque nacional de Monfragüe?",
+    "options": ["En Cáceres.", "En Murcia.", "En Ciudad Real."],
+    "answer": 0,
+    "explanation": "El Parque Nacional de Monfragüe está en la provincia de Cáceres (Extremadura), junto al río Tajo, y es famoso por sus aves, como el buitre negro. Es parque nacional desde 2007.",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-3024",
+    "topic": "territorio",
+    "type": "choice",
+    "question": "¿Cuál es la capital de la comunidad autónoma de Extremadura?",
+    "options": ["Cáceres.", "Badajoz.", "Mérida."],
+    "answer": 2,
+    "explanation": "Mérida, en la provincia de Badajoz, es la capital de Extremadura, aunque Badajoz y Cáceres tienen más habitantes. Fue la ciudad romana de Emerita Augusta y conserva un famoso teatro romano.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-4001",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "Los personajes principales de la novela el Quijote son don Quijote y…",
+    "options": ["Don Juan.", "Sancho Panza.", "Doña Inés."],
+    "answer": 1,
+    "explanation": "Don Quijote y su escudero, Sancho Panza, son los protagonistas de «Don Quijote de la Mancha», de Miguel de Cervantes, cuya primera parte se publicó en 1605. Don Juan y doña Inés son personajes de «Don Juan Tenorio», de José Zorrilla.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-4002",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "¿Qué científica española es reconocida por sus investigaciones?",
+    "options": ["Almudena Grandes.", "Montserrat Caballé.", "Margarita Salas."],
+    "answer": 2,
+    "explanation": "Margarita Salas (1938-2019) fue una bioquímica española famosa por su investigación sobre el virus phi29, que dio lugar a una técnica muy usada para copiar ADN. Almudena Grandes fue novelista y Montserrat Caballé, soprano.",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-4003",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "¿Quién escribió La casa de Bernarda Alba?",
+    "options": ["Federico García Lorca.", "Miguel de Cervantes.", "Antonio Machado."],
+    "answer": 0,
+    "explanation": "Federico García Lorca escribió «La casa de Bernarda Alba» en 1936, poco antes de ser asesinado al comienzo de la Guerra Civil. Antonio Machado fue poeta y Cervantes escribió el Quijote.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-4004",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "¿Quién escribió Nada, una novela sobre la posguerra española?",
+    "options": ["Carmen Laforet.", "Ana María Matute.", "María Dueñas."],
+    "answer": 0,
+    "explanation": "Carmen Laforet ganó con «Nada» el primer Premio Nadal y la publicó en 1945; la novela cuenta la vida gris de la Barcelona de posguerra. María Dueñas escribió «El tiempo entre costuras».",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-4005",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "¿Qué músico compuso El amor brujo?",
+    "options": ["Manuel de Falla.", "Isaac Albéniz.", "Joaquín Rodrigo."],
+    "answer": 0,
+    "explanation": "Manuel de Falla, compositor de Cádiz, estrenó «El amor brujo» en 1915. Joaquín Rodrigo es el autor del «Concierto de Aranjuez» e Isaac Albéniz, de la suite «Iberia».",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-4006",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "¿Qué es típico en la Noche de San Juan?",
+    "options": ["Comer uvas.", "Encender hogueras.", "Regalar libros."],
+    "answer": 1,
+    "explanation": "La noche de San Juan, del 23 al 24 de junio, se celebra en muchos lugares de España encendiendo hogueras, sobre todo en la costa mediterránea y en Galicia. Las uvas se comen en Nochevieja y los libros se regalan el 23 de abril, Día del Libro.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-4007",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "¿Cuál es el instrumento más característico de la música flamenca?",
+    "options": ["La gaita.", "La guitarra.", "El piano."],
+    "answer": 1,
+    "explanation": "La guitarra es el instrumento principal del flamenco, que también tiene cante y baile; guitarristas como Paco de Lucía lo llevaron por todo el mundo. La gaita es típica de Galicia y Asturias.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-4008",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "Isabel Coixet es una…",
+    "options": ["cantante pop.", "bailarina clásica.", "directora de cine."],
+    "answer": 2,
+    "explanation": "Isabel Coixet es una directora de cine de Barcelona; ganó los Goya a la mejor película y a la mejor dirección con «La vida secreta de las palabras» (2005).",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-4009",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "Una de las cantantes españolas más famosas actualmente es...",
+    "options": ["Rosalía.", "Marisol.", "Lola Flores."],
+    "answer": 0,
+    "explanation": "Rosalía, cantante catalana que mezcla el flamenco con el pop y la música urbana, es una de las artistas españolas más conocidas en el mundo; su disco «El mal querer» (2018) la hizo famosa. Marisol y Lola Flores fueron muy famosas, pero hace décadas.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-4010",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "¿En qué ciudad de España hay una mezquita que es Patrimonio de la Humanidad?",
+    "options": ["Santiago de Compostela.", "Madrid.", "Córdoba."],
+    "answer": 2,
+    "explanation": "La Mezquita-Catedral de Córdoba, construida en la época de Al-Ándalus, es Patrimonio de la Humanidad desde 1984. En el siglo XVI se levantó una catedral en su interior.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-4011",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "¿En qué ciudad de España se encuentra La Alhambra, que es Patrimonio de la Humanidad?",
+    "options": ["En Sevilla.", "En Córdoba.", "En Granada."],
+    "answer": 2,
+    "explanation": "La Alhambra de Granada fue el palacio y la fortaleza de los reyes nazaríes, el último reino musulmán de la península, hasta 1492. Es Patrimonio de la Humanidad desde 1984.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-4012",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "¿Cuál es el nombre de la directora española que ha destacado por su mirada crítica y por modernizar el cine nacional?",
+    "options": ["Pilar Miró.", "Sara Baras.", "Penélope Cruz."],
+    "answer": 0,
+    "explanation": "Pilar Miró (1940-1997) fue directora de cine y de televisión; como directora general de Cinematografía impulsó la llamada «Ley Miró», que ayudó a renovar el cine español en los años 80. Sara Baras es bailaora y Penélope Cruz, actriz.",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-4013",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "¿Qué novela de éxito ha escrito Irene Vallejo?",
+    "options": ["El infinito en un junco.", "El tiempo entre costuras.", "El camino."],
+    "answer": 0,
+    "explanation": "Irene Vallejo, escritora de Zaragoza, publicó en 2019 «El infinito en un junco», un ensayo sobre la historia del libro en la Antigüedad que ganó el Premio Nacional de Ensayo. «El tiempo entre costuras» es de María Dueñas y «El camino», de Miguel Delibes.",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-4014",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "¿Cómo se llama la mayor institución pública dedicada a la investigación en España?",
+    "options": [
+      "Real Academia Española (RAE).",
+      "Consejo Superior de investigaciones Científicas (CSIC).",
+      "La sociedad General de Autores (SGAE)."
+    ],
+    "answer": 1,
+    "explanation": "El Consejo Superior de Investigaciones Científicas (CSIC), creado en 1939, es la mayor institución pública de investigación de España, con centros de ciencias, tecnología y humanidades. La RAE cuida la lengua y la SGAE gestiona derechos de autor.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-4015",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "Paco de Lucía fue un famoso….",
+    "options": ["científico.", "guitarrista.", "pintor."],
+    "answer": 1,
+    "explanation": "Paco de Lucía (1947-2014), nacido en Algeciras, fue uno de los grandes guitarristas de flamenco de la historia; su rumba «Entre dos aguas» se hizo muy popular. Recibió el Premio Príncipe de Asturias de las Artes en 2004.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-4016",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "¿Qué celebramos el 24 de diciembre?",
+    "options": ["Carnaval.", "Nochebuena.", "San Juan."],
+    "answer": 1,
+    "explanation": "La noche del 24 de diciembre es la Nochebuena, la víspera de Navidad, cuando muchas familias cenan juntas. El Carnaval es en febrero o marzo y San Juan, en junio.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-4017",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "Juan Mari Arzak es un famoso....",
+    "options": ["escritor.", "músico", "cocinero."],
+    "answer": 2,
+    "explanation": "Juan Mari Arzak es un cocinero de San Sebastián, uno de los creadores de la nueva cocina vasca; su restaurante, Arzak, logró la tercera estrella Michelin en 1989.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-4018",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "¿Quién fue Clara Campoamor?",
+    "options": [
+      "Una defensora de los derechos de la mujer.",
+      "Una cantante lírica.",
+      "Una directora de cine."
+    ],
+    "answer": 0,
+    "explanation": "Clara Campoamor (1888-1972) fue una abogada y diputada que defendió en las Cortes el voto de las mujeres, aprobado en la Constitución de 1931. Las españolas votaron por primera vez en unas elecciones generales en 1933.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-4019",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "¿Qué canciones típicas se cantan en Navidad?",
+    "options": ["Flamenco.", "Villancicos.", "Jotas."],
+    "answer": 1,
+    "explanation": "Los villancicos son las canciones tradicionales de Navidad, como «Los peces en el río». El flamenco y la jota son estilos de música y baile que se cantan todo el año.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-4020",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "La Liga y la Copa del Rey son competiciones de…",
+    "options": ["natación.", "atletismo.", "fútbol."],
+    "answer": 2,
+    "explanation": "La Liga y la Copa del Rey son las principales competiciones de fútbol de clubes en España; la Copa se juega desde 1903. En ellas juegan equipos como el Real Madrid o el FC Barcelona.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-4021",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "¿Quién ha recibido el premio Nobel de Literatura?",
+    "options": ["María Zambrano.", "Pablo Picasso.", "Vicente Aleixandre."],
+    "answer": 2,
+    "explanation": "El poeta Vicente Aleixandre, de la Generación del 27, recibió el Premio Nobel de Literatura en 1977. María Zambrano fue filósofa y Picasso, pintor; ninguno de los dos recibió el Nobel.",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-4022",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "¿Qué fiesta se celebra en Pamplona el 7 de julio?",
+    "options": ["Los sanfermines.", "Las Fallas.", "La Feria de Abril."],
+    "answer": 0,
+    "explanation": "El 7 de julio es el día de San Fermín, copatrón de Navarra; las fiestas de Pamplona van del 6 al 14 de julio y son famosas por sus encierros. Las Fallas son en Valencia en marzo y la Feria de Abril, en Sevilla.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-4023",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "Teresa Perales y Daniel Molina son...",
+    "options": ["campeones paraolímpicos.", "músicos famosos.", "artistas de cine."],
+    "answer": 0,
+    "explanation": "Teresa Perales, nadadora, ha ganado 28 medallas paralímpicas, siete de ellas de oro, y Daniel Molina ganó el oro de paratriatlón en los Juegos Paralímpicos de París 2024. Los dos son, por tanto, campeones paralímpicos.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-4024",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "¿Qué toman los españoles la noche del 31 de diciembre para celebrar el cambio de año?",
+    "options": ["Lentejas.", "Uvas.", "Aceitunas."],
+    "answer": 1,
+    "explanation": "En Nochevieja, a las doce de la noche, los españoles comen doce uvas, una con cada campanada del reloj, por ejemplo el de la Puerta del Sol de Madrid. Así despiden el año viejo y reciben el nuevo.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-4025",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "¿Qué mujer es autora del cuadro La verbena?",
+    "options": ["Maruja Mallo.", "Carmen Maura.", "Clara Lago."],
+    "answer": 0,
+    "explanation": "Maruja Mallo (1902-1995) fue una pintora de vanguardia de la Generación del 27 y pintó «La verbena» en 1927. Carmen Maura y Clara Lago son actrices.",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-4026",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "¿En qué museo español puedes ver el cuadro Guernica de Picasso?",
+    "options": ["Museo del Prado.", "Museo Reina Sofía.", "Museo Thyssen-Bornemisza."],
+    "answer": 1,
+    "explanation": "El «Guernica», que Picasso pintó en 1937 tras el bombardeo de esa villa vasca, está desde 1992 en el Museo Nacional Centro de Arte Reina Sofía, en Madrid. Antes estuvo en el Casón del Buen Retiro, que forma parte del Museo del Prado.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-4027",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "¿Qué escritora española escribe en otra lengua oficial de España?",
+    "options": ["Mercè Rodoreda.", "Almudena Grandes.", "Ana María Matute."],
+    "answer": 0,
+    "explanation": "Mercè Rodoreda (1908-1983) escribió en catalán; su novela más famosa es «La plaça del Diamant» (1962). Almudena Grandes y Ana María Matute escribieron en castellano.",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-4028",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "¿Qué tres culturas convivieron en la España medieval?",
+    "options": [
+      "La cristiana, la judía y la musulmana.",
+      "La fenicia, la judía y la musulmana.",
+      "La griega, la cristiana y la judía."
+    ],
+    "answer": 0,
+    "explanation": "En la Edad Media convivieron en la península cristianos, judíos y musulmanes, y ciudades como Toledo o Córdoba fueron ejemplos de intercambio entre las tres culturas. Los fenicios y los griegos llegaron mucho antes, en la Antigüedad.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-4029",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "El 6 de diciembre se celebra en España…",
+    "options": [
+      "el Día de la Constitución.",
+      "la llegada de Colón a América.",
+      "el Día del Libro."
+    ],
+    "answer": 0,
+    "explanation": "El 6 de diciembre es el Día de la Constitución, festivo en toda España, que recuerda el referéndum de 1978. La llegada de Colón a América se recuerda el 12 de octubre y el Día del Libro es el 23 de abril.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-4030",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "¿Qué ciudad fue un centro científico en Al-Ándalus, donde se estudiaba medicina y astronomía?",
+    "options": ["Barcelona.", "Madrid.", "Córdoba."],
+    "answer": 2,
+    "explanation": "Córdoba fue la capital del califato omeya de Al-Ándalus en el siglo X y un gran centro de saber, con médicos y astrónomos famosos. Allí nacieron también los sabios Averroes y Maimónides.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-4031",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "¿En qué ciudad española está el Museo Guggenheim?",
+    "options": ["Bilbao.", "Madrid.", "Valencia."],
+    "answer": 0,
+    "explanation": "El Museo Guggenheim de Bilbao, obra del arquitecto Frank Gehry, se inauguró en 1997. Su edificio, cubierto de titanio, cambió la imagen de la ciudad.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-4032",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "El Premio Cervantes se da a…",
+    "options": ["actores.", "escritores.", "pintores."],
+    "answer": 1,
+    "explanation": "El Premio Cervantes, que se concede desde 1976, es el premio más importante de las letras en español y se da cada año a un escritor de España o de Hispanoamérica por toda su obra. Se entrega el 23 de abril en la Universidad de Alcalá de Henares.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-4033",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "¿Qué premio reconoce a los mejores actores y películas?",
+    "options": ["Premio Goya.", "Premio Nobel.", "Premio Cervantes."],
+    "answer": 0,
+    "explanation": "Los Premios Goya, que entrega cada año desde 1987 la Academia de las Artes y las Ciencias Cinematográficas de España, premian las mejores películas, actores y profesionales del cine español. El Premio Cervantes es para escritores.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-4034",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "¿Qué premios promueven en España valores científicos, culturales y humanísticos?",
+    "options": ["Los Premios Cervantes.", "Los Premios Princesa de Asturias.", "Los Premios Goya."],
+    "answer": 1,
+    "explanation": "Los Premios Princesa de Asturias se entregan cada año en Oviedo y reconocen trabajos científicos, técnicos, culturales, sociales y humanísticos de todo el mundo. Hasta 2014 se llamaban Premios Príncipe de Asturias.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-4035",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "¿Cuál de estos deportes es muy popular en España?",
+    "options": ["El fútbol.", "El esquí", "El golf."],
+    "answer": 0,
+    "explanation": "El fútbol es el deporte más popular de España: la Liga tiene millones de seguidores y las selecciones masculina y femenina han sido campeonas del mundo, en 2010 y en 2023. El esquí y el golf se practican, pero son mucho menos populares.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-4036",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "¿Cuál de estos deportistas juega al tenis?",
+    "options": ["Pau Gasol.", "Carlos Sainz.", "Carlos Alcaraz."],
+    "answer": 2,
+    "explanation": "Carlos Alcaraz, nacido en 2003 en El Palmar (Murcia), es tenista y ha ganado varios torneos de Grand Slam. Pau Gasol jugó al baloncesto y Carlos Sainz es piloto de automovilismo.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5001",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Qué documento deben solicitar los extranjeros para residir legalmente en España?",
+    "options": [
+      "El Documento Nacional de Identidad (DNI).",
+      "La Tarjeta de Identidad de Extranjero (TIE).",
+      "El certificado de empadronamiento."
+    ],
+    "answer": 1,
+    "explanation": "La Tarjeta de Identidad de Extranjero (TIE) es el documento que identifica a los extranjeros con autorización para residir en España; los ciudadanos de la Unión Europea se inscriben en otro registro. El DNI es solo para españoles.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5002",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Cuál es el documento que certifica el lugar de residencia del titular?",
+    "options": [
+      "El certificado de empadronamiento.",
+      "La partida de nacimiento.",
+      "El carné de conducir."
+    ],
+    "answer": 0,
+    "explanation": "El certificado de empadronamiento lo expide el ayuntamiento y acredita en qué municipio y domicilio vives. Todas las personas que viven en España deben inscribirse en el padrón de su municipio.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5003",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿A qué sustituye el registro electrónico individual?",
+    "options": ["Al DNI.", "Al permiso de conducir.", "Al libro de familia."],
+    "answer": 2,
+    "explanation": "Con la ley del Registro Civil de 2011, en vigor desde 2021, cada persona tiene un registro electrónico individual con sus datos de nacimiento, matrimonio o hijos. Por eso ya no se expiden libros de familia.",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-5004",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Cuál es la edad mínima para conducir un coche en España?",
+    "options": ["16 años.", "18 años.", "20 años."],
+    "answer": 1,
+    "explanation": "En España se puede conducir un coche (permiso B) a partir de los 18 años. Antes de esa edad solo se pueden obtener permisos para ciclomotores y motos pequeñas.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5005",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "El carné de conducir se hace en…",
+    "options": [
+      "la Dirección General de Tráfico (DGT).",
+      "la Policía Nacional.",
+      "el Registro Civil."
+    ],
+    "answer": 0,
+    "explanation": "Los exámenes y los permisos de conducir los gestiona la Dirección General de Tráfico (DGT), a través de sus jefaturas provinciales. Normalmente se preparan en una autoescuela.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5006",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Para sacar el carné de conducir hay que aprobar…",
+    "options": ["un examen teórico.", "un examen práctico.", "un examen teórico y otro práctico."],
+    "answer": 2,
+    "explanation": "Para sacar el carné de conducir hay que aprobar dos exámenes de la DGT: uno teórico, de normas y señales, y otro práctico, conduciendo por la calle.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5007",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Dónde se tramita el libro de familia?",
+    "options": [
+      "En el Registro Civil.",
+      "En la Seguridad Social.",
+      "En las comisarías de policía."
+    ],
+    "answer": 0,
+    "explanation": "El libro de familia se tramitaba en el Registro Civil, que inscribe los nacimientos, matrimonios y defunciones. Hoy el Registro Civil lo ha sustituido por un registro electrónico individual de cada persona.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-5008",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Cuál de estos canales de televisión es autonómico?",
+    "options": ["Telecinco.", "Nova.", "Canal Sur."],
+    "answer": 2,
+    "explanation": "Canal Sur es la televisión pública autonómica de Andalucía. Telecinco es una cadena privada nacional y Nova, un canal temático de un grupo privado.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-5009",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Cuánto dura el permiso de maternidad o paternidad?",
+    "options": ["12 semanas.", "19 semanas.", "22 semanas."],
+    "answer": 1,
+    "explanation": "Desde el Real Decreto-ley 9/2025, de julio de 2025, el permiso por nacimiento y cuidado de un hijo es de 19 semanas para cada progenitor; antes eran 16. Es igual para la madre y para el otro progenitor, y no se puede ceder de uno a otro.",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-5010",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Cuál es la tasa máxima de alcohol en sangre permitida a los conductores, en gramos por litro (g/l)?",
+    "options": ["0,5.", "0,7.", "0,9."],
+    "answer": 0,
+    "explanation": "La tasa máxima general de alcohol para conducir es de 0,5 gramos por litro en sangre (0,25 miligramos por litro en el aire espirado). Para los conductores noveles y los profesionales es más baja, de 0,3 g/l.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-5011",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Cuál es el tipo de residencia más habitual en España?",
+    "options": ["Casa rural.", "Piso en un edificio de viviendas.", "Chalé independiente."],
+    "answer": 1,
+    "explanation": "La mayoría de los españoles vive en pisos, es decir, en viviendas dentro de edificios de varias plantas, sobre todo en las ciudades. Las casas independientes son más comunes en los pueblos y las urbanizaciones.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5012",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Qué comunidad autónoma es conocida por la calidad de su aceite de oliva?",
+    "options": ["Cantabria.", "Andalucía.", "La Rioja."],
+    "answer": 1,
+    "explanation": "Andalucía, sobre todo la provincia de Jaén, produce la mayor parte del aceite de oliva de España, el mayor productor del mundo. La Rioja es famosa por su vino y Cantabria, por sus anchoas.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5013",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Cómo se llama la revisión que deben pasar obligatoriamente los coches?",
+    "options": [
+      "IBI (Impuesto sobre Bienes Inmuebles).",
+      "ITV (Inspección Técnica de Vehículos).",
+      "ITE (Inspección Técnica de Edificios)."
+    ],
+    "answer": 1,
+    "explanation": "La ITV (Inspección Técnica de Vehículos) revisa cada cierto tiempo que los coches estén en buen estado y sean seguros. El IBI es un impuesto sobre casas y terrenos y la ITE revisa edificios.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5014",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "El aperitivo que acompaña a la bebida en bares y restaurantes se llama...",
+    "options": ["bocadillo.", "tapa.", "primer plato."],
+    "answer": 1,
+    "explanation": "La tapa es una pequeña porción de comida que acompaña a la bebida en los bares; en algunas ciudades, como Granada, se sirve gratis con la consumición. Ir de tapas es una costumbre muy española.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5015",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Dónde se tramita la tarjeta sanitaria?",
+    "options": [
+      "En la comisaría de policía.",
+      "En el centro de salud.",
+      "En el Ministerio de Sanidad."
+    ],
+    "answer": 1,
+    "explanation": "La tarjeta sanitaria individual se pide en el centro de salud que te corresponde por tu domicilio, o en la web del servicio de salud de tu comunidad. Con ella te atienden en la sanidad pública.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-5016",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Con cuántos hijos una familia es numerosa?",
+    "options": ["Con 1 hijo.", "Con 2 hijos.", "Con 3 hijos."],
+    "answer": 2,
+    "explanation": "En España una familia es numerosa, en general, cuando tiene tres hijos o más, y en algunos casos con dos, por ejemplo si uno tiene discapacidad. El título de familia numerosa da descuentos y ayudas.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5017",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "En España está permitido el matrimonio…",
+    "options": [
+      "solo entre personas del mismo sexo.",
+      "entre personas del mismo y diferente sexo.",
+      "solo entre personas de diferente sexo."
+    ],
+    "answer": 1,
+    "explanation": "Desde 2005, en España pueden casarse dos personas del mismo sexo o de distinto sexo, con los mismos derechos. España fue uno de los primeros países del mundo en aprobarlo.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5018",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Los propietarios de perros deben registrarlos en…",
+    "options": ["el Ministerio de Justicia.", "la comisaría de policía.", "el Ayuntamiento."],
+    "answer": 2,
+    "explanation": "Los dueños de perros deben inscribirlos en el registro o censo de animales de su ayuntamiento, además de identificarlos con un microchip. Así se puede encontrar al dueño si el animal se pierde.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-5019",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Los principales ingredientes de la tortilla española son huevos y…",
+    "options": ["pimientos.", "patatas.", "tomates."],
+    "answer": 1,
+    "explanation": "La tortilla española, o de patatas, se hace con huevos y patatas, y mucha gente le añade cebolla. Es uno de los platos más típicos de España.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5020",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Cuál es uno de los platos más conocidos internacionalmente de la gastronomía española?",
+    "options": ["Gazpacho.", "Pizza.", "Pasta."],
+    "answer": 0,
+    "explanation": "El gazpacho es una sopa fría andaluza de tomate, pimiento, pepino, ajo, aceite de oliva y vinagre, conocida en todo el mundo. La pizza y la pasta son platos italianos.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5021",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Cuál de estos canales de televisión es público?",
+    "options": ["Tele 5.", "La 1.", "Antena 3."],
+    "answer": 1,
+    "explanation": "La 1 es el principal canal de Radiotelevisión Española (RTVE), la televisión pública estatal. Telecinco (Tele 5) y Antena 3 son cadenas privadas.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-5022",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "En una comunidad de vecinos, una de las normas es…",
+    "options": [
+      "abrir la puerta al cartero.",
+      "no molestar con ruido.",
+      "limpiar los espacios comunes."
+    ],
+    "answer": 1,
+    "explanation": "En una comunidad de vecinos hay que respetar el descanso de los demás y no molestar con ruidos, sobre todo por la noche; lo regulan las normas de la comunidad y las ordenanzas municipales. La limpieza de las zonas comunes suele hacerla una persona o una empresa contratada.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5023",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Cuál de estos es el principal ingrediente de la paella valenciana?",
+    "options": ["Arroz.", "Chorizo.", "Garbanzos."],
+    "answer": 0,
+    "explanation": "La paella valenciana es un plato de arroz cocinado en una sartén ancha y plana, la paella, normalmente con pollo, conejo, judías verdes y garrofó. El chorizo no forma parte de la receta tradicional.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5024",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "La sidra es una bebida típica de…",
+    "options": ["Asturias.", "Valencia.", "Canarias."],
+    "answer": 0,
+    "explanation": "La sidra, hecha con manzanas, es la bebida típica de Asturias; se sirve «escanciada», echándola desde lo alto para que haga espuma. También es típica del País Vasco.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5025",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Los españoles tienen dos apellidos, el primero es…",
+    "options": [
+      "obligatoriamente el de la madre.",
+      "obligatoriamente el del padre.",
+      "puede ser el de la madre o el del padre."
+    ],
+    "answer": 2,
+    "explanation": "Los padres eligen de común acuerdo el orden de los apellidos de su hijo, así que el primero puede ser el de la madre. Desde 2017, con la ley del Registro Civil de 2011, si no se ponen de acuerdo decide el encargado del Registro Civil; antes, en ese caso, el primero era el del padre.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-5026",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "La Fiesta Nacional de España es el…",
+    "options": ["6 de diciembre.", "15 de agosto.", "12 de octubre."],
+    "answer": 2,
+    "explanation": "La Fiesta Nacional de España es el 12 de octubre, el día en que Colón llegó a América en 1492, y se celebra con un desfile militar en Madrid. El 6 de diciembre es el Día de la Constitución y el 15 de agosto, la Asunción.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5027",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Qué días suelen cerrar la mayoría de las tiendas o el pequeño comercio?",
+    "options": ["Los lunes.", "Los domingos.", "Los sábados por la tarde."],
+    "answer": 1,
+    "explanation": "La mayoría de las tiendas pequeñas cierran los domingos y los festivos, aunque cada comunidad autónoma permite abrir algunos domingos al año. Los grandes comercios abren más días.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5028",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Dónde se hace el pasaporte?",
+    "options": ["En el registro civil.", "En una comisaría de policía.", "En el Ayuntamiento."],
+    "answer": 1,
+    "explanation": "El pasaporte, como el DNI, se expide en las comisarías de la Policía Nacional que tienen oficina de documentación, normalmente con cita previa. Fuera de España se pide en los consulados.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-5029",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "El Ministerio de Igualdad es el encargado de luchar contra la violencia de género y la…",
+    "options": ["separación.", "discriminación.", "solidaridad."],
+    "answer": 1,
+    "explanation": "El Ministerio de Igualdad trabaja para eliminar la violencia de género y la discriminación por razón de sexo, orientación sexual u otros motivos. De él depende el Instituto de las Mujeres.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5030",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Qué comunidad autónoma es conocida por la calidad de sus cavas?",
+    "options": ["Galicia.", "Cataluña.", "Castilla-La Mancha."],
+    "answer": 1,
+    "explanation": "El cava es un vino espumoso y la mayor parte se produce en Cataluña, sobre todo en el Penedès, en torno a Sant Sadurní d'Anoia. La denominación de origen Cava incluye también zonas de otras comunidades.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5031",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Qué documento se necesita para recibir atención médica en la sanidad pública?",
+    "options": ["El pasaporte.", "La tarjeta sanitaria.", "El certificado de nacimiento."],
+    "answer": 1,
+    "explanation": "La tarjeta sanitaria individual identifica a cada persona en el sistema público de salud y se presenta al pedir cita o al ser atendido. El pasaporte o el certificado de nacimiento no sirven para eso.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5032",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "El horario de Canarias, con respecto a la Península, es de…",
+    "options": ["dos horas menos.", "una hora menos.", "una hora más."],
+    "answer": 1,
+    "explanation": "Canarias tiene una hora menos que la península y Baleares: cuando en Madrid son las 12, en Canarias son las 11. Por eso en la radio se oye «una hora menos en Canarias».",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5033",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Para acceder a la Universidad se debe superar una prueba de evaluación llamada…",
+    "options": ["Selectividad.", "Examen preuniversitario.", "Prueba de Acceso a la Universidad."],
+    "answer": 2,
+    "explanation": "Para entrar en la universidad después del Bachillerato hay que aprobar la Prueba de Acceso a la Universidad (PAU). Mucha gente la sigue llamando «Selectividad», que era su nombre antiguo.",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-5034",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Cuál de estos productos necesita importar España de otros países?",
+    "options": ["Petróleo.", "Aceite de oliva.", "Medicamentos."],
+    "answer": 0,
+    "explanation": "España casi no tiene petróleo propio, así que importa casi todo el que consume. En cambio, es el mayor productor mundial de aceite de oliva.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5035",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Qué tipo de impuestos tienen que pagar los ciudadanos en España?",
+    "options": [
+      "Impuestos directos como el IRPF.",
+      "Impuestos indirectos como el IVA.",
+      "Impuestos directos e indirectos."
+    ],
+    "answer": 2,
+    "explanation": "En España se pagan impuestos directos, que dependen de lo que ganas o tienes, como el IRPF, e indirectos, que se pagan al consumir, como el IVA. El artículo 31 de la Constitución dice que todos contribuyen según su capacidad económica.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5036",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Los adultos sin Bachillerato pueden estudiar en la Universidad haciendo una prueba especial a partir de los…",
+    "options": ["18 años.", "23 años.", "25 años."],
+    "answer": 2,
+    "explanation": "Las personas mayores de 25 años que no tienen el Bachillerato pueden entrar en la universidad con una prueba de acceso especial. También hay vías para mayores de 40 años con experiencia laboral y para mayores de 45.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-5037",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Dónde puede encontrarse la siguiente norma «No pisar el césped, ni arrancar flores»?",
+    "options": ["En zonas de recreo.", "En los teatros.", "En los estadios de fútbol."],
+    "answer": 0,
+    "explanation": "«No pisar el césped» es una norma típica de parques y jardines, que son zonas de recreo: protege las plantas para que todos puedan disfrutarlas. En teatros y estadios hay otras normas.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5038",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "El Bachillerato en España…",
+    "options": [
+      "es obligatorio.",
+      "se compone de dos cursos académicos.",
+      "es la enseñanza a alumnos de 14 a 16 años."
+    ],
+    "answer": 1,
+    "explanation": "El Bachillerato tiene dos cursos, normalmente de los 16 a los 18 años, y no es obligatorio. La ESO, que sí lo es, va de los 12 a los 16 años.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-5039",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "El Impuesto sobre el Valor Añadido (IVA) forma parte de los…",
+    "options": [
+      "Impuestos indirectos.",
+      "Impuestos sobre la renta.",
+      "Impuestos sobre sociedades."
+    ],
+    "answer": 0,
+    "explanation": "El IVA (impuesto sobre el valor añadido) es un impuesto indirecto: se paga al comprar productos y servicios, sea cual sea la renta de quien compra. El IRPF, en cambio, es un impuesto directo sobre la renta.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-5040",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Qué número reciben los trabajadores al comenzar su primer empleo?",
+    "options": ["El de la Seguridad Social.", "El del pasaporte.", "El número de servicio."],
+    "answer": 0,
+    "explanation": "Al empezar a trabajar por primera vez, cada persona recibe un número de afiliación a la Seguridad Social, que mantiene toda la vida. Con él se registran sus cotizaciones para la jubilación, el paro o las bajas.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5041",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Los colegios públicos…",
+    "options": [
+      "pueden decidir su número de plazas.",
+      "pueden contratar a los profesores que quieran.",
+      "son gratuitos."
+    ],
+    "answer": 2,
+    "explanation": "Los colegios públicos son gratuitos porque se pagan con dinero público. Sus plazas y sus profesores los decide la Administración educativa, no el propio colegio.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5042",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Cuál de estos puertos es uno de los principales de España?",
+    "options": ["Tenerife.", "Alicante.", "Algeciras."],
+    "answer": 2,
+    "explanation": "El puerto de Algeciras (Cádiz), junto al estrecho de Gibraltar, es uno de los que más mercancías mueven de España y de Europa. Valencia es el otro gran puerto español de contenedores.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-5043",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Un colegio concertado es un colegio privado que…",
+    "options": [
+      "recibe dinero de la Administración.",
+      "financian los padres de los alumnos.",
+      "recibe dinero de los bancos."
+    ],
+    "answer": 0,
+    "explanation": "Un colegio concertado es de titularidad privada, pero recibe dinero público mediante un concierto con la Administración, y por eso la enseñanza obligatoria allí es gratuita. Los colegios privados, en cambio, se pagan con las cuotas de las familias.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-5044",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "España exporta productos principalmente a países…",
+    "options": ["de Hispanoamérica.", "de la Unión Europea.", "del norte de África."],
+    "answer": 1,
+    "explanation": "La mayoría de las exportaciones españolas van a otros países de la Unión Europea, sobre todo Francia, Alemania, Italia y Portugal. Pertenecer al mercado único facilita ese comercio.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5045",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Las bibliotecas públicas son gratuitas para…",
+    "options": ["todos.", "los parados.", "los niños."],
+    "answer": 0,
+    "explanation": "Las bibliotecas públicas son gratuitas para todo el mundo: cualquiera puede leer en ellas y, con el carné de biblioteca, también gratuito, llevarse libros prestados.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5046",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Cuál de estos productos exporta España más que importa?",
+    "options": ["Gas.", "Ropa.", "Calzado."],
+    "answer": 2,
+    "explanation": "El manual da como respuesta el calzado: España tiene una industria del zapato importante, en zonas como Elche, Elda, Inca o Arnedo, que durante años vendió fuera más de lo que el país compraba, mientras que el gas y gran parte de la ropa se importan. Ojo: según los datos de comercio exterior del Ministerio de Economía, en 2024 y 2025 España ya importó más calzado del que exportó, pero en el examen la respuesta es «calzado».",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-5047",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Una persona mayor de 18 años puede obtener el título de Graduado en Educación Secundaria Obligatoria en…",
+    "options": [
+      "un Centro de Educación de Personas Adultas.",
+      "un centro de enseñanza primaria.",
+      "una universidad."
+    ],
+    "answer": 0,
+    "explanation": "Los Centros de Educación de Personas Adultas (CEPA) ofrecen la ESO para mayores de 18 años, con la que se obtiene el título de Graduado en Educación Secundaria Obligatoria. Muchos enseñan también español para extranjeros.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-5048",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "La formación profesional…",
+    "options": [
+      "es para mayores de 25 años.",
+      "puede ser de grado medio o superior.",
+      "es obligatoria."
+    ],
+    "answer": 1,
+    "explanation": "La Formación Profesional prepara para un oficio y se organiza en ciclos de grado básico, medio y superior. No es obligatoria, y se puede empezar mucho antes de los 25 años, al terminar la ESO.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-5049",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Adónde vamos para ver al médico de familia o al pediatra?",
+    "options": ["Al hospital.", "Al centro de salud.", "A la farmacia."],
+    "answer": 1,
+    "explanation": "El médico de familia y el pediatra pasan consulta en el centro de salud, la puerta de entrada a la sanidad pública. Al hospital se va por urgencias o cuando te deriva el médico.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5050",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Para cuántos años vale la tarjeta sanitaria europea?",
+    "options": ["Para un año.", "Para dos años.", "Para 10 años."],
+    "answer": 1,
+    "explanation": "En España la Seguridad Social expide gratis la Tarjeta Sanitaria Europea y, en general, vale dos años. Sirve para recibir atención sanitaria pública durante una estancia temporal en otro país de la Unión Europea.",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-5051",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿A qué hora se cena normalmente en España?",
+    "options": ["A las 18 h.", "A las 23 h.", "A las 21 o 22 h."],
+    "answer": 2,
+    "explanation": "En España se cena tarde comparado con otros países: lo normal es entre las 21 y las 22 horas, y en verano incluso más tarde. La comida del mediodía suele ser hacia las 14 o 15 horas.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5052",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Cuál es el número de teléfono único para cualquier emergencia?",
+    "options": ["060.", "112.", "911."],
+    "answer": 1,
+    "explanation": "El 112 es el teléfono único de emergencias en España y en toda la Unión Europea: sirve para ambulancias, bomberos y policía, es gratuito y funciona las 24 horas. El 911 es el número de emergencias de Estados Unidos.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5053",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Cuál de estos periódicos se publica a nivel nacional?",
+    "options": ["El Diario Vasco.", "El País.", "La Voz de Galicia."],
+    "answer": 1,
+    "explanation": "El País es un periódico de ámbito nacional que se edita en Madrid desde 1976. El Diario Vasco y La Voz de Galicia son periódicos regionales.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5054",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Dónde se venden sellos y tabaco?",
+    "options": ["En el quiosco.", "En la farmacia.", "En el estanco."],
+    "answer": 2,
+    "explanation": "En España el tabaco solo se vende en los estancos y en máquinas autorizadas, y los estancos también venden sellos de correos. Se reconocen por su letrero con la palabra «Tabacos».",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5055",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Cuándo se puede llamar al número de teléfono para atención a víctimas de violencia de género?",
+    "options": ["Las 24 horas del día.", "En horario de mañana.", "De lunes a viernes."],
+    "answer": 0,
+    "explanation": "El 016, el teléfono de atención a las víctimas de violencia de género, funciona las 24 horas todos los días del año. Es gratuito, atiende en muchos idiomas y no deja rastro en la factura.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5056",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "La organización que trabaja para conseguir la integración de las personas con discapacidad visual es…",
+    "options": ["la ONCE.", "Unicef.", "Cáritas."],
+    "answer": 0,
+    "explanation": "La ONCE (Organización Nacional de Ciegos Españoles) trabaja desde 1938 por la integración de las personas ciegas o con discapacidad visual, y se financia sobre todo con sus sorteos, como el cupón. Unicef protege a la infancia y Cáritas ayuda a personas en situación de pobreza.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5057",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "El Camino de Santiago es…",
+    "options": [
+      "Patrimonio de la Humanidad.",
+      "una vía de ferrocarril.",
+      "una ruta para excursionistas."
+    ],
+    "answer": 0,
+    "explanation": "El Camino de Santiago, la ruta de peregrinación que lleva a Santiago de Compostela, es Patrimonio de la Humanidad desde 1993. Lo recorren cada año cientos de miles de peregrinos.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5058",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Cuál es el canal de televisión estatal que transmite noticias de actualidad nacional e internacional continuamente?",
+    "options": ["Teledeporte.", "La 1.", "Canal 24 horas."],
+    "answer": 2,
+    "explanation": "El Canal 24 Horas, de RTVE, emite noticias nacionales e internacionales durante todo el día. La 1 es la cadena generalista de RTVE y Teledeporte emite deportes.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-5059",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "El teléfono gratuito para las víctimas de violencia de género es el…",
+    "options": ["091.", "112.", "016."],
+    "answer": 2,
+    "explanation": "El 016 es el teléfono gratuito de información y asesoramiento para las víctimas de violencia de género, y no aparece en la factura. En una emergencia se llama al 112, y el 091 es el de la Policía Nacional.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-5060",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "En España, la red de trenes puede ser de larga distancia, de media distancia y…",
+    "options": ["de cercanías.", "rural.", "transnacional."],
+    "answer": 0,
+    "explanation": "Renfe tiene trenes de larga distancia (como el AVE), de media distancia entre ciudades cercanas y de cercanías, que unen las grandes ciudades con los pueblos de su alrededor.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5061",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Qué está prohibido en la puerta de un colegio?",
+    "options": ["Fumar un cigarrillo.", "Conducir un coche.", "Vender refrescos."],
+    "answer": 0,
+    "explanation": "La ley antitabaco prohíbe fumar en los colegios, también en sus patios y zonas al aire libre, para proteger a los menores. Conducir o vender refrescos cerca de un colegio no está prohibido.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5062",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Qué título se obtiene al finalizar un ciclo de grado medio de Formación Profesional?",
+    "options": ["Bachiller.", "Técnico.", "Graduado en ESO."],
+    "answer": 1,
+    "explanation": "Al terminar un ciclo de grado medio de Formación Profesional se obtiene el título de Técnico; con el grado superior, el de Técnico Superior. Bachiller es el título del Bachillerato.",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-5063",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Qué título se obtiene tras realizar una tesis doctoral en España?",
+    "options": ["Máster.", "Graduado.", "Doctor."],
+    "answer": 2,
+    "explanation": "El doctorado es el nivel más alto de los estudios universitarios: quien escribe y defiende una tesis doctoral obtiene el título de doctor. Antes se estudia un grado y, normalmente, un máster.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5064",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Dónde se compran las medicinas con receta?",
+    "options": ["En el hospital", "En el centro de salud.", "En la farmacia."],
+    "answer": 2,
+    "explanation": "Las medicinas, con receta o sin ella, se compran en las farmacias; con la receta electrónica basta con presentar la tarjeta sanitaria. Siempre hay alguna farmacia de guardia abierta de noche y en festivos.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5065",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Cuál de estas tres recomendaciones podemos encontrar en un parque?",
+    "options": [
+      "No pisar el césped.",
+      "Se recomienda pagar el billete con el dinero justo.",
+      "Respetar las normas sobre equipaje."
+    ],
+    "answer": 0,
+    "explanation": "«No pisar el césped» es una indicación típica de parques y jardines. Pagar con el dinero justo se pide en los autobuses, y las normas sobre equipaje son de aeropuertos y estaciones.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5066",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Cuál de las siguientes cosas es obligatoria para el propietario de un coche en España?",
+    "options": ["El garaje", "El seguro.", "La alarma."],
+    "answer": 1,
+    "explanation": "En España todo coche debe tener, como mínimo, un seguro obligatorio de responsabilidad civil, que paga los daños causados a otros en un accidente. Circular sin seguro se multa y el coche puede quedar inmovilizado.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5067",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "El aeropuerto Adolfo Suárez está en…",
+    "options": ["Barcelona.", "Madrid", "Bilbao."],
+    "answer": 1,
+    "explanation": "El aeropuerto Adolfo Suárez Madrid-Barajas es el principal aeropuerto de España. Desde 2014 lleva el nombre del primer presidente del Gobierno de la democracia.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5068",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "En un coche es obligatorio el uso del cinturón de seguridad...",
+    "options": [
+      "solo en el asiento del conductor.",
+      "en los asientos delanteros.",
+      "en todos los asientos."
+    ],
+    "answer": 2,
+    "explanation": "El cinturón de seguridad es obligatorio para todos los ocupantes del coche, delante y detrás. Los niños de hasta 1,35 metros deben viajar, además, en una silla o un sistema de retención adecuado.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5069",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Cuál es el límite de velocidad en autopista?",
+    "options": ["90 km/h.", "120 km/h.", "150 km/h."],
+    "answer": 1,
+    "explanation": "La velocidad máxima en autopistas y autovías es de 120 km/h para turismos y motos. En las carreteras convencionales es de 90 km/h.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5070",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Ceder el asiento a las personas con movilidad reducida es una norma que encontramos indicada en…",
+    "options": ["el transporte público.", "las bibliotecas.", "los museos."],
+    "answer": 0,
+    "explanation": "En autobuses, metros y trenes hay asientos reservados, y se pide ceder el sitio a personas mayores, embarazadas o con movilidad reducida. Es una norma de convivencia muy habitual.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5071",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Cuál es el medio de transporte público que tiene una luz verde encendida si está libre?",
+    "options": ["El autobús.", "El taxi.", "El tranvía."],
+    "answer": 1,
+    "explanation": "Un taxi con la luz verde encendida está libre y se puede parar levantando la mano. Si la luz está apagada, va ocupado.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5072",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Qué debes hacer si tienes un perro?",
+    "options": [
+      "Pasearlo sin correa.",
+      "Ponerle un microchip y vacunarlo",
+      "No recoger sus excrementos."
+    ],
+    "answer": 1,
+    "explanation": "Los perros deben llevar un microchip que los identifique y estar vacunados, por ejemplo contra la rabia en la mayoría de las comunidades. Además, hay que llevarlos con correa por la calle y recoger sus excrementos.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5073",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Los españoles necesitan el pasaporte para viajar a…",
+    "options": ["Italia.", "China.", "Alemania."],
+    "answer": 1,
+    "explanation": "Los españoles pueden viajar por los países de la Unión Europea, como Italia o Alemania, solo con el DNI. Para ir a países de fuera, como China, necesitan el pasaporte y a veces un visado.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5074",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Cuál es la edad mínima para trabajar en España?",
+    "options": ["16 años.", "18 años.", "21 años."],
+    "answer": 0,
+    "explanation": "La edad mínima para trabajar en España es de 16 años. Entre los 16 y los 18 hace falta el permiso de los padres o tutores, salvo que el menor esté emancipado, y no se puede trabajar de noche ni hacer horas extra.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-5075",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Cuál es el sector de mayor peso en la economía española?",
+    "options": ["Agricultura.", "Servicios.", "Construcción."],
+    "answer": 1,
+    "explanation": "El sector servicios (comercio, turismo, transporte, sanidad, educación…) es el que más pesa en la economía española: produce cerca de tres cuartas partes de la riqueza y da trabajo a la mayoría de las personas.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5076",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "España es innovadora en el sector de…",
+    "options": ["la ingeniería aeroespacial.", "las energías renovables.", "la energía nuclear."],
+    "answer": 1,
+    "explanation": "España es un país puntero en energías renovables, sobre todo la eólica y la solar, que ya producen más de la mitad de su electricidad. Empresas españolas construyen parques eólicos y solares en muchos países.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-5077",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Cómo se llama la ley laboral más importante de España?",
+    "options": [
+      "La Constitución.",
+      "El Estatuto de los Trabajadores.",
+      "El Servicio Público de Empleo Estatal."
+    ],
+    "answer": 1,
+    "explanation": "El Estatuto de los Trabajadores es la ley principal que regula los contratos, los salarios, las vacaciones y los despidos. El Servicio Público de Empleo Estatal no es una ley: es el organismo que gestiona el paro.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-5078",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Cuál de estos establecimientos está abierto 24 horas si es necesario?",
+    "options": ["Farmacia.", "Pescadería.", "Librería."],
+    "answer": 0,
+    "explanation": "Siempre hay farmacias de guardia que abren por turnos de noche y en días festivos, para que nadie se quede sin un medicamento urgente.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5079",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "La educación infantil en España…",
+    "options": ["es obligatoria.", "tiene dos ciclos.", "empieza a los 4 años."],
+    "answer": 1,
+    "explanation": "La educación infantil tiene dos ciclos: de 0 a 3 años y de 3 a 6 años. No es obligatoria, aunque casi todos los niños van al colegio desde los 3 años, y el segundo ciclo es gratuito.",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-5080",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Cuándo empieza el calendario escolar?",
+    "options": ["En agosto.", "En septiembre.", "En octubre."],
+    "answer": 1,
+    "explanation": "El curso escolar empieza en septiembre y termina en junio; las fechas exactas las fija cada comunidad autónoma.",
+    "difficulty": 1
+  },
+  {
+    "id": "o26-5081",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Las Escuelas Oficiales de Idiomas…",
+    "options": [
+      "son centros de enseñanza privada.",
+      "son para mayores de 16 años.",
+      "dependen del Instituto Cervantes."
+    ],
+    "answer": 1,
+    "explanation": "Las Escuelas Oficiales de Idiomas son centros públicos donde se aprenden idiomas a bajo precio; en general hay que tener 16 años, o 14 para estudiar una lengua distinta de la que se estudia en la ESO. Dependen de las comunidades autónomas, no del Instituto Cervantes.",
+    "difficulty": 3
+  },
+  {
+    "id": "o26-5082",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Cuál es el documento que recoge los años de cotización a la Seguridad Social?",
+    "options": [
+      "Informe de vida laboral.",
+      "Recibo de finiquito.",
+      "Certificado de profesionalidad."
+    ],
+    "answer": 0,
+    "explanation": "El informe de vida laboral, que la Seguridad Social da gratis y por internet, muestra todos los periodos en que una persona ha trabajado y cotizado. El finiquito es lo que se cobra al terminar un trabajo.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-5083",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Los convenios colectivos de una empresa son los que se firman con los representantes de los trabajadores sobre…",
+    "options": [
+      "las condiciones laborales.",
+      "el futuro de la empresa.",
+      "la relación con los clientes."
+    ],
+    "answer": 0,
+    "explanation": "Un convenio colectivo es un acuerdo entre los representantes de los trabajadores y los empresarios que fija las condiciones de trabajo: salarios, horarios, vacaciones o permisos. El artículo 37 de la Constitución garantiza el derecho a la negociación colectiva.",
+    "difficulty": 2
+  },
+  {
+    "id": "o26-5084",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿En cuál de estos sectores destaca España?",
+    "options": ["En el turismo.", "En la industria automovilística.", "En tecnología digital."],
+    "answer": 0,
+    "explanation": "España es una de las grandes potencias turísticas del mundo por su clima, sus playas, su cultura y su gastronomía: según el INE, en 2025 recibió casi 97 millones de turistas internacionales, un récord. El turismo es uno de los motores de su economía.",
+    "difficulty": 1
+  }
+]

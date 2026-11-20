@@ -1,0 +1,114 @@
+/*
+ * Route 17's colours: an old console look on a limited palette. Every value
+ * here is a colour of the pixel art (`src/shared/pixel/palette.ts`), so the UI
+ * and the map speak the same palette; `src/shared/ui/theme.test.ts` checks it.
+ * Components use the Tailwind names mapped in main.css (`bg-surface`,
+ * `text-ink`, `bg-frame`…), never hex values, so dark mode works everywhere.
+ *
+ * Light: cream paper, white dialog boxes, near-black frames.
+ * Dark: a night drive, dark boxes with cream frames.
+ * The system setting decides, unless `data-theme="light" | "dark"` is set on <html>.
+ */
+
+:root {
+  color-scheme: light;
+  /* The page behind everything. */
+  --bg: #f4e8c1;
+  /* Dialog boxes and cards. */
+  --surface: #fffaf0;
+  /* Rows and wells inside a box. */
+  --surface-alt: #f4e8c1;
+  --ink: #1a1423;
+  --muted: #4a4458;
+  /* Thin dividers. */
+  --line: #c7c0d4;
+  /* The chunky pixel border of every box and button. */
+  --frame: #1a1423;
+  /* The hard shadow under a box. */
+  --shadow: #c9a14e;
+  /* Always dark: bevels and the modal backdrop. */
+  --shade: #0d0b14;
+  /* Always asphalt: the road under the title. */
+  --road: #4a4458;
+  --primary: #d7263d;
+  --primary-ink: #fffaf0;
+  --accent: #ffd23f;
+  --accent-ink: #1a1423;
+  --sign: #253f8a;
+  --sign-ink: #fffaf0;
+  --correct: #2e7a32;
+  --correct-ink: #fffaf0;
+  --wrong: #8f1a2a;
+  --wrong-ink: #fffaf0;
+  /* An answer picked but not confirmed yet. */
+  --selected: #f28c28;
+  --selected-ink: #1a1423;
+  /* The safe rungs of the ladder. */
+  --safe: #e0a526;
+  --safe-ink: #1a1423;
+  /* The friend's phone screen. */
+  --lcd: #8fd14f;
+  --lcd-ink: #1a1423;
+  --focus: #3f6fd8;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    color-scheme: dark;
+    --bg: #0d0b14;
+    --surface: #1a1423;
+    --surface-alt: #4a4458;
+    --ink: #f4e8c1;
+    --muted: #c7c0d4;
+    --line: #4a4458;
+    --frame: #f4e8c1;
+    --shadow: #0d0b14;
+    --primary: #d7263d;
+    --primary-ink: #fffaf0;
+    --accent: #ffd23f;
+    --accent-ink: #1a1423;
+    --sign: #3f6fd8;
+    --sign-ink: #fffaf0;
+    --correct: #4fa83d;
+    --correct-ink: #1a1423;
+    --wrong: #d7263d;
+    --wrong-ink: #fffaf0;
+    --selected: #f28c28;
+    --selected-ink: #1a1423;
+    --safe: #e0a526;
+    --safe-ink: #1a1423;
+    --lcd: #8fd14f;
+    --lcd-ink: #1a1423;
+    --focus: #6cc3e8;
+  }
+}
+
+/* The same dark theme, chosen by hand. Keep it equal to the block above. */
+:root[data-theme='dark'] {
+  color-scheme: dark;
+  --bg: #0d0b14;
+  --surface: #1a1423;
+  --surface-alt: #4a4458;
+  --ink: #f4e8c1;
+  --muted: #c7c0d4;
+  --line: #4a4458;
+  --frame: #f4e8c1;
+  --shadow: #0d0b14;
+  --primary: #d7263d;
+  --primary-ink: #fffaf0;
+  --accent: #ffd23f;
+  --accent-ink: #1a1423;
+  --sign: #3f6fd8;
+  --sign-ink: #fffaf0;
+  --correct: #4fa83d;
+  --correct-ink: #1a1423;
+  --wrong: #d7263d;
+  --wrong-ink: #fffaf0;
+  --selected: #f28c28;
+  --selected-ink: #1a1423;
+  --safe: #e0a526;
+  --safe-ink: #1a1423;
+  --lcd: #8fd14f;
+  --lcd-ink: #1a1423;
+  --focus: #6cc3e8;
+}

@@ -1,0 +1,1114 @@
+[
+  {
+    "id": "g-t1-001",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "Empezamos fuerte: ¿quién es el jefe del Estado en España?",
+    "options": [
+      "El presidente del Gobierno",
+      "El rey",
+      "El presidente del Tribunal Constitucional"
+    ],
+    "answer": 1,
+    "explanation": "Según el artículo 56 de la Constitución de 1978, el rey es el jefe del Estado. El presidente del Gobierno dirige el Gobierno, pero no es el jefe del Estado.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-002",
+    "topic": "gobierno",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? Las Cortes Generales tienen dos cámaras: el Congreso de los Diputados y el Senado.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "El artículo 66 de la Constitución dice que las Cortes Generales representan al pueblo español y están formadas por el Congreso de los Diputados y el Senado.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-003",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "Primera parada, la ley de leyes: ¿de qué año es la Constitución española vigente?",
+    "options": ["1978", "1975", "1986"],
+    "answer": 0,
+    "explanation": "La Constitución vigente es de 1978: las Cortes la aprobaron en octubre y los ciudadanos la ratificaron en referéndum el 6 de diciembre de ese año.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-004",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "El 6 de diciembre es fiesta en toda España. ¿Qué se celebra ese día?",
+    "options": ["La Fiesta Nacional de España", "El Día de Europa", "El Día de la Constitución"],
+    "answer": 2,
+    "explanation": "El 6 de diciembre de 1978 los españoles aprobaron la Constitución en referéndum. Por eso ese día se celebra el Día de la Constitución.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-005",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cómo dieron los ciudadanos su aprobación a la Constitución de 1978?",
+    "options": ["En un referéndum", "En unas elecciones generales", "Con una recogida de firmas"],
+    "answer": 0,
+    "explanation": "Después de aprobarla las Cortes, la Constitución se sometió a referéndum el 6 de diciembre de 1978 y los españoles la ratificaron por amplia mayoría.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-006",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "La Constitución se publicó en el BOE el 29 de diciembre de 1978. ¿Cuándo entró en vigor?",
+    "options": [
+      "El 1 de enero de 1979",
+      "Ese mismo día, el 29 de diciembre de 1978",
+      "Veinte días después de su publicación"
+    ],
+    "answer": 1,
+    "explanation": "Su disposición final dice que entra en vigor el mismo día de la publicación de su texto oficial en el Boletín Oficial del Estado. El rey la había sancionado dos días antes, el 27 de diciembre.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t1-007",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "Según la Constitución, ¿cuál es la forma política del Estado español?",
+    "options": ["La república federal", "La monarquía absoluta", "La monarquía parlamentaria"],
+    "answer": 2,
+    "explanation": "El artículo 1.3 dice que la forma política del Estado español es la monarquía parlamentaria: el rey es el jefe del Estado y el Gobierno necesita la confianza del Congreso.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-008",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "El artículo 1 enumera los valores superiores del ordenamiento jurídico español. ¿Cuáles son?",
+    "options": [
+      "La unidad, el orden, el trabajo y la tradición",
+      "La libertad, la justicia, la igualdad y el pluralismo político",
+      "La seguridad, la prosperidad, la familia y la fe"
+    ],
+    "answer": 1,
+    "explanation": "España se constituye en un Estado social y democrático de Derecho que propugna como valores superiores la libertad, la justicia, la igualdad y el pluralismo político (artículo 1.1).",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-009",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿En quién reside la soberanía nacional, según la Constitución?",
+    "options": ["En el rey", "En las Cortes Generales", "En el pueblo español"],
+    "answer": 2,
+    "explanation": "El artículo 1.2 dice que la soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-010",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cuántos artículos tiene la Constitución de 1978?",
+    "options": ["169", "148", "200"],
+    "answer": 0,
+    "explanation": "La Constitución tiene 169 artículos, repartidos en un título preliminar y diez títulos. Al final lleva disposiciones adicionales, transitorias, una derogatoria y una final.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-011",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Qué título de la Constitución está dedicado a la Corona?",
+    "options": ["El título II", "El título I", "El título VIII"],
+    "answer": 0,
+    "explanation": "El título II (artículos 56 a 65) regula la Corona. El título I trata de los derechos y deberes fundamentales, y el VIII, de la organización territorial del Estado.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t1-012",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "Para una reforma ordinaria de la Constitución, ¿qué mayoría hace falta en cada cámara?",
+    "options": ["Mayoría simple", "Unanimidad", "Tres quintos"],
+    "answer": 2,
+    "explanation": "El artículo 167 exige una mayoría de tres quintos en el Congreso y en el Senado. Además, hay referéndum si lo pide una décima parte de los miembros de cualquiera de las dos cámaras en los 15 días siguientes.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t1-013",
+    "topic": "gobierno",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? La Constitución de 1978 no se ha reformado nunca.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "Hasta 2026 se ha reformado cuatro veces: en 1992 (artículo 13.2, para que los ciudadanos de la UE puedan ser candidatos en las elecciones municipales), en 2011 (artículo 135, estabilidad presupuestaria), en 2024 (artículo 49, personas con discapacidad) y en 2026 (artículo 69.3, para que Formentera elija su propio senador).",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-014",
+    "topic": "gobierno",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? Una reforma de la Constitución que afecte al título dedicado a la Corona tiene que someterse siempre a referéndum.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "El artículo 168 protege de forma especial el título preliminar, los derechos fundamentales y la Corona. Reformarlos exige dos tercios de cada cámara, disolver las Cortes, que las nuevas cámaras lo ratifiquen y, al final, un referéndum obligatorio.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t1-015",
+    "topic": "gobierno",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? Con 500.000 firmas, los ciudadanos pueden proponer una reforma de la Constitución.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "El artículo 166 reserva la iniciativa de reforma constitucional al Gobierno, al Congreso, al Senado y a las asambleas de las comunidades autónomas. La iniciativa legislativa popular no sirve para reformar la Constitución.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t1-016",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Qué título tiene el heredero o la heredera de la Corona de España?",
+    "options": ["Infante de España", "Conde de Barcelona", "Príncipe o princesa de Asturias"],
+    "answer": 2,
+    "explanation": "El artículo 57.2 de la Constitución dice que el heredero de la Corona tiene la dignidad de príncipe de Asturias. Hoy la heredera es la princesa Leonor.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-017",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Quién es el rey de España desde 2014?",
+    "options": ["Felipe VI", "Juan Carlos I", "Alfonso XIII"],
+    "answer": 0,
+    "explanation": "Felipe VI fue proclamado rey ante las Cortes Generales el 19 de junio de 2014, tras la abdicación de su padre, Juan Carlos I.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-018",
+    "topic": "gobierno",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? La princesa Leonor juró la Constitución ante las Cortes Generales el día que cumplió 18 años.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "El artículo 61 dice que el heredero de la Corona jura la Constitución al llegar a la mayoría de edad. La princesa de Asturias lo hizo el 31 de octubre de 2023, el día de su 18 cumpleaños.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-019",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cuál de estas funciones corresponde al rey, según la Constitución?",
+    "options": [
+      "Sancionar y promulgar las leyes",
+      "Votar los Presupuestos en el Congreso",
+      "Dictar las sentencias del Tribunal Supremo"
+    ],
+    "answer": 0,
+    "explanation": "El artículo 62 atribuye al rey sancionar y promulgar las leyes: las Cortes las aprueban y el rey las firma y ordena su publicación.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-020",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¡Firmes! ¿Quién tiene el mando supremo de las Fuerzas Armadas?",
+    "options": ["El ministro de Defensa", "El presidente del Gobierno", "El rey"],
+    "answer": 2,
+    "explanation": "Según el artículo 62 de la Constitución, al rey le corresponde el mando supremo de las Fuerzas Armadas. El Gobierno, por su parte, dirige la defensa del Estado (artículo 97).",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-021",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "La Constitución da al rey el Alto Patronazgo de unas instituciones. ¿De cuáles?",
+    "options": [
+      "De los colegios profesionales",
+      "De las Reales Academias",
+      "De las universidades públicas"
+    ],
+    "answer": 1,
+    "explanation": "El artículo 62 encarga al rey el Alto Patronazgo de las Reales Academias, como la Real Academia Española.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t1-022",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "Después de unas elecciones generales, ¿quién propone al Congreso un candidato a presidente del Gobierno?",
+    "options": [
+      "El presidente del Senado",
+      "El Tribunal Constitucional",
+      "El rey, tras consultar a los representantes de los grupos políticos"
+    ],
+    "answer": 2,
+    "explanation": "Según el artículo 99, el rey consulta a los representantes de los grupos políticos con representación parlamentaria y propone un candidato a través del presidente del Congreso.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-023",
+    "topic": "gobierno",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? En España la Corona es hereditaria.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "El artículo 57 dice que la Corona de España es hereditaria en los sucesores de Juan Carlos I de Borbón, según un orden de sucesión que fija la propia Constitución.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-024",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "Según la Constitución, ¿cómo se resuelven las abdicaciones y renuncias en el orden de sucesión a la Corona?",
+    "options": ["Por una ley orgánica", "Por un referéndum", "Por un decreto del Gobierno"],
+    "answer": 0,
+    "explanation": "El artículo 57.5 dice que las abdicaciones, renuncias y dudas sobre la sucesión se resuelven por ley orgánica. Así se hizo con la abdicación de Juan Carlos I en 2014.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t1-025",
+    "topic": "gobierno",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? El rey preside todas las reuniones del Consejo de Ministros.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "El Consejo de Ministros lo preside el presidente del Gobierno. El rey solo lo preside cuando lo considera oportuno y a petición del presidente del Gobierno (artículo 62).",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-026",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "Parada en la Carrera de San Jerónimo: ¿cuántos diputados forman el Congreso?",
+    "options": ["300", "350", "400"],
+    "answer": 1,
+    "explanation": "La Constitución permite entre 300 y 400 diputados (artículo 68) y la ley electoral fija el número en 350.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-027",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cada cuánto tiempo, como máximo, se eligen el Congreso y el Senado?",
+    "options": ["Cada 4 años", "Cada 5 años", "Cada 6 años"],
+    "answer": 0,
+    "explanation": "Diputados y senadores se eligen por cuatro años (artículos 68 y 69). El presidente del Gobierno puede adelantar las elecciones disolviendo las Cortes.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-028",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Qué cámara de las Cortes Generales es la de representación territorial?",
+    "options": ["El Senado", "El Congreso de los Diputados", "El Consejo de Estado"],
+    "answer": 0,
+    "explanation": "El artículo 69 dice que el Senado es la cámara de representación territorial. Sus senadores se eligen por provincias e islas, y además las comunidades autónomas designan otros.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-029",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "Ruta por la Península: en cada provincia, ¿cuántos senadores eligen los votantes?",
+    "options": ["Dos", "Tres", "Cuatro"],
+    "answer": 2,
+    "explanation": "El artículo 69 fija cuatro senadores por provincia. Las islas, Ceuta y Melilla tienen reglas propias, y las comunidades autónomas designan además a sus propios senadores.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-030",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "Paseo por Madrid: ¿en qué palacio tiene su residencia y su sede la Presidencia del Gobierno?",
+    "options": ["El Palacio de la Zarzuela", "El Palacio de Linares", "El Palacio de la Moncloa"],
+    "answer": 2,
+    "explanation": "El Palacio de la Moncloa es la residencia oficial y la sede de trabajo del presidente del Gobierno. En la Zarzuela vive la familia real.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-031",
+    "topic": "gobierno",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? Una persona puede ser diputada y senadora al mismo tiempo.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "El artículo 67 prohíbe ser miembro de las dos cámaras a la vez.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-032",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Qué hace falta para aprobar una ley orgánica, como un Estatuto de Autonomía o la ley electoral?",
+    "options": [
+      "La mayoría simple del Senado",
+      "La mayoría absoluta del Congreso en una votación final sobre todo el proyecto",
+      "La firma de 500.000 ciudadanos"
+    ],
+    "answer": 1,
+    "explanation": "El artículo 81 reserva a las leyes orgánicas, entre otras materias, los derechos fundamentales, los Estatutos de Autonomía y el régimen electoral general. Para aprobarlas, modificarlas o derogarlas hace falta la mayoría absoluta del Congreso.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t1-033",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "El Gobierno aprueba un decreto-ley por una necesidad urgente. ¿En qué plazo tiene que votarlo el Congreso?",
+    "options": ["En 15 días", "En 30 días", "En 60 días"],
+    "answer": 1,
+    "explanation": "El artículo 86 obliga a someter el decreto-ley al Congreso en los 30 días siguientes a su promulgación, para convalidarlo o derogarlo.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t1-034",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "Como norma general, ¿cuánto tiempo tiene el Senado para vetar o enmendar una ley que le llega del Congreso?",
+    "options": ["Dos meses", "Quince días", "Seis meses"],
+    "answer": 0,
+    "explanation": "Según el artículo 90, el Senado dispone de dos meses. Si la veta por mayoría absoluta, el Congreso puede levantar el veto por mayoría absoluta, o por mayoría simple pasados dos meses.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t1-035",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Dónde se publican las leyes del Estado para que todo el mundo pueda conocerlas?",
+    "options": [
+      "En el Diario de Sesiones del Senado",
+      "En la página web de cada ayuntamiento",
+      "En el Boletín Oficial del Estado (BOE)"
+    ],
+    "answer": 2,
+    "explanation": "La Constitución garantiza la publicidad de las normas (artículo 9.3). Las leyes del Estado se publican en el Boletín Oficial del Estado, el BOE.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-036",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Quién dirige la acción del Gobierno?",
+    "options": ["El rey", "El presidente del Congreso", "El presidente del Gobierno"],
+    "answer": 2,
+    "explanation": "El artículo 98 dice que el presidente dirige la acción del Gobierno y coordina las funciones de los demás miembros.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-037",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "En España, ¿quién elige al presidente del Gobierno?",
+    "options": [
+      "El Congreso de los Diputados, en la votación de investidura",
+      "Los ciudadanos, en una votación directa solo para ese cargo",
+      "El Senado, a propuesta del rey"
+    ],
+    "answer": 0,
+    "explanation": "Los ciudadanos eligen a los diputados, y el Congreso otorga su confianza al candidato en la votación de investidura (artículo 99). Después, el rey lo nombra presidente.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-038",
+    "topic": "gobierno",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? Si un candidato no logra la mayoría absoluta en la primera votación de investidura, ya no puede ser elegido presidente.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "El artículo 99 prevé una segunda votación 48 horas después, en la que basta la mayoría simple. Solo si tampoco la consigue se tramitan nuevas propuestas.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-039",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "Pasan dos meses desde la primera votación de investidura y ningún candidato ha conseguido la confianza del Congreso. ¿Qué ocurre?",
+    "options": [
+      "El Senado elige al presidente",
+      "Gobierna el candidato con más diputados",
+      "Se disuelven las dos cámaras y se convocan nuevas elecciones"
+    ],
+    "answer": 2,
+    "explanation": "Según el artículo 99.5, el rey disuelve el Congreso y el Senado y convoca nuevas elecciones, con el refrendo del presidente del Congreso.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t1-040",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Qué es una moción de censura?",
+    "options": [
+      "Una multa que el Senado impone a un ministro",
+      "Una votación en la que el Congreso retira su confianza al Gobierno y propone a la vez un candidato a presidente",
+      "Una queja de los ciudadanos ante el Defensor del Pueblo"
+    ],
+    "answer": 1,
+    "explanation": "Con la moción de censura (artículo 113) el Congreso exige la responsabilidad política del Gobierno. Tiene que incluir un candidato a presidente y necesita la mayoría absoluta para salir adelante.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-041",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cuántos diputados tienen que firmar, como mínimo, una moción de censura?",
+    "options": [
+      "La mitad de los diputados",
+      "Cincuenta diputados",
+      "La décima parte de los diputados"
+    ],
+    "answer": 2,
+    "explanation": "El artículo 113.2 exige que la propongan al menos la décima parte de los diputados y que incluya un candidato a la Presidencia del Gobierno.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t1-042",
+    "topic": "gobierno",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? Para que prospere una moción de censura basta con la mayoría simple del Congreso.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "Hace falta la mayoría absoluta del Congreso (artículo 113.1). Si se aprueba, el Gobierno dimite y el candidato propuesto queda investido presidente.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-043",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Quién puede plantear una cuestión de confianza ante el Congreso?",
+    "options": ["El presidente del Gobierno", "Los grupos de la oposición", "El rey"],
+    "answer": 0,
+    "explanation": "Según el artículo 112, el presidente del Gobierno, tras deliberar el Consejo de Ministros, puede plantearla sobre su programa o sobre una declaración de política general. La confianza se obtiene con mayoría simple.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-044",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Qué institución es el supremo órgano consultivo del Gobierno?",
+    "options": ["El Consejo de Estado", "El Tribunal de Cuentas", "El Defensor del Pueblo"],
+    "answer": 0,
+    "explanation": "El artículo 107 dice que el Consejo de Estado es el supremo órgano consultivo del Gobierno. Emite dictámenes sobre proyectos de normas y otros asuntos importantes.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t1-045",
+    "topic": "gobierno",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? Los jueces y magistrados son independientes y solo están sometidos a la ley.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "El artículo 117 dice que la justicia emana del pueblo y la administran jueces y magistrados independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-046",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cuál es el órgano de gobierno del Poder Judicial?",
+    "options": [
+      "El Consejo General del Poder Judicial",
+      "El Tribunal Constitucional",
+      "El Ministerio de Justicia"
+    ],
+    "answer": 0,
+    "explanation": "El Consejo General del Poder Judicial (artículo 122) gobierna a jueces y magistrados. Lo preside el presidente del Tribunal Supremo y tiene veinte vocales nombrados por cinco años.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-047",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Qué tribunal es el órgano judicial superior en todos los órdenes, salvo en garantías constitucionales?",
+    "options": [
+      "La Audiencia Nacional",
+      "El Tribunal Supremo",
+      "El Tribunal Superior de Justicia de Madrid"
+    ],
+    "answer": 1,
+    "explanation": "El artículo 123 dice que el Tribunal Supremo, con jurisdicción en toda España, es el órgano judicial superior en todos los órdenes. Las garantías constitucionales corresponden al Tribunal Constitucional.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-048",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Qué institución promueve la acción de la justicia en defensa de la legalidad, de los derechos de los ciudadanos y del interés público?",
+    "options": ["El Consejo de Estado", "El Tribunal de Cuentas", "El Ministerio Fiscal"],
+    "answer": 2,
+    "explanation": "Es la misión del Ministerio Fiscal (artículo 124). Al frente está el fiscal general del Estado, a quien nombra el rey a propuesta del Gobierno.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t1-049",
+    "topic": "gobierno",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? Los ciudadanos pueden participar en la Administración de Justicia formando parte de un jurado.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "El artículo 125 reconoce la participación de los ciudadanos en la justicia mediante el jurado, en los procesos penales que determine la ley.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-050",
+    "topic": "gobierno",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? Un juez en activo puede afiliarse a un partido político.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "El artículo 127 prohíbe a los jueces, magistrados y fiscales en activo pertenecer a partidos políticos o sindicatos, para proteger su independencia.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-051",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Qué tribunal decide si una ley es contraria a la Constitución?",
+    "options": ["El Tribunal Supremo", "El Consejo de Estado", "El Tribunal Constitucional"],
+    "answer": 2,
+    "explanation": "El Tribunal Constitucional resuelve los recursos de inconstitucionalidad contra las leyes (artículo 161). También resuelve los recursos de amparo y los conflictos de competencias.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-052",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cuántos magistrados forman el Tribunal Constitucional?",
+    "options": ["Nueve", "Doce", "Quince"],
+    "answer": 1,
+    "explanation": "Son doce, nombrados por el rey: cuatro a propuesta del Congreso, cuatro del Senado, dos del Gobierno y dos del Consejo General del Poder Judicial. Su mandato dura nueve años (artículo 159).",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t1-053",
+    "topic": "gobierno",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? El Tribunal Constitucional forma parte del Poder Judicial.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "El Tribunal Constitucional es un órgano independiente que la Constitución regula en su título IX, aparte del Poder Judicial (título VI). Por eso el Tribunal Supremo es el órgano judicial superior «salvo lo dispuesto en materia de garantías constitucionales».",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t1-054",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Quién designa al Defensor del Pueblo?",
+    "options": ["El Gobierno", "El rey", "Las Cortes Generales"],
+    "answer": 2,
+    "explanation": "El artículo 54 define al Defensor del Pueblo como alto comisionado de las Cortes Generales, que lo designan para defender los derechos del título I.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-055",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Qué institución fiscaliza las cuentas y la gestión económica del Estado y del sector público?",
+    "options": ["El Banco de España", "El Tribunal de Cuentas", "El Consejo de Estado"],
+    "answer": 1,
+    "explanation": "El artículo 136 dice que el Tribunal de Cuentas es el supremo órgano fiscalizador de las cuentas del Estado y del sector público, y que depende directamente de las Cortes Generales.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-056",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿A partir de qué edad se puede votar en las elecciones en España?",
+    "options": ["A los 18 años", "A los 16 años", "A los 21 años"],
+    "answer": 0,
+    "explanation": "Votan los españoles mayores de edad, y la mayoría de edad empieza a los 18 años (artículo 12 de la Constitución).",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-057",
+    "topic": "gobierno",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? En España votar es obligatorio y quien no vota recibe una multa.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "Votar es un derecho, no una obligación: nadie es sancionado por no votar. Lo que sí es obligatorio es formar parte de una mesa electoral si te toca por sorteo.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-058",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cómo es el voto en las elecciones españolas, según la Constitución?",
+    "options": [
+      "Público, a mano alzada",
+      "Solo para quien paga impuestos",
+      "Universal, libre, igual, directo y secreto"
+    ],
+    "answer": 2,
+    "explanation": "Los artículos 68 y 69 dicen que diputados y senadores se eligen por sufragio universal, libre, igual, directo y secreto. Lo mismo vale para los concejales (artículo 140).",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-059",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "Día de elecciones, ya estás delante de la mesa. ¿Qué tienes que enseñar antes de votar?",
+    "options": [
+      "Un documento oficial con fotografía, como el DNI",
+      "La tarjeta sanitaria",
+      "Un recibo de la luz a tu nombre"
+    ],
+    "answer": 0,
+    "explanation": "Para votar tienes que estar inscrito en el censo electoral e identificarte ante la mesa con un documento con fotografía: el DNI, el pasaporte o el permiso de conducir.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-060",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Quién forma una mesa electoral?",
+    "options": [
+      "Funcionarios del ayuntamiento",
+      "Un presidente y dos vocales elegidos por sorteo entre los votantes de la sección",
+      "Voluntarios de los partidos políticos"
+    ],
+    "answer": 1,
+    "explanation": "La mesa la forman un presidente y dos vocales elegidos por sorteo público entre los electores de la sección. Los partidos pueden enviar interventores, pero no forman parte de la mesa.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-061",
+    "topic": "gobierno",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? Si te toca por sorteo formar parte de una mesa electoral, tienes la obligación de ir.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "Los cargos de presidente y vocal de mesa son obligatorios. Solo se libra quien alega a tiempo una causa justificada y documentada ante la Junta Electoral de Zona.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-062",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "Maleta hecha: el día de las elecciones estarás de viaje. ¿Cómo puedes votar?",
+    "options": [
+      "Por correo, pidiéndolo antes en una oficina de Correos",
+      "Por teléfono, el mismo día de la votación",
+      "No se puede: hay que votar en persona en tu mesa"
+    ],
+    "answer": 0,
+    "explanation": "Quien no puede ir a votar puede pedir el voto por correo con antelación en cualquier oficina de Correos y enviarlo después a su mesa.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-063",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cómo se llama el día anterior a las elecciones, en el que ya no se puede hacer campaña?",
+    "options": ["Día del escrutinio", "Jornada de puertas abiertas", "Jornada de reflexión"],
+    "answer": 2,
+    "explanation": "La campaña electoral termina a las cero horas del día anterior a la votación. Ese día, sin mítines ni propaganda, se conoce como jornada de reflexión.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-064",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Qué sistema se usa para repartir los escaños del Congreso entre las candidaturas de cada provincia?",
+    "options": ["El sistema D'Hondt", "El sistema mayoritario a una vuelta", "El voto alternativo"],
+    "answer": 0,
+    "explanation": "La ley electoral reparte los escaños con el sistema D'Hondt: los votos de cada lista se dividen por 1, 2, 3… y los escaños van a los cocientes más altos. Solo entran en el reparto las listas con al menos el 3 % de los votos válidos de la provincia.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t1-065",
+    "topic": "gobierno",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? En las elecciones al Congreso se vota una lista cerrada y bloqueada: no se pueden tachar ni añadir nombres.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "Cada partido presenta su lista y el votante la elige entera. Si tachas, añades o cambias nombres en la papeleta, el voto es nulo.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-066",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "Elecciones al Senado en una provincia que elige cuatro senadores. ¿A cuántos candidatos puedes marcar como máximo?",
+    "options": ["A uno", "A tres", "A cuatro"],
+    "answer": 1,
+    "explanation": "Las listas del Senado son abiertas: marcas con una cruz a los candidatos que prefieras, de uno o de varios partidos. En las provincias que eligen cuatro senadores, el máximo es tres.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t1-067",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cada cuánto tiempo se eligen los diputados del Parlamento Europeo?",
+    "options": ["Cada 4 años", "Cada 5 años", "Cada 6 años"],
+    "answer": 1,
+    "explanation": "Las elecciones al Parlamento Europeo son cada cinco años. En España votan los españoles y también los ciudadanos de otros países de la UE que residen aquí y se inscriben para ello.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-068",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "Además de los españoles, ¿quién puede votar en las elecciones municipales?",
+    "options": [
+      "Cualquier turista que esté en España ese día",
+      "Los ciudadanos de la UE residentes en España y los de países con acuerdo de reciprocidad que cumplan los requisitos",
+      "Nadie más: solo votan los españoles"
+    ],
+    "answer": 1,
+    "explanation": "El artículo 13.2 de la Constitución permite, por reciprocidad, el voto de extranjeros en las elecciones municipales. Votan los ciudadanos de la UE residentes y los de países con acuerdo, como Noruega, Ecuador o Colombia, si cumplen los requisitos de residencia.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-069",
+    "topic": "gobierno",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? Un ciudadano de otro país de la UE que vive en España puede votar en las elecciones generales al Congreso.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "Las elecciones generales están reservadas a los españoles (artículo 13.2). Los ciudadanos de la UE que residen en España pueden votar en las municipales y en las europeas.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-070",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cuáles son dos de los sindicatos de trabajadores más importantes de España?",
+    "options": ["CEOE y CEPYME", "AEAT y SEPE", "CCOO y UGT"],
+    "answer": 2,
+    "explanation": "Comisiones Obreras (CCOO) y la Unión General de Trabajadores (UGT) son los grandes sindicatos de trabajadores. CEOE y CEPYME son organizaciones empresariales.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-071",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cuántas firmas hacen falta, como mínimo, para presentar una iniciativa legislativa popular?",
+    "options": ["50.000", "500.000", "5 millones"],
+    "answer": 1,
+    "explanation": "El artículo 87.3 exige al menos 500.000 firmas acreditadas. No se puede usar para leyes orgánicas, tributarias, de carácter internacional ni sobre la prerrogativa de gracia.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-072",
+    "topic": "gobierno",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? Con una iniciativa legislativa popular se puede proponer una ley sobre impuestos.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "El artículo 87.3 excluye de la iniciativa popular las materias tributarias, las propias de ley orgánica, las de carácter internacional y la prerrogativa de gracia.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t1-073",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Quién convoca un referéndum consultivo sobre una decisión política de especial trascendencia?",
+    "options": [
+      "El rey, a propuesta del presidente del Gobierno y con autorización del Congreso",
+      "El presidente del Senado, a petición de los partidos",
+      "Cualquier ayuntamiento que lo pida"
+    ],
+    "answer": 0,
+    "explanation": "Lo regula el artículo 92: el referéndum consultivo lo convoca el rey, a propuesta del presidente del Gobierno, previamente autorizada por el Congreso de los Diputados.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-074",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cómo es la bandera de España?",
+    "options": [
+      "Tres franjas verticales: roja, blanca y roja",
+      "Tres franjas horizontales: roja, amarilla y roja",
+      "Tres franjas horizontales: amarilla, roja y amarilla"
+    ],
+    "answer": 1,
+    "explanation": "El artículo 4.1 de la Constitución describe la bandera: tres franjas horizontales, roja, amarilla y roja, y la amarilla es el doble de ancha que cada una de las rojas.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-075",
+    "topic": "gobierno",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? Las banderas de las comunidades autónomas pueden ondear junto a la de España en sus edificios públicos y actos oficiales.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "El artículo 4.2 permite que los Estatutos reconozcan banderas propias de las comunidades autónomas, que se usan junto a la bandera de España en sus edificios públicos y actos oficiales.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-076",
+    "topic": "gobierno",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? El himno nacional de España tiene una letra oficial que se canta en los actos públicos.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "El himno nacional, la Marcha Real, no tiene letra oficial: es solo música. Por eso en los estadios se suele tararear.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-077",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "Suena el himno nacional antes del partido. ¿Cómo se llama?",
+    "options": ["El Himno de Riego", "Els Segadors", "La Marcha Real"],
+    "answer": 2,
+    "explanation": "El himno nacional de España es la Marcha Real, conocida antiguamente como Marcha Granadera. El Himno de Riego fue el de la Segunda República y Els Segadors es el himno de Cataluña.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-078",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "En el escudo de España, las columnas de Hércules llevan un lema en latín. ¿Cuál es?",
+    "options": ["Plus Ultra", "Non Plus Ultra", "Ad Astra"],
+    "answer": 0,
+    "explanation": "El lema es «Plus Ultra», que significa «más allá». Las columnas representan el estrecho de Gibraltar, que según la leyenda marcaba el fin del mundo conocido.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-079",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "Nuestra ruta termina en la capital del Estado, la que fija el artículo 5 de la Constitución. ¿Cuál es?",
+    "options": ["Toledo", "Madrid", "Valladolid"],
+    "answer": 1,
+    "explanation": "El artículo 5 dice que la capital del Estado es la villa de Madrid. Allí tienen su sede las Cortes Generales, el Gobierno y el Tribunal Constitucional.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-080",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Qué día se celebra la Fiesta Nacional de España?",
+    "options": ["El 2 de mayo", "El 12 de octubre", "El 6 de diciembre"],
+    "answer": 1,
+    "explanation": "Una ley de 1987 fija el 12 de octubre como Fiesta Nacional de España. El 6 de diciembre es el Día de la Constitución.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-081",
+    "topic": "gobierno",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? El castellano es la lengua oficial del Estado, y las demás lenguas españolas son también oficiales en sus comunidades autónomas según sus Estatutos.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "Así lo dice el artículo 3 de la Constitución. Por ejemplo, el gallego es cooficial en Galicia y el euskera en el País Vasco.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-082",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "Llegas a Santiago de Compostela. ¿Qué lengua es cooficial en Galicia junto al castellano?",
+    "options": ["El asturiano", "El portugués", "El gallego"],
+    "answer": 2,
+    "explanation": "El Estatuto de Autonomía de Galicia reconoce el gallego como lengua propia de Galicia y lo declara oficial junto al castellano.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-083",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "Haces escala en Palma. ¿Qué lengua es cooficial en las Illes Balears junto al castellano?",
+    "options": ["El gallego", "El aranés", "El catalán"],
+    "answer": 2,
+    "explanation": "Según su Estatuto de Autonomía, en las Illes Balears son oficiales el catalán, lengua propia de las islas, y el castellano.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-084",
+    "topic": "gobierno",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? En Cataluña, además del catalán y el castellano, también es oficial el occitano, que en el Valle de Arán se llama aranés.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "El Estatuto de Autonomía de Cataluña de 2006 declara oficial en Cataluña la lengua occitana, llamada aranés en Arán, donde es la lengua propia.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t1-085",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿En qué año entró España en las Comunidades Europeas, hoy la Unión Europea?",
+    "options": ["1978", "1986", "1992"],
+    "answer": 1,
+    "explanation": "España entró el 1 de enero de 1986, el mismo día que Portugal. El tratado de adhesión se había firmado en 1985.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-086",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Quién gobierna y administra un municipio?",
+    "options": [
+      "La diputación provincial",
+      "El ayuntamiento, formado por el alcalde y los concejales",
+      "El delegado del Gobierno"
+    ],
+    "answer": 1,
+    "explanation": "El artículo 140 de la Constitución dice que el gobierno y la administración de los municipios corresponden a sus ayuntamientos, formados por alcaldes y concejales.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-087",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "Como norma general, tras las elecciones municipales, ¿quién elige al alcalde?",
+    "options": [
+      "Los concejales, en la sesión en la que se constituye el ayuntamiento",
+      "El presidente de la comunidad autónoma",
+      "El delegado del Gobierno"
+    ],
+    "answer": 0,
+    "explanation": "Los concejales eligen al alcalde entre los que encabezan las listas. Si ninguno logra la mayoría absoluta, es alcalde quien encabeza la lista más votada en el municipio.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-088",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cómo se llama la reunión de todos los concejales, presidida por el alcalde, en la que se toman las grandes decisiones del municipio?",
+    "options": ["El Consejo de Ministros", "El pleno del ayuntamiento", "La junta electoral"],
+    "answer": 1,
+    "explanation": "El pleno está formado por todos los concejales y lo preside el alcalde. Aprueba, por ejemplo, los presupuestos y las ordenanzas municipales.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-089",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Cuál de estos servicios tiene que prestar todo ayuntamiento?",
+    "options": [
+      "La expedición del pasaporte",
+      "La defensa nacional",
+      "La recogida de basuras y el alumbrado público"
+    ],
+    "answer": 2,
+    "explanation": "La ley de bases del régimen local obliga a todos los municipios a prestar servicios como el alumbrado público, la recogida de residuos, la limpieza de las calles y el agua potable a domicilio.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-090",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "Mudanza terminada, cajas por abrir. ¿Dónde te empadronas en tu nueva ciudad?",
+    "options": [
+      "En el ayuntamiento del municipio donde vives",
+      "En la comisaría de policía",
+      "En la Agencia Tributaria"
+    ],
+    "answer": 0,
+    "explanation": "El padrón municipal es el registro de los vecinos de un municipio y lo lleva el ayuntamiento. Al cambiar de domicilio hay que inscribirse en el padrón del nuevo municipio.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-091",
+    "topic": "gobierno",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? Toda persona que vive en España, también si es extranjera, debe inscribirse en el padrón del municipio donde reside habitualmente.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "La ley de bases del régimen local obliga a toda persona que vive en España a empadronarse en el municipio donde reside habitualmente. El certificado de empadronamiento se pide en muchos trámites.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-092",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿A partir de qué edad es obligatorio tener DNI en España?",
+    "options": ["Desde el nacimiento", "Desde los 14 años", "Desde los 18 años"],
+    "answer": 1,
+    "explanation": "El DNI es obligatorio para los españoles mayores de 14 años que residen en España. Los menores pueden tenerlo antes si lo solicitan.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-093",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Qué organismo expide el DNI?",
+    "options": ["El ayuntamiento", "Correos", "La Policía Nacional"],
+    "answer": 2,
+    "explanation": "El DNI lo expide la Policía Nacional en sus oficinas de documentación, normalmente con cita previa.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-094",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Qué es el NIE?",
+    "options": [
+      "El número de inscripción en el padrón",
+      "El número de identidad de extranjero",
+      "El número de inscripción en el censo electoral"
+    ],
+    "answer": 1,
+    "explanation": "El NIE es el número de identidad de extranjero: un número personal y único que la Policía Nacional asigna a los extranjeros que se relacionan con España por motivos económicos, profesionales o sociales.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-095",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Qué organismo gestiona y recauda los impuestos del Estado?",
+    "options": ["La Agencia Tributaria", "La Seguridad Social", "El Banco de España"],
+    "answer": 0,
+    "explanation": "La Agencia Estatal de Administración Tributaria, conocida como Agencia Tributaria o Hacienda, gestiona el sistema tributario del Estado. El País Vasco y Navarra tienen además sus propias haciendas forales.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-096",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "Llega la primavera y con ella la «declaración de la renta». ¿Qué impuesto se declara?",
+    "options": ["El IVA", "El IBI", "El IRPF"],
+    "answer": 2,
+    "explanation": "La declaración de la renta es la del IRPF, el impuesto sobre la renta de las personas físicas, que grava lo que ganas en un año. El IVA grava el consumo y el IBI, los inmuebles.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-097",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "¿Qué registro inscribe los nacimientos, los matrimonios y las defunciones?",
+    "options": ["El padrón municipal", "El Registro Civil", "El Registro de la Propiedad"],
+    "answer": 1,
+    "explanation": "El Registro Civil inscribe los hechos que afectan al estado civil de las personas, como nacimientos, matrimonios, defunciones y la nacionalidad. Depende del Ministerio de Justicia.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-098",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "Quieres renovar el DNI o hacer un trámite de extranjería. ¿Qué suele hacer falta antes de ir a la oficina?",
+    "options": [
+      "Pedir cita previa",
+      "Presentar un aval bancario",
+      "Llevar una carta de recomendación"
+    ],
+    "answer": 0,
+    "explanation": "Muchas oficinas públicas atienden con cita previa, que se pide por internet o por teléfono. Así se reservan el día y la hora del trámite.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t1-099",
+    "topic": "gobierno",
+    "type": "choice",
+    "question": "Empiezas tu primer trabajo en España. ¿Qué número registra tus cotizaciones durante toda tu vida laboral?",
+    "options": [
+      "El número de afiliación a la Seguridad Social",
+      "El número del pasaporte",
+      "El número de cuenta del banco"
+    ],
+    "answer": 0,
+    "explanation": "La Tesorería General de la Seguridad Social asigna a cada trabajador un número de afiliación, único para toda su vida laboral. Con él se registran sus cotizaciones.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t1-100",
+    "topic": "gobierno",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? Con un certificado digital o con el sistema Cl@ve se pueden hacer muchos trámites con la Administración por internet.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "El certificado digital y Cl@ve son formas de identificarse en internet ante la Administración. Sirven, por ejemplo, para presentar la declaración de la renta o pedir certificados.",
+    "difficulty": 1
+  }
+]

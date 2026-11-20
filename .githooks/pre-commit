@@ -1,0 +1,4 @@
+#!/bin/sh
+# Runs before every commit (`pnpm hooks` installs it): typecheck, lint, format and tests.
+set -e
+pnpm check

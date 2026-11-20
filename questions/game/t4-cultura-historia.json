@@ -1,0 +1,526 @@
+[
+  {
+    "id": "g-t4-001",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "Visita al Museo del Prado: ¿quién pintó «Las meninas»?",
+    "options": ["Diego Velázquez", "Francisco de Goya", "Pablo Picasso"],
+    "answer": 0,
+    "explanation": "Diego Velázquez pintó «Las meninas» en 1656. Hoy se puede ver en el Museo del Prado, en Madrid.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t4-002",
+    "topic": "cultura-historia",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? Los Reyes Católicos fueron Isabel I de Castilla y Fernando II de Aragón.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "Isabel I de Castilla y Fernando II de Aragón se casaron en 1469. El papa les dio el título de Reyes Católicos en 1496.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t4-003",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "Primera parada, hace miles de años: ¿en qué comunidad autónoma está la cueva de Altamira?",
+    "options": ["Asturias", "Cantabria", "Andalucía"],
+    "answer": 1,
+    "explanation": "La cueva de Altamira, en Santillana del Mar (Cantabria), guarda pinturas del Paleolítico, como sus famosos bisontes. Es Patrimonio de la Humanidad desde 1985.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t4-004",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "Antes de llamarse Mérida, fue una gran ciudad romana. ¿Cuál era su nombre?",
+    "options": ["Caesaraugusta", "Tarraco", "Emerita Augusta"],
+    "answer": 2,
+    "explanation": "El emperador Augusto fundó Emerita Augusta en el año 25 a. C., y su teatro romano todavía acoge cada verano un festival de teatro clásico. Caesaraugusta es hoy Zaragoza y Tarraco, Tarragona.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t4-005",
+    "topic": "cultura-historia",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? El acueducto de Segovia lo construyeron los musulmanes de al-Ándalus.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "El acueducto de Segovia es romano, de hacia el siglo I o II d. C. Sus bloques de granito se sostienen sin argamasa y llevaban agua a la ciudad.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t4-006",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "¿En qué año empezó al-Ándalus, con la llegada de los musulmanes a la península?",
+    "options": ["711", "1031", "1492"],
+    "answer": 0,
+    "explanation": "En el año 711 tropas musulmanas cruzaron el estrecho de Gibraltar y derrotaron al rey visigodo Rodrigo. La presencia musulmana en la península duró casi ocho siglos.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t4-007",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "Un bosque de columnas y arcos rojos y blancos: ¿en qué ciudad está la Mezquita-catedral?",
+    "options": ["Toledo", "Granada", "Córdoba"],
+    "answer": 2,
+    "explanation": "La Mezquita de Córdoba se empezó a construir en el siglo VIII, cuando Córdoba era la capital de al-Ándalus. En el siglo XVI se levantó una catedral en su interior.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t4-008",
+    "topic": "cultura-historia",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? La Alhambra de Granada la construyeron los romanos.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "La Alhambra es obra de los reyes nazaríes de Granada, sobre todo de los siglos XIII y XIV. Es Patrimonio de la Humanidad desde 1984.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t4-009",
+    "topic": "cultura-historia",
+    "type": "trueFalse",
+    "question": "Mirando al cielo en Sevilla: ¿verdadero o falso? La Giralda fue el alminar de una mezquita.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "La Giralda era el alminar (la torre) de la mezquita almohade de Sevilla, del siglo XII. En el siglo XVI se le añadió el campanario cristiano.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t4-010",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "Toledo es «la ciudad de las tres culturas». ¿Qué tres culturas convivieron allí en la Edad Media?",
+    "options": [
+      "Romana, griega y fenicia",
+      "Cristiana, musulmana y judía",
+      "Celta, íbera y visigoda"
+    ],
+    "answer": 1,
+    "explanation": "En el Toledo medieval vivieron cristianos, musulmanes y judíos. Lo recuerdan su catedral, sus sinagogas y la mezquita del Cristo de la Luz.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t4-011",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "Un año para apuntar en la mochila: ¿qué pasó en España en 1492?",
+    "options": [
+      "Los Reyes Católicos tomaron Granada y Colón llegó a América",
+      "Se aprobó la primera Constitución española",
+      "Empezó la Guerra de la Independencia"
+    ],
+    "answer": 0,
+    "explanation": "En enero de 1492 los Reyes Católicos entraron en Granada, el último reino de al-Ándalus, y el 12 de octubre Colón llegó a América. Ese año Nebrija publicó también la primera gramática del castellano.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t4-012",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "Tres barcos y un océano: ¿cómo se llamaban las naves del primer viaje de Colón?",
+    "options": [
+      "La Victoria, la Trinidad y la Concepción",
+      "La Pinta, la Victoria y la Santa María",
+      "La Pinta, la Niña y la Santa María"
+    ],
+    "answer": 2,
+    "explanation": "Colón salió del puerto de Palos de la Frontera (Huelva) el 3 de agosto de 1492 con la Pinta, la Niña y la Santa María. La Victoria fue la nave que completó la primera vuelta al mundo, en 1522.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t4-013",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "Lectura para el viaje: ¿quién escribió «Don Quijote de la Mancha»?",
+    "options": ["Lope de Vega", "Miguel de Cervantes", "Francisco de Quevedo"],
+    "answer": 1,
+    "explanation": "Miguel de Cervantes publicó la primera parte del Quijote en 1605 y la segunda en 1615. Es la obra más famosa de la literatura en español.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t4-014",
+    "topic": "cultura-historia",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? El 23 de abril se celebra el Día del Libro, en recuerdo de Cervantes.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "Cervantes murió en Madrid en abril de 1616 y fue enterrado el día 23. Ese día es el Día del Libro; en Cataluña es Sant Jordi y se regalan libros y rosas.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t4-015",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "Telón arriba: ¿por qué es famoso Lope de Vega?",
+    "options": [
+      "Por pintar «La rendición de Breda»",
+      "Por su teatro: escribió cientos de comedias",
+      "Por diseñar el monasterio de El Escorial"
+    ],
+    "answer": 1,
+    "explanation": "Lope de Vega (1562-1635) renovó el teatro del Siglo de Oro con obras como «Fuenteovejuna». «La rendición de Breda» es de Velázquez, y El Escorial lo diseñaron Juan Bautista de Toledo y Juan de Herrera.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t4-016",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "Pluma afilada: ¿qué escritor del Siglo de Oro, gran rival de Góngora, escribió «El Buscón»?",
+    "options": ["Garcilaso de la Vega", "Calderón de la Barca", "Francisco de Quevedo"],
+    "answer": 2,
+    "explanation": "Francisco de Quevedo (1580-1645) escribió poesía satírica y amorosa y la novela picaresca «Historia de la vida del Buscón». Su rivalidad con Luis de Góngora es famosa.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t4-017",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "Llegó de Creta y se quedó en Toledo: ¿qué pintor creó «El entierro del señor de Orgaz»?",
+    "options": ["El Greco", "Bartolomé Esteban Murillo", "Francisco de Zurbarán"],
+    "answer": 0,
+    "explanation": "Doménikos Theotokópoulos, «el Greco», nació en Creta y vivió en Toledo desde 1577 hasta su muerte, en 1614. «El entierro del señor de Orgaz» sigue en la iglesia de Santo Tomé, en Toledo.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t4-018",
+    "topic": "cultura-historia",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? Felipe II instaló la corte en Madrid en 1561.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "En 1561 Felipe II trasladó la corte de Toledo a Madrid. Desde entonces Madrid es la capital, salvo un breve periodo en Valladolid con Felipe III (1601-1606).",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t4-019",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "Año 1808: ¿contra quién luchó España en la Guerra de la Independencia?",
+    "options": ["Contra Inglaterra", "Contra la Francia de Napoleón", "Contra Portugal"],
+    "answer": 1,
+    "explanation": "En 1808 las tropas de Napoleón ocuparon España y él puso en el trono a su hermano José Bonaparte. El 2 de mayo el pueblo de Madrid se levantó contra los franceses; la guerra duró hasta 1814.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t4-020",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "Otra joya del Prado: ¿quién pintó «El 3 de mayo en Madrid», con los fusilamientos de 1808?",
+    "options": ["Joaquín Sorolla", "Diego Velázquez", "Francisco de Goya"],
+    "answer": 2,
+    "explanation": "Francisco de Goya lo pintó en 1814. Muestra los fusilamientos de madrileños por las tropas francesas tras el levantamiento del 2 de mayo de 1808.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t4-021",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "Cádiz, 1812: ¿qué apodo recibió la Constitución aprobada allí?",
+    "options": ["La Pepa", "La Chata", "La Niña Bonita"],
+    "answer": 0,
+    "explanation": "La Constitución de Cádiz se promulgó el 19 de marzo de 1812, día de San José, y por eso la llamaron «la Pepa». Proclamaba la soberanía nacional y la división de poderes.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t4-022",
+    "topic": "cultura-historia",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? España solo ha tenido una república en toda su historia.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "España ha tenido dos repúblicas. La Primera se proclamó en 1873 y duró menos de dos años; la Segunda llegó en el siglo XX y terminó con la Guerra Civil.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t4-023",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "¿Cuándo se proclamó la Segunda República?",
+    "options": ["El 18 de julio de 1936", "El 14 de abril de 1931", "El 6 de diciembre de 1978"],
+    "answer": 1,
+    "explanation": "La Segunda República se proclamó el 14 de abril de 1931, después de unas elecciones municipales. El rey Alfonso XIII salió de España.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t4-024",
+    "topic": "cultura-historia",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? Las mujeres votaron por primera vez en unas elecciones generales en España en 1933.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "La Constitución de 1931 reconoció el voto de las mujeres, en gran parte gracias a la diputada Clara Campoamor. Las mujeres votaron en las elecciones generales de noviembre de 1933.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t4-025",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "¿Entre qué años fue la Guerra Civil española?",
+    "options": ["De 1914 a 1918", "De 1808 a 1814", "De 1936 a 1939"],
+    "answer": 2,
+    "explanation": "La Guerra Civil empezó con un golpe de Estado contra la República en julio de 1936 y terminó en abril de 1939. Después llegó la dictadura de Francisco Franco, que duró hasta su muerte en 1975.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t4-026",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "Noviembre de 1975, muere Franco. ¿Quién es proclamado rey?",
+    "options": ["Juan Carlos I", "Alfonso XIII", "Felipe VI"],
+    "answer": 0,
+    "explanation": "Juan Carlos I fue proclamado rey el 22 de noviembre de 1975, dos días después de la muerte de Franco. En 2014 abdicó en su hijo, Felipe VI.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t4-027",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "La Transición en marcha: ¿cuándo fueron las primeras elecciones generales democráticas después de la dictadura?",
+    "options": ["El 15 de junio de 1977", "El 20 de noviembre de 1975", "El 28 de octubre de 1982"],
+    "answer": 0,
+    "explanation": "El 15 de junio de 1977 los españoles votaron en libertad por primera vez desde 1936. Ganó la UCD de Adolfo Suárez.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t4-028",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "¿Qué ocurrió el 23 de febrero de 1981, el «23-F»?",
+    "options": [
+      "La entrada de España en la OTAN",
+      "Un intento de golpe de Estado en el Congreso",
+      "El referéndum de la Constitución"
+    ],
+    "answer": 1,
+    "explanation": "Guardias civiles al mando de Antonio Tejero asaltaron el Congreso durante la votación de investidura de Leopoldo Calvo-Sotelo. El rey Juan Carlos I defendió la Constitución en televisión y el golpe fracasó.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t4-029",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "La Transición mira al mundo: ¿en qué año entró España en la OTAN?",
+    "options": ["1975", "1982", "1999"],
+    "answer": 1,
+    "explanation": "España ingresó en la OTAN el 30 de mayo de 1982. En el referéndum del 12 de marzo de 1986, los españoles votaron a favor de seguir en la Alianza Atlántica.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t4-030",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "1992, el gran año: ¿qué ciudad organizó los Juegos Olímpicos y cuál la Exposición Universal?",
+    "options": [
+      "Madrid los Juegos y Barcelona la Expo",
+      "Barcelona los Juegos y Sevilla la Expo",
+      "Sevilla los Juegos y Valencia la Expo"
+    ],
+    "answer": 1,
+    "explanation": "En 1992 Barcelona organizó los Juegos Olímpicos y Sevilla la Exposición Universal, en el quinto centenario del viaje de Colón. Ese mismo año Madrid fue Capital Europea de la Cultura.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t4-031",
+    "topic": "cultura-historia",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? Las monedas y los billetes de euro empezaron a circular en España el 1 de enero de 2002.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "El euro existía como moneda de cuenta desde 1999, pero las monedas y los billetes llegaron en 2002 y sustituyeron a la peseta.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t4-032",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "Torres que se ven desde toda Barcelona: ¿qué arquitecto diseñó la Sagrada Familia?",
+    "options": ["Santiago Calatrava", "Antoni Gaudí", "Rafael Moneo"],
+    "answer": 1,
+    "explanation": "Antoni Gaudí, gran figura del modernismo catalán, trabajó en la Sagrada Familia desde 1883 hasta su muerte, en 1926. También son suyos el Park Güell y la Casa Batlló.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t4-033",
+    "topic": "cultura-historia",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? Antoni Gaudí diseñó el Museo Guggenheim de Bilbao.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "El Guggenheim de Bilbao, cubierto de titanio, es obra del arquitecto Frank Gehry y abrió en 1997. Gaudí había muerto en 1926.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t4-034",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "¿En qué museo de Madrid se puede ver el «Guernica» de Picasso?",
+    "options": ["El Museo del Prado", "El Museo Thyssen-Bornemisza", "El Museo Reina Sofía"],
+    "answer": 2,
+    "explanation": "Picasso pintó el «Guernica» en 1937, tras el bombardeo de esa villa vasca durante la Guerra Civil. Llegó a España en 1981 y desde 1992 está en el Museo Nacional Centro de Arte Reina Sofía.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t4-035",
+    "topic": "cultura-historia",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? Pablo Picasso nació en Barcelona.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "Picasso nació en Málaga en 1881. De joven vivió en Barcelona y después pasó la mayor parte de su vida en Francia.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t4-036",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "Bigote imposible y relojes blandos: ¿qué pintor surrealista tiene su Teatro-Museo en Figueres?",
+    "options": ["Salvador Dalí", "Joan Miró", "Antoni Tàpies"],
+    "answer": 0,
+    "explanation": "Salvador Dalí (1904-1989) nació en Figueres (Girona) y allí creó su Teatro-Museo. Es uno de los grandes nombres del surrealismo.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t4-037",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "Lo ves en los carteles de turismo: ¿qué artista dibujó en 1983 el sol de colores de la marca turística de España?",
+    "options": ["Pablo Picasso", "Joan Miró", "Salvador Dalí"],
+    "answer": 1,
+    "explanation": "El sol de la marca turística de España es obra de Joan Miró, de 1983. Miró (1893-1983), nacido en Barcelona, es famoso por sus formas sencillas y sus colores vivos.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t4-038",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "El Museo del Prado es un viajero del tiempo. ¿En qué año abrió sus puertas?",
+    "options": ["1819", "1719", "1919"],
+    "answer": 0,
+    "explanation": "El Prado abrió en Madrid en 1819. Guarda grandes colecciones de Velázquez, Goya y el Greco, entre muchos otros.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t4-039",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "Poeta granadino de la Generación del 27: ¿quién escribió «Bodas de sangre» y «La casa de Bernarda Alba»?",
+    "options": ["Antonio Machado", "Federico García Lorca", "Gustavo Adolfo Bécquer"],
+    "answer": 1,
+    "explanation": "Federico García Lorca (1898-1936) fue poeta y dramaturgo. Lo asesinaron al comienzo de la Guerra Civil.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t4-040",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "«Caminante, no hay camino, se hace camino al andar». ¿Quién escribió estos versos?",
+    "options": ["Miguel Hernández", "Federico García Lorca", "Antonio Machado"],
+    "answer": 2,
+    "explanation": "Son de Antonio Machado (1875-1939), del libro «Campos de Castilla». Machado murió en el exilio, en Collioure (Francia).",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t4-041",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "Un burrito de algodón y un Nobel: ¿qué escritor andaluz escribió «Platero y yo» y ganó el Nobel de Literatura en 1956?",
+    "options": ["Juan Ramón Jiménez", "Vicente Aleixandre", "Miguel de Unamuno"],
+    "answer": 0,
+    "explanation": "Juan Ramón Jiménez, nacido en Moguer (Huelva), recibió el Premio Nobel de Literatura en 1956. También lo ganaron los españoles José Echegaray, Jacinto Benavente, Vicente Aleixandre y Camilo José Cela.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t4-042",
+    "topic": "cultura-historia",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? Camilo José Cela, autor de «La familia de Pascual Duarte», ganó el Premio Nobel de Literatura.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "Cela recibió el Premio Nobel de Literatura en 1989. «La familia de Pascual Duarte» (1942) fue su primera novela.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t4-043",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "Cante, toque y baile: ¿qué arte es Patrimonio Cultural Inmaterial de la Humanidad desde 2010?",
+    "options": ["La jota", "El flamenco", "La sardana"],
+    "answer": 1,
+    "explanation": "El flamenco nació en Andalucía y une el cante, la guitarra y el baile. La UNESCO lo declaró Patrimonio Cultural Inmaterial de la Humanidad en 2010.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t4-044",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "Claqueta en mano: ¿qué director manchego ganó el Óscar a la mejor película extranjera con «Todo sobre mi madre»?",
+    "options": ["Luis Buñuel", "Alejandro Amenábar", "Pedro Almodóvar"],
+    "answer": 2,
+    "explanation": "Pedro Almodóvar, nacido en Calzada de Calatrava (Ciudad Real), ganó ese Óscar en el año 2000. El primer Óscar de una película española fue para «Volver a empezar», de José Luis Garci, en 1983.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t4-045",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "Alfombra roja del cine español: ¿cómo se llaman sus premios anuales?",
+    "options": ["Premios Velázquez", "Premios Cervantes", "Premios Goya"],
+    "answer": 2,
+    "explanation": "La Academia de Cine entrega los Premios Goya desde 1987, y la estatuilla es un busto del pintor Francisco de Goya. El Premio Cervantes, en cambio, es de literatura.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t4-046",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "Fuego en marzo: ¿en qué ciudad se queman grandes monumentos de cartón y madera durante las Fallas?",
+    "options": ["Valencia", "Pamplona", "Sevilla"],
+    "answer": 0,
+    "explanation": "Las Fallas de Valencia terminan la noche del 19 de marzo, día de San José, con la «cremà», cuando se queman los monumentos. Son Patrimonio Cultural Inmaterial de la Humanidad desde 2016.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t4-047",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "Pañuelo rojo y carreras delante de los toros: ¿en qué ciudad se celebran los Sanfermines?",
+    "options": ["Bilbao", "Pamplona", "Logroño"],
+    "answer": 1,
+    "explanation": "Los Sanfermines de Pamplona empiezan el 6 de julio con el chupinazo y terminan el 14. Cada mañana, del 7 al 14, se corre el encierro.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t4-048",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "Casetas, farolillos y trajes de flamenca: ¿en qué ciudad se celebra la Feria de Abril?",
+    "options": ["Sevilla", "Córdoba", "Málaga"],
+    "answer": 0,
+    "explanation": "La Feria de Abril de Sevilla se celebra en primavera, normalmente unas dos semanas después de la Semana Santa. Hay casetas, paseos a caballo y se bailan sevillanas.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t4-049",
+    "topic": "cultura-historia",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? La Semana Santa cae cada año en las mismas fechas.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "La Semana Santa depende del calendario lunar y cambia cada año, entre marzo y abril. Son famosas sus procesiones en ciudades como Sevilla, Málaga, Valladolid o Zamora.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t4-050",
+    "topic": "cultura-historia",
+    "type": "choice",
+    "question": "Ropa vieja obligatoria: ¿en qué pueblo valenciano se celebra la Tomatina?",
+    "options": ["Xàtiva", "Alcoy", "Buñol"],
+    "answer": 2,
+    "explanation": "La Tomatina de Buñol (Valencia) se celebra el último miércoles de agosto: durante una hora, la gente se lanza tomates por las calles.",
+    "difficulty": 3
+  }
+]

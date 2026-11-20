@@ -1,0 +1,766 @@
+[
+  {
+    "id": "g-t5-001",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¡Emergencia! Necesitas una ambulancia ya. ¿A qué número llamas?",
+    "options": ["060", "112", "010"],
+    "answer": 1,
+    "explanation": "El 112 es el teléfono de emergencias en toda España y en la Unión Europea. Es gratuito y atiende las 24 horas.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t5-002",
+    "topic": "sociedad",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? En Nochevieja es tradición tomar doce uvas con las campanadas de medianoche.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "El 31 de diciembre, a medianoche, mucha gente toma una uva con cada una de las doce campanadas para empezar el año con buena suerte.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t5-003",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Disfraces, máscaras y coplas con humor: ¿qué fiesta llena de color las calles de Cádiz y de Santa Cruz de Tenerife antes de la Cuaresma?",
+    "options": ["La Semana Santa", "El Carnaval", "Las Fallas"],
+    "answer": 1,
+    "explanation": "El Carnaval se celebra justo antes de la Cuaresma, en febrero o marzo según el año. Los de Cádiz, con sus chirigotas, y Santa Cruz de Tenerife están entre los más famosos de España.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t5-004",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Puente de diciembre a la vista: ¿qué significa «hacer puente»?",
+    "options": [
+      "Tomarse libre un día laborable que queda entre un festivo y el fin de semana",
+      "Trabajar un domingo a cambio de librar otro día de la semana",
+      "Cruzar la frontera con Francia o Portugal para ir de compras"
+    ],
+    "answer": 0,
+    "explanation": "Cuando un festivo cae en martes o en jueves, mucha gente se toma libre el lunes o el viernes: eso es «hacer puente». El de diciembre es famoso porque el 6 (Día de la Constitución) y el 8 (Inmaculada Concepción) son festivos.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t5-005",
+    "topic": "sociedad",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? El 1 de mayo, Día del Trabajo, es fiesta en toda España.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "El 1 de mayo es fiesta nacional en todo el país. Ese día los sindicatos organizan manifestaciones en muchas ciudades.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t5-006",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Noche mágica del 5 al 6 de enero: ¿quién trae los regalos a los niños?",
+    "options": ["Los Reyes Magos", "Papá Noel", "El Ratoncito Pérez"],
+    "answer": 0,
+    "explanation": "La tarde del 5 de enero hay cabalgatas de Reyes en muchas ciudades y pueblos, y esa noche los Reyes Magos dejan los regalos. El 6 de enero es festivo.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t5-007",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Postre con premio escondido: ¿qué dulce se come el día de Reyes?",
+    "options": ["El turrón", "Las torrijas", "El roscón de Reyes"],
+    "answer": 2,
+    "explanation": "El roscón de Reyes es un bollo en forma de rosca con fruta escarchada. Dentro lleva una figurita y un haba: según la tradición, a quien le sale el haba le toca pagar el roscón.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t5-008",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "El 22 de diciembre media España mira la tele con un décimo en la mano. ¿Qué sorteo es?",
+    "options": ["La Lotería del Niño", "La Lotería de Navidad", "El cupón de la ONCE"],
+    "answer": 1,
+    "explanation": "El sorteo extraordinario de Navidad se celebra cada 22 de diciembre y su premio mayor se llama «el Gordo». Los niños del colegio de San Ildefonso cantan los números.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t5-009",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Uvas preparadas: ¿desde qué reloj se retransmiten cada año las campanadas de Nochevieja?",
+    "options": [
+      "El de la catedral de Santiago",
+      "El de la Plaza Mayor de Salamanca",
+      "El de la Puerta del Sol, en Madrid"
+    ],
+    "answer": 2,
+    "explanation": "El reloj de la Real Casa de Correos, en la Puerta del Sol de Madrid, da las doce campanadas que se ven por televisión en toda España.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t5-010",
+    "topic": "sociedad",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? El 1 de noviembre, Todos los Santos, mucha gente visita los cementerios para llevar flores a sus difuntos.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "El 1 de noviembre es fiesta nacional. Es tradición limpiar las tumbas, llevar flores y comer dulces como los huesos de santo o los buñuelos.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t5-011",
+    "topic": "sociedad",
+    "type": "trueFalse",
+    "question": "Fuego en la playa: ¿verdadero o falso? En la noche de San Juan, del 23 al 24 de junio, es tradición encender hogueras.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "La noche de San Juan se celebra con hogueras en muchas playas y plazas, por ejemplo en Alicante, A Coruña o Cataluña.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t5-012",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Cada comunidad tiene su día. ¿Cuándo celebra Cataluña la Diada, su fiesta?",
+    "options": ["El 11 de septiembre", "El 23 de abril", "El 24 de junio"],
+    "answer": 0,
+    "explanation": "La Diada Nacional de Cataluña es el 11 de septiembre. Cada comunidad autónoma tiene su día: el de Andalucía, por ejemplo, es el 28 de febrero.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t5-013",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Rellenando un formulario: ¿cuántos apellidos suele tener una persona en España?",
+    "options": ["Uno", "Tres", "Dos"],
+    "answer": 2,
+    "explanation": "En España cada persona tiene dos apellidos, normalmente uno del padre y otro de la madre. Los padres eligen el orden; si no se ponen de acuerdo, decide el Registro Civil.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t5-014",
+    "topic": "sociedad",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? En España, al casarse, la mujer cambia sus apellidos por los del marido.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "En España nadie cambia de apellidos al casarse: cada persona conserva los suyos toda la vida.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t5-015",
+    "topic": "sociedad",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? En un ambiente informal, en España es habitual saludarse con dos besos en las mejillas.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "Entre amigos y conocidos son habituales los dos besos, uno en cada mejilla. En el trabajo o en situaciones formales es más común darse la mano.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t5-016",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Te ruge el estómago: ¿a qué hora se come normalmente en España?",
+    "options": [
+      "Entre las 14:00 y las 15:30",
+      "Entre las 11:00 y las 12:00",
+      "Entre las 17:00 y las 18:00"
+    ],
+    "answer": 0,
+    "explanation": "En España se come más tarde que en otros países de Europa: la comida suele ser entre las 14:00 y las 15:30, y la cena, a partir de las 21:00.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t5-017",
+    "topic": "sociedad",
+    "type": "trueFalse",
+    "question": "La cuenta, por favor: ¿verdadero o falso? En España la propina es obligatoria y siempre se suma a la cuenta.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "La propina es voluntaria, porque el servicio ya está incluido en el precio. Dejar algo cuando te han atendido bien es un detalle, no una obligación.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t5-018",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Domingo de arroz: ¿de qué comunidad autónoma es originaria la paella?",
+    "options": ["Andalucía", "Comunitat Valenciana", "Cataluña"],
+    "answer": 1,
+    "explanation": "La paella nació en la huerta de Valencia. La receta valenciana tradicional lleva arroz, pollo, conejo y verduras, y se cocina en una sartén ancha que también se llama paella.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t5-019",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Cuchara en mano en Madrid: ¿cuál es el ingrediente principal del cocido madrileño?",
+    "options": ["Los garbanzos", "Las lentejas", "El arroz"],
+    "answer": 0,
+    "explanation": "El cocido madrileño es un guiso de garbanzos con verduras, carne y embutidos. Se sirve en «vuelcos»: primero la sopa y después los garbanzos y las carnes.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t5-020",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Brindis en Logroño: ¿por qué es famosa en todo el mundo La Rioja?",
+    "options": ["Por su sidra", "Por su vino", "Por su queso azul"],
+    "answer": 1,
+    "explanation": "La Rioja es famosa por sus vinos. En 1991 Rioja fue la primera denominación de origen calificada de España, y sus viñedos llegan también a Álava y Navarra.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t5-021",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "En Asturias te la sirven desde muy alto, «escanciada». ¿Qué bebida es?",
+    "options": ["La horchata", "El cava", "La sidra"],
+    "answer": 2,
+    "explanation": "La sidra asturiana, hecha con manzana, se escancia: se echa desde arriba para que se airee. Se bebe en culines, pequeñas cantidades que se toman de un trago.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t5-022",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "El turrón de Navidad tiene un pueblo famoso en Alicante. ¿Cuál es?",
+    "options": ["Jijona (Xixona)", "Tordesillas", "Almagro"],
+    "answer": 0,
+    "explanation": "Jijona (Xixona), en Alicante, es famosa por su turrón de almendra y miel. El turrón de Jijona es el blando y el de Alicante, el duro.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t5-023",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Tapa de queso en La Mancha: ¿de qué leche se hace el queso manchego?",
+    "options": ["De vaca", "De cabra", "De oveja"],
+    "answer": 2,
+    "explanation": "El queso manchego con denominación de origen se elabora con leche de oveja de raza manchega, en Castilla-La Mancha.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t5-024",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¡Gol! ¿En qué año ganó España por primera vez el Mundial de fútbol masculino?",
+    "options": ["1982", "1992", "2010"],
+    "answer": 2,
+    "explanation": "La selección masculina ganó su primer Mundial en 2010, en Sudáfrica, y la femenina ganó el suyo en 2023. En 1982 España fue la sede del Mundial.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t5-025",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Mochila al cole: ¿entre qué edades es obligatorio estudiar en España?",
+    "options": ["De los 3 a los 18 años", "De los 6 a los 16 años", "De los 6 a los 14 años"],
+    "answer": 1,
+    "explanation": "La enseñanza básica es obligatoria y gratuita de los 6 a los 16 años: seis cursos de Educación Primaria y cuatro de ESO.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t5-026",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Sopa de letras escolar: ¿qué significan las siglas ESO?",
+    "options": [
+      "Escuela Superior Oficial",
+      "Enseñanza Social Obligatoria",
+      "Educación Secundaria Obligatoria"
+    ],
+    "answer": 2,
+    "explanation": "La ESO es la Educación Secundaria Obligatoria: cuatro cursos, normalmente de los 12 a los 16 años. Después se puede estudiar Bachillerato o Formación Profesional.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t5-027",
+    "topic": "sociedad",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? El Bachillerato es obligatorio para todos los alumnos.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "El Bachillerato es voluntario y dura dos cursos, normalmente de los 16 a los 18 años. Prepara para la prueba de acceso a la universidad.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t5-028",
+    "topic": "sociedad",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? La Educación Infantil, de 0 a 6 años, no es obligatoria.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "La Educación Infantil es voluntaria. Su segundo ciclo, de 3 a 6 años, es gratuito en los centros sostenidos con fondos públicos.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t5-029",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Cómo se llama un colegio de titularidad privada que recibe fondos públicos?",
+    "options": ["Colegio concertado", "Colegio mayor", "Colegio público"],
+    "answer": 0,
+    "explanation": "En España hay colegios públicos, concertados (privados pagados en parte con dinero público) y privados. Un colegio mayor es una residencia de estudiantes universitarios.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t5-030",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Estudiar desde casa, en cualquier punto del mapa: ¿qué universidad pública ofrece enseñanza a distancia en toda España?",
+    "options": ["La Universidad de Salamanca", "La UNED", "La Universidad Complutense"],
+    "answer": 1,
+    "explanation": "La UNED (Universidad Nacional de Educación a Distancia) es pública y permite estudiar a distancia desde cualquier lugar. Tiene centros asociados en muchas provincias.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t5-031",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Primera visita al médico de la sanidad pública: ¿qué tarjeta te piden?",
+    "options": ["El carné joven", "La tarjeta sanitaria individual", "La tarjeta de embarque"],
+    "answer": 1,
+    "explanation": "La tarjeta sanitaria individual te identifica en la sanidad pública. Con ella te atienden y puedes retirar en la farmacia los medicamentos que te recetan.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t5-032",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Tienes fiebre, pero no es una urgencia. ¿Adónde vas primero en la sanidad pública?",
+    "options": [
+      "Al centro de salud, con tu médico de familia",
+      "Directamente a urgencias del hospital",
+      "A la farmacia, a pedir antibióticos sin receta"
+    ],
+    "answer": 0,
+    "explanation": "El centro de salud es la puerta de entrada a la sanidad pública: allí te atiende tu médico de familia, que te envía al especialista si hace falta. Las urgencias del hospital son para los casos graves.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t5-033",
+    "topic": "sociedad",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? La sanidad pública la gestiona directamente el Ministerio de Sanidad, igual en toda España.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "Cada comunidad autónoma gestiona su propio servicio de salud dentro del Sistema Nacional de Salud. En Ceuta y Melilla la gestiona el Estado, a través del INGESA.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t5-034",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Son las tres de la madrugada y necesitas un medicamento. ¿Qué buscas?",
+    "options": ["Una farmacia de guardia", "Un estanco", "Una parafarmacia"],
+    "answer": 0,
+    "explanation": "Las farmacias se turnan para abrir de noche y en festivos: son las farmacias de guardia. En la puerta de cada farmacia se indica cuál está de guardia.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t5-035",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Coche a tu nombre: ¿a quién pagas cada año el impuesto de circulación?",
+    "options": [
+      "A la Dirección General de Tráfico (DGT)",
+      "Al ayuntamiento",
+      "A la Seguridad Social"
+    ],
+    "answer": 1,
+    "explanation": "El impuesto de circulación, cuyo nombre oficial es impuesto sobre vehículos de tracción mecánica, es un impuesto municipal: se paga cada año al ayuntamiento del domicilio que figura en el permiso de circulación. La DGT expide los permisos, pero no cobra este impuesto.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t5-036",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Fin de mes en el trabajo: ¿qué es la nómina?",
+    "options": [
+      "El contrato de alquiler del piso",
+      "El documento con tu salario y los descuentos del mes",
+      "El certificado de empadronamiento"
+    ],
+    "answer": 1,
+    "explanation": "La nómina es el recibo del salario: muestra lo que ganas, lo que se descuenta (cotizaciones e impuestos) y lo que cobras de verdad.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t5-037",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Firmas un contrato de trabajo sin fecha de fin. ¿Cómo se llama?",
+    "options": ["Contrato indefinido", "Contrato temporal", "Contrato de formación"],
+    "answer": 0,
+    "explanation": "El contrato indefinido no tiene fecha de fin. El temporal tiene una duración limitada y solo se permite por causas concretas.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t5-038",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Te has quedado sin trabajo. ¿Qué organismo gestiona la prestación por desempleo, «el paro»?",
+    "options": [
+      "La Dirección General de Tráfico",
+      "El Servicio Público de Empleo Estatal (SEPE)",
+      "La Agencia Tributaria"
+    ],
+    "answer": 1,
+    "explanation": "El SEPE gestiona la prestación por desempleo. Para buscar trabajo también ayudan los servicios de empleo de cada comunidad autónoma.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t5-039",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Primer día de trabajo: ¿dónde tiene que darte de alta tu empresa?",
+    "options": ["En la Seguridad Social", "En el Registro Civil", "En la Policía Nacional"],
+    "answer": 0,
+    "explanation": "La empresa debe darte de alta en la Seguridad Social antes de que empieces a trabajar. Así cotizas para tu jubilación, las bajas por enfermedad o el paro.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t5-040",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¡A la playa! ¿Cuántos días de vacaciones pagadas al año tiene como mínimo un trabajador?",
+    "options": ["15 días naturales", "30 días naturales", "45 días naturales"],
+    "answer": 1,
+    "explanation": "El Estatuto de los Trabajadores fija un mínimo de 30 días naturales de vacaciones pagadas al año. No se pueden cambiar por dinero.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t5-041",
+    "topic": "sociedad",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? Los trabajadores tienen derecho a dos pagas extraordinarias al año, una de ellas en Navidad.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "El Estatuto de los Trabajadores fija dos pagas extra al año, una en Navidad. El convenio puede repartirlas (prorratearlas) entre las doce mensualidades.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t5-042",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Después de toda una vida cotizando llega la jubilación. ¿Qué organismo reconoce y gestiona la pensión contributiva?",
+    "options": [
+      "El ayuntamiento donde vives",
+      "La Agencia Tributaria",
+      "El Instituto Nacional de la Seguridad Social (INSS)"
+    ],
+    "answer": 2,
+    "explanation": "El Instituto Nacional de la Seguridad Social (INSS) reconoce y gestiona las pensiones contributivas, como la de jubilación. Su cuantía depende de los años cotizados y de las bases por las que se ha cotizado.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t5-043",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "En un edificio de pisos, ¿quién decide sobre el ascensor, la escalera o la fachada?",
+    "options": ["La comunidad de propietarios", "El ayuntamiento", "La Policía Local"],
+    "answer": 0,
+    "explanation": "Los propietarios de los pisos forman la comunidad de propietarios. En la junta eligen a un presidente y aprueban las cuotas para los gastos comunes.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t5-044",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Alquilas un piso para vivir en él. ¿Qué fianza obligatoria fija la ley?",
+    "options": [
+      "Una mensualidad de renta",
+      "Tres mensualidades de renta",
+      "Seis mensualidades de renta"
+    ],
+    "answer": 0,
+    "explanation": "La Ley de Arrendamientos Urbanos fija una fianza de una mensualidad para alquilar una vivienda. Se devuelve al terminar el contrato si no hay daños ni deudas.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t5-045",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Si tienes un piso en propiedad, ¿qué impuesto pagas cada año al ayuntamiento?",
+    "options": ["El IVA", "El IBI", "El IRPF"],
+    "answer": 1,
+    "explanation": "El IBI (Impuesto sobre Bienes Inmuebles) lo paga cada año el propietario de un inmueble al ayuntamiento. El IVA grava el consumo y el IRPF, la renta de las personas.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t5-046",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Viaje en alta velocidad: ¿qué empresa pública opera los trenes AVE?",
+    "options": ["Adif", "Iberia", "Renfe"],
+    "answer": 2,
+    "explanation": "Renfe es la empresa pública de trenes: Cercanías, Media Distancia y alta velocidad (AVE). La primera línea AVE, entre Madrid y Sevilla, se inauguró en 1992.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t5-047",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Para ponerte al volante: ¿qué organismo expide el permiso de conducir?",
+    "options": ["La Dirección General de Tráfico (DGT)", "La Guardia Civil", "El ayuntamiento"],
+    "answer": 0,
+    "explanation": "La DGT, que depende del Ministerio del Interior, organiza los exámenes y expide los permisos de conducir.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t5-048",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Tu coche cumple años: ¿qué es la ITV?",
+    "options": [
+      "Un impuesto sobre la gasolina",
+      "El seguro obligatorio del coche",
+      "La revisión técnica obligatoria de los vehículos"
+    ],
+    "answer": 2,
+    "explanation": "La ITV (Inspección Técnica de Vehículos) comprueba que el vehículo es seguro. Los turismos la pasan por primera vez a los cuatro años y después de forma periódica.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t5-049",
+    "topic": "sociedad",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? Con el carné por puntos, quien pierde todos sus puntos se queda sin permiso de conducir.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "El permiso por puntos existe desde 2006: la mayoría de conductores tiene 12 puntos (hasta 15 si no comete infracciones) y los noveles empiezan con 8. Si se pierden todos, el permiso deja de ser válido.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t5-050",
+    "topic": "sociedad",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? Tener seguro del coche es voluntario en España.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "Para circular, todo vehículo a motor necesita al menos el seguro obligatorio, que cubre los daños causados a otras personas.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t5-051",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿A qué cuerpo de policía llamas en el 091?",
+    "options": ["A la Guardia Civil", "A la Policía Nacional", "A la Policía Local"],
+    "answer": 1,
+    "explanation": "El 091 es el teléfono de la Policía Nacional, que trabaja sobre todo en las ciudades. Para cualquier emergencia también puedes llamar al 112.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t5-052",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Necesitas a la Guardia Civil en una carretera de pueblo. ¿Qué número marcas?",
+    "options": ["El 062", "El 092", "El 016"],
+    "answer": 0,
+    "explanation": "El 062 es el teléfono de la Guardia Civil, que trabaja sobre todo en zonas rurales, carreteras, costas y fronteras.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t5-053",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Para qué sirve el teléfono 016?",
+    "options": [
+      "Para pedir cita en el centro de salud",
+      "Para informarse sobre el tráfico",
+      "Para atender a víctimas de violencia contra las mujeres"
+    ],
+    "answer": 2,
+    "explanation": "El 016 atiende a las víctimas de violencia contra las mujeres. Es gratuito, funciona las 24 horas y no aparece en la factura del teléfono, aunque conviene borrarlo del registro de llamadas.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t5-054",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Qué servicio atiende el teléfono 024?",
+    "options": [
+      "Información del ayuntamiento",
+      "Atención a personas con pensamientos suicidas",
+      "Objetos perdidos"
+    ],
+    "answer": 1,
+    "explanation": "El 024 es la línea de atención a la conducta suicida. Funciona desde 2022, es gratuito y atiende las 24 horas, todos los días.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t5-055",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Dudas con un trámite del Estado: ¿qué teléfono da información de la Administración General del Estado?",
+    "options": ["El 060", "El 091", "El 080"],
+    "answer": 0,
+    "explanation": "El 060 es el teléfono de información de la Administración General del Estado. Te orienta sobre trámites y te dice adónde dirigirte.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t5-056",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "En una tienda te cobran de más y no te lo arreglan. ¿Qué tienes derecho a pedir?",
+    "options": ["El libro de visitas", "Las hojas de reclamaciones", "El padrón municipal"],
+    "answer": 1,
+    "explanation": "Los comercios y establecimientos abiertos al público deben tener hojas de reclamaciones y dártelas si las pides. Después puedes llevar tu reclamación a la oficina de consumo.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t5-057",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Qué oficina municipal te ayuda gratis con tus problemas como consumidor?",
+    "options": ["La OMIC", "La ITV", "El SEPE"],
+    "answer": 0,
+    "explanation": "La OMIC (Oficina Municipal de Información al Consumidor) informa, recoge reclamaciones y media en conflictos con empresas. Es un servicio gratuito.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t5-058",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Compras unas zapatillas por internet y no te convencen. Por regla general, ¿cuántos días tienes para devolverlas sin dar explicaciones?",
+    "options": ["3 días", "6 meses", "14 días naturales"],
+    "answer": 2,
+    "explanation": "En las compras a distancia, como las de internet, tienes 14 días naturales desde que recibes el producto para desistir sin dar explicaciones. Hay excepciones, como los productos personalizados.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t5-059",
+    "topic": "sociedad",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? La garantía legal de un producto nuevo es de solo seis meses.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "Desde 2022 la garantía legal de los productos nuevos es de tres años; antes era de dos. Durante ese tiempo el vendedor responde si el producto no funciona como debe.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t5-060",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Hora de reciclar: ¿qué se tira en el contenedor azul?",
+    "options": ["Vidrio", "Restos de comida", "Papel y cartón"],
+    "answer": 2,
+    "explanation": "El contenedor azul es para el papel y el cartón: periódicos, revistas y cajas. Mejor plegar las cajas antes de tirarlas.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t5-061",
+    "topic": "sociedad",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? Las botellas de vidrio se tiran en el contenedor amarillo.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1,
+    "explanation": "El vidrio va al contenedor verde, el «iglú». El amarillo es para los envases de plástico, las latas y los briks.",
+    "difficulty": 1
+  },
+  {
+    "id": "g-t5-062",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "¿Para qué es el contenedor marrón?",
+    "options": [
+      "Para pilas y baterías",
+      "Para residuos orgánicos, como restos de comida",
+      "Para ropa usada"
+    ],
+    "answer": 1,
+    "explanation": "El contenedor marrón recoge los residuos orgánicos: restos de comida, cáscaras o posos de café. Con ellos se hace compost.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t5-063",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Un microondas roto, restos de pintura, aceite de cocina usado… ¿adónde los llevas?",
+    "options": ["Al contenedor amarillo", "Al contenedor gris", "A un punto limpio"],
+    "answer": 2,
+    "explanation": "Los puntos limpios recogen los residuos que no van en los contenedores de la calle, como aparatos eléctricos, pinturas, aceite usado o pilas. Para muebles viejos, muchos ayuntamientos tienen un servicio de recogida.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t5-064",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Para nostálgicos de la peseta: ¿a cuántas pesetas se fijó el cambio de un euro?",
+    "options": ["100 pesetas", "166,386 pesetas", "200 pesetas"],
+    "answer": 1,
+    "explanation": "El cambio quedó fijado en 166,386 pesetas por euro. La peseta fue la moneda de España desde 1868 hasta la llegada del euro.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t5-065",
+    "topic": "sociedad",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? En España las parejas del mismo sexo pueden casarse desde 2005.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "Una ley de 2005 permitió el matrimonio entre personas del mismo sexo, con los mismos derechos que cualquier otro matrimonio, incluida la adopción.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t5-066",
+    "topic": "sociedad",
+    "type": "trueFalse",
+    "question": "¿Verdadero o falso? El divorcio es legal en España desde 1981.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "La ley del divorcio de 1981 lo volvió a permitir. Ya había existido durante la Segunda República, con una ley de 1932.",
+    "difficulty": 3
+  },
+  {
+    "id": "g-t5-067",
+    "topic": "sociedad",
+    "type": "trueFalse",
+    "question": "Café y tertulia: ¿verdadero o falso? En España está prohibido fumar dentro de los bares y restaurantes.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0,
+    "explanation": "Desde el 2 de enero de 2011, la ley antitabaco prohíbe fumar en los espacios cerrados de uso público, como bares, restaurantes y centros de trabajo.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t5-068",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Ves un quiosco que vende cupones de la ONCE. ¿Qué es la ONCE?",
+    "options": [
+      "La Organización Nacional de Ciegos Españoles",
+      "La Oficina Nacional de Consumo y Empleo",
+      "La Orquesta Nacional de España"
+    ],
+    "answer": 0,
+    "explanation": "La ONCE (Organización Nacional de Ciegos Españoles) se fundó en 1938. Con su cupón da trabajo y servicios a personas ciegas y con otras discapacidades.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t5-069",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Eres de un país de fuera de la UE y ya tienes permiso de residencia. ¿Qué tarjeta acredita que estás legalmente en España?",
+    "options": [
+      "El DNI",
+      "La tarjeta sanitaria individual",
+      "La Tarjeta de Identidad de Extranjero (TIE)"
+    ],
+    "answer": 2,
+    "explanation": "La TIE identifica al extranjero y acredita que está legalmente en España. La piden quienes tienen un visado o una autorización para quedarse más de seis meses, y en ella figura su NIE. El DNI es solo para los españoles.",
+    "difficulty": 2
+  },
+  {
+    "id": "g-t5-070",
+    "topic": "sociedad",
+    "type": "choice",
+    "question": "Pleno verano y fiesta nacional: ¿qué se celebra el 15 de agosto?",
+    "options": ["Santiago Apóstol", "La Inmaculada Concepción", "La Asunción de la Virgen"],
+    "answer": 2,
+    "explanation": "El 15 de agosto, la Asunción de la Virgen, es fiesta nacional. Santiago Apóstol es el 25 de julio y la Inmaculada Concepción, el 8 de diciembre.",
+    "difficulty": 3
+  }
+]
