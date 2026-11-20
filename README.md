@@ -25,7 +25,7 @@ Question sets live in `questions/`, one folder per set. The format is in `src/fe
 
 | Variable | Default | What it does |
 |---|---|---|
-| `VITE_OFFICIAL` | included | `false` leaves the official questions (the Instituto Cervantes manual) out of the build entirely; the official mode then shows "Pendiente". Set it for any public site. |
+| `VITE_OFFICIAL` | included | `false` leaves the official questions (the Instituto Cervantes manual) out of the build entirely; the official mode then shows "Pendiente". Set it for a site that must not carry them. |
 
 ```sh
 VITE_OFFICIAL=false pnpm build   # a build without the official questions
@@ -33,6 +33,6 @@ VITE_OFFICIAL=false pnpm build   # a build without the official questions
 
 ## Test site (GitHub Pages)
 
-`.github/workflows/pages.yml` runs on every push to `main`: it builds with `VITE_OFFICIAL=false`, refuses to publish if anything official is in `dist/`, and deploys it to this repo's GitHub Pages, served at https://kowiste.github.io/route17/. It needs Settings → Pages → Source set to "GitHub Actions"; no secret or token.
+`.github/workflows/pages.yml` runs on every push to `main`: it builds the site with both modes (game and official questions) and deploys it to this repo's GitHub Pages, served at https://kowiste.github.io/route17/. It needs Settings → Pages → Source set to "GitHub Actions"; no secret or token.
 
 See `CLAUDE.md` for the architecture and conventions, `PLAN.md` for the implementation plan.

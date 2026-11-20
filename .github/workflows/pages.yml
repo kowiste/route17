@@ -1,9 +1,7 @@
-# The test site on GitHub Pages: Modo juego only.
+# The site on GitHub Pages: both modes, game and official questions.
 #
-# Built with VITE_OFFICIAL=false, which leaves the official questions (the
-# Instituto Cervantes manual) out of the build; the job refuses to publish if
-# anything official reaches dist/. Deployed to this repo's own Pages, served at
-# https://kowiste.github.io/route17/ (Settings → Pages → Source: GitHub Actions).
+# Deployed to this repo's own Pages, served at https://kowiste.github.io/route17/
+# (Settings → Pages → Source: GitHub Actions).
 
 name: Deploy to GitHub Pages
 
@@ -38,17 +36,7 @@ jobs:
 
       - run: pnpm install --frozen-lockfile
 
-      - name: Build without the official questions
-        run: pnpm build
-        env:
-          VITE_OFFICIAL: 'false'
-
-      - name: Refuse to publish if any official question got into the build
-        run: |
-          if grep -rlE 'o[0-9]{2}-[0-9]+|official-20[0-9]{2}|Manual CCSE' dist; then
-            echo "Official questions found in dist: not publishing."
-            exit 1
-          fi
+      - run: pnpm build
 
       - uses: actions/configure-pages@v5
 
