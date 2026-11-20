@@ -11,10 +11,25 @@ import { questionsFileSchema, setFileSchema } from '../domain/questionFileSchema
 /** Lazy imports of question files, keyed by path from the project root: `/questions/game/set.json`. */
 export type QuestionFileImports = Readonly<Record<string, () => Promise<unknown>>>
 
-/** The real files. Only direct children of a set's folder, as `questionFiles.test.ts` checks. */
-const QUESTION_FILES: QuestionFileImports = import.meta.glob('/questions/*/*.json', {
-  import: 'default',
-})
+/** Every set but the official ones. Only direct children of a set's folder, as `questionFiles.test.ts` checks. */
+const OTHER_SET_FILES: QuestionFileImports = import.meta.glob(
+  ['/questions/*/*.json', '!/questions/official-*/*.json'],
+  { import: 'default' }
+)
+
+/**
+ * The official sets (`official-YYYY`): the Instituto Cervantes manual. A build
+ * with `VITE_OFFICIAL=false` (the public test site) leaves them out entirely:
+ * the value is fixed at build time, so the dead branch and its files are
+ * dropped from the bundle.
+ */
+const OFFICIAL_SET_FILES: QuestionFileImports =
+  import.meta.env.VITE_OFFICIAL === 'false'
+    ? {}
+    : import.meta.glob('/questions/official-*/*.json', { import: 'default' })
+
+/** The real files. */
+const QUESTION_FILES: QuestionFileImports = { ...OTHER_SET_FILES, ...OFFICIAL_SET_FILES }
 
 const SET_FILE = 'set.json'
 const FILE_PATH = /^\/questions\/([^/]+)\/([^/]+\.json)$/

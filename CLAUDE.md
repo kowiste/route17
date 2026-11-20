@@ -42,7 +42,7 @@ TypeScript (strict, `noUncheckedIndexedAccess`) + Vue 3 (`<script setup>`) + Pin
 - The format is `src/features/questions/domain/questionFileSchema.ts`; `src/features/questions/test/questionFiles.test.ts` checks every file. A set is a folder under `questions/` with a `set.json` and one or more question files.
 - A new manual edition is a new folder, `questions/official-YYYY/`; the game plays the newest one.
 - Game questions are original: never copy the manual's wording. Their facts must be exact; leave out facts that change (who holds an office apart from the Crown, populations, seat counts that vary).
-- The official set reproduces the Instituto Cervantes manual: it may only be hosted somewhere private (decided with the hosting).
+- The official set reproduces the Instituto Cervantes manual: it may only be hosted somewhere private, and this repo must stay private. Any public build sets `VITE_OFFICIAL=false`, which leaves the official sets out of the bundle (`questionFileLoader.ts`); the GitHub Pages test site (`.github/workflows/pages.yml`, deployed to this repo's own Pages) does, and its job refuses to publish if anything official reaches `dist/`.
 - The manual PDF goes in `manual/`, which is git-ignored.
 
 ## Look
